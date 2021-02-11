@@ -6,14 +6,14 @@ Ateliers #BlueHats
 - des ateliers organisés à l'initiative des [référents
   SILL](https://disic.github.io/sill/index.html) sur des logiciels
   libres du [SILL](https://sill.etalab.gouv.fr/) ;
-  
+
 - des ateliers organisés par des personnes extérieures pour présenter
   une solution qui figure au [SILL](https://sill.etalab.gouv.fr/) ;
-  
+
 - des ateliers organisés par des agents publics non-référents SILL,
   pour présenter un logiciel libre et son usage dans leur
   administration ;
-  
+
 - des événements plus larges autour de l'utilisation de logiciels
   libres dans l'administration, de la publication de codes sources
   libres par des agents publics ou des contributions faites par
