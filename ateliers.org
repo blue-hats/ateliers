@@ -2,7 +2,6 @@
 
 * 2021
 
-
 ** 9 avril : Quelles motivations pour contribuer à des projets open source ?
    SCHEDULED: <2021-04-09 ven. 11:00-12:30>
 
@@ -17,7 +16,7 @@ from the data processing field »
 ** 26 mars : Atelier sur OW2 Good Governance Initiatve
    SCHEDULED: <2021-03-26 ven. 11:00-12:30>
 
-Présentation de l'[OW2 Good Governance Initiatve][https://www.ow2.org/view/OSS_Governance/].
+Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governance Initiatve]].
 
 - 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
 - Intervention de OW2
@@ -34,11 +33,10 @@ Présentation de l'[OW2 Good Governance Initiatve][https://www.ow2.org/view/OSS_
 ** 12 février : Atelier de découverte de Scenari Opale
    SCHEDULED: <2021-02-12 ven. 11:00-12:30>
 
-[[Opale][https://doc.scenari.software/Opale/fr/]] est un logiciel
-[Scenari][https://scenari.org/] utilisé par nombre d'universités,
-lycées, centres de formations, entreprises, ... qui permet de créer
-collaborativement des documents pédagogiques pour la formation
-présentielle, à distance ou mixte.
+[[https://doc.scenari.software/Opale/fr/][Opale]] est un logiciel [[Scenari][https://scenari.org/]] utilisé par nombre
+d'universités, lycées, centres de formations, entreprises, ... qui
+permet de créer collaborativement des documents pédagogiques pour la
+formation présentielle, à distance ou mixte.
 
 Les documents créés peuvent contenir des ressources multimédia, des
 quiz, des évaluations, et peuvent être générés sous forme de pdf, site
@@ -76,7 +74,7 @@ Apache/Guacamole.
 - Réunion ouverte à tous
 - Projet connexe proposé à la présentation : Apache Guacamole
 
-** 22 janvier : Présentation de [Proxmox][https://proxmox.com]
+** 22 janvier : Présentation de [[https://proxmox.com][Proxmox]]
    SCHEDULED: <2021-01-22 ven. 11:00-12:30>
 
 Proxmox est une plateforme opensource (AGPL v3) de virtualisation
@@ -108,18 +106,14 @@ de suffit pas.
 - De 11h à 12h30 
 - https://visio.incubateur.net/b/bas-vwv-2ww
 
-** 15 janvier : Présentation de [Tuleap][https://www.tuleap.org/fr/], outil de transformation digitale, réalisations agiles et devops ("Application Lifecycle Management")
+** 15 janvier : Présentation de [[https://www.tuleap.org/fr/][Tuleap]], outil de transformation digitale, réalisations agiles et devops ("Application Lifecycle Management")
    SCHEDULED: <2021-01-15 ven. 11:00-12:30>
 
 - Intervention de Sébastien Romanet
 - 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
 - Tout public: présentation ouverte à tous
 
-
-
-
 * 2020
-
 
 ** 18 Décembre : OpenMole, les JDEV et plateforme vidéo "Constellation"
    SCHEDULED: <2020-12-18 ven. 11:00-12:30>
