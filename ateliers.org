@@ -174,7 +174,7 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Réunion ouverte à tous
 - [[https://peertube.xwiki.com/videos/watch/4fa38484-9a98-48c9-a3cd-787331abd9a3][Revoir la session]]
 
-** 23 Octobre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (1/2) (Geotrek/geonature, [Scenari/Opale][https://sill.etalab.gouv.fr/fr/software?id=195]).
+** 23 Octobre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (1/2) (Geotrek/geonature, [[https://sill.etalab.gouv.fr/fr/software?id=195][Scenari/Opale]]).
    SCHEDULED: <2020-10-23 ven. 11:00-12:30>
 
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww]]
