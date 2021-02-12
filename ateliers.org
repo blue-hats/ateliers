@@ -1,9 +1,15 @@
 #+title: Ateliers #BlueHats
 
 * 2021
+  :PROPERTIES:
+  :ID:       cc85b175-39be-4fc5-a6d1-bb04be323b84
+  :END:
 
 ** 9 avril : Quelles motivations pour contribuer à des projets open source ?
    SCHEDULED: <2021-04-09 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       5a2ee054-c175-42f4-ac0f-5505f32cdacd
+   :END:
 
 Présentation de l'article de Nicolas Jullien et Karine Roudaut : « Can
 Open Source projects succeed when the producers are not users? Lessons
@@ -15,6 +21,9 @@ from the data processing field » ([[https://hal.archives-ouvertes.fr/hal-007371
 
 ** 26 mars : Atelier sur OW2 Good Governance Initiatve
    SCHEDULED: <2021-03-26 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       672c9032-1866-4bb9-9daf-71d8de75bebc
+   :END:
 
 Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governance Initiatve]].
 
@@ -24,6 +33,9 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 
 ** 12 mars : Atelier de mise à jour RGPD pour Matomo
    SCHEDULED: <2021-03-12 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       90c8ccda-b47d-461e-998a-fb5a3bdc4f7d
+   :END:
 
 - https://sill.etalab.gouv.fr/fr/software?id=176
 - 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
@@ -32,6 +44,9 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 
 ** 5 mars : Atelier de découverte de Scenari Opale et point SILL
    SCHEDULED: <2021-03-05 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       4e49e5c6-7995-4603-b0fd-08bedbe2e13c
+   :END:
 
 [[https://doc.scenari.software/Opale/fr/][Opale]] est un logiciel [[Scenari][https://scenari.org/]] utilisé par nombre
 d'universités, lycées, centres de formations, entreprises, ... qui
@@ -51,6 +66,9 @@ plateformes LMS.
 
 ** 29 janvier : Atelier de présentation de SambaÉdu
    SCHEDULED: <2021-01-29 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       44df787a-6d5e-4401-a5b1-24c45b31e9cd
+   :END:
 
 SambaÉdu est une solution de serveurs permettant d’administrer un
 annuaire Active Directory, un réseau local de petite ou de très grande
@@ -76,6 +94,9 @@ Apache/Guacamole.
 
 ** 22 janvier : Présentation de [[https://proxmox.com][Proxmox]]
    SCHEDULED: <2021-01-22 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       aca44f43-f34e-4365-b259-a8cdbea20242
+   :END:
 
 Proxmox est une plateforme opensource (AGPL v3) de virtualisation
 alternative à VMWare, HyperV, Xen ... depuis 2008 qui repose sur
@@ -108,15 +129,24 @@ de suffit pas.
 
 ** 15 janvier : Présentation de [[https://www.tuleap.org/fr/][Tuleap]], outil de transformation digitale, réalisations agiles et devops ("Application Lifecycle Management")
    SCHEDULED: <2021-01-15 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       4710fc24-cfd9-4acd-b976-a78f6ff49279
+   :END:
 
 - Intervention de Sébastien Romanet
 - 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
 - Tout public: présentation ouverte à tous
 
 * 2020
+  :PROPERTIES:
+  :ID:       6d722d6f-5406-46ef-aa2f-bbc6c1667f9c
+  :END:
 
 ** 18 Décembre : OpenMole, les JDEV et plateforme vidéo "Constellation"
    SCHEDULED: <2020-12-18 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       d1bd2743-e43a-4606-b985-ed870d315cd3
+   :END:
 
 - Intervention de Nicolas Can sur [[https://sill.etalab.gouv.fr/fr/software?id=210][Esup Pod]]
 - Intervention de Mathieu Leclaire sur le projet et la communauté [[https://github.com/openmole][OpenMole]]
@@ -127,6 +157,9 @@ de suffit pas.
 
 ** 4 Décembre : présentation d'Exodus Privacy
    SCHEDULED: <2020-12-04 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       1533f221-05b5-4a7d-935a-905f34ddcbb9
+   :END:
 
 Le projet [[https://exodus-privacy.eu.org/fr/][exodus privacy]] a pour vocation à analyser les pisteurs que
 l'on peut trouver dans les Apps mobile (android, iOs ce n'est pas
@@ -153,6 +186,9 @@ appel a projet 2020.
 
 ** 27 Novembre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (2/2) (Prodige et Atlasanté)
    SCHEDULED: <2020-11-27 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       64334bf2-8973-4db2-bb23-7ddb6df3ffdd
+   :END:
 
 Atlasante est le système d'information géographique mutualisé des
 ARS. Lancé en 2010, au moment de la création des ARS, il est
@@ -168,6 +204,9 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
   
 ** 20 Novembre : Présentation des fonctionnalités principales d'[[https://sill.etalab.gouv.fr/fr/software?id=214][XWiki]] et de nos adaptations en direct sur une de nos instances de préprod.
    SCHEDULED: <2020-11-20 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       aeb39164-c629-4695-9eb7-94825c12d0db
+   :END:
 
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww]]
 - Pascal BASTIEN (MTES)
@@ -176,6 +215,9 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 
 ** 23 Octobre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (1/2) (Geotrek/geonature, [[https://sill.etalab.gouv.fr/fr/software?id=195][Scenari/Opale]]).
    SCHEDULED: <2020-10-23 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       cfb423db-8872-4662-b2e4-4d430b85957b
+   :END:
 
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww]]
 - Interventions de personnes impliquées dans ces projets
@@ -186,6 +228,9 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 
 ** 9 Octobre : Wébinaire de prise en main de [[https://sill.etalab.gouv.fr/fr/software?id=207][JOSM]]
    SCHEDULED: <2020-10-09 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       be76f51c-1224-495e-8214-711a03a41b5d
+   :END:
 
 - 11h-12h30 sur [[https://meet.jit.si/ateliers-bluehats]]
 - Intervention de Delphine Montagne
@@ -193,6 +238,9 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 
 ** 25 Septembre : Wébinaire : "OpenStreetMap n'est pas qu'une carte, c'est une base de données ouverte"
    SCHEDULED: <2020-09-25 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       bd46d807-3dc2-4440-ab7e-9c3500619820
+   :END:
 
 - 11h-13h sur https://visio.incubateur.net/b/bas-vwv-2ww
     - Pré-requis : création d'un compte sur [[https://www.openstreetmap.org/user/new][OSM]], il y a aura un aspect
@@ -202,6 +250,9 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 
 ** 17 Juillet : Wébinaire [[https://sill.etalab.gouv.fr/fr/software?id=176][Matomo]]
    SCHEDULED: <2020-07-17 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       f894cf92-7ea9-4ce0-acb4-ee94ac338918
+   :END:
 
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww]]
 - Intervention de Ronan Chardonneau
