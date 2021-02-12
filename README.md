@@ -32,15 +32,23 @@ Ateliers #BlueHats
 
 - Tous les autres événements #BlueHats (en visio ou en présentiel)
   sont organisés librement.
+  
+## Comment suivre le calendrier ?
+
+Vous pouvez consulter [cette page
+web](https://box.bzg.io/cloud/index.php/apps/calendar/p/Lt2cGqsFS82mjkWL)
+et suivre les modifications de ce dépôt.
 
 ## Comment proposer un atelier ?
 
 Ce dépôt est ouvert aux contributions.
 
+Vous pouvez [proposer un atelier en ouvrant une issue](https://github.com/blue-hats/ateliers/issues/new?assignees=bzg&labels=Proposition&template=proposition-atelier.md&title=Proposition+%3A+).
+
 Pour chaque atelier (ou événement) vous pouvez indiquer:
 
 - le ou les logiciels libres concernés ;
-- le ou les animateurs (avec email et affiliation) ;
+- le ou les animateurs (et leur affiliation) ;
 - la modalité (visio, durée, etc.) ;
 - l'audience visée (agents publics, tout public, etc.).
 
