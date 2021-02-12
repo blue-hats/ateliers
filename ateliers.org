@@ -30,8 +30,8 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 - Intervention de Ronan Chardonneau
 - Réunion ouverte à tous
 
-** 12 février : Atelier de découverte de Scenari Opale
-   SCHEDULED: <2021-02-12 ven. 11:00-12:30>
+** 5 mars : Atelier de découverte de Scenari Opale et point SILL
+   SCHEDULED: <2021-03-05 ven. 11:00-12:30>
 
 [[https://doc.scenari.software/Opale/fr/][Opale]] est un logiciel [[Scenari][https://scenari.org/]] utilisé par nombre
 d'universités, lycées, centres de formations, entreprises, ... qui
