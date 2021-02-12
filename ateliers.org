@@ -7,10 +7,10 @@
 
 Présentation de l'article de Nicolas Jullien et Karine Roudaut : « Can
 Open Source projects succeed when the producers are not users? Lessons
-from the data processing field »
+from the data processing field » ([[https://hal.archives-ouvertes.fr/hal-00737173][lien sur HAL]]).
 
 - 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
-- Intervention de OW2
+- Intervention de Nicolas Jullien
 - Réunion ouverte à tous
 
 ** 26 mars : Atelier sur OW2 Good Governance Initiatve
