@@ -43,10 +43,10 @@ quiz, des évaluations, et peuvent être générés sous forme de pdf, site
 web, diaporama ou paquet Scorm intégrable dans Moodle ou autres
 plateformes LMS.
 
-- https://doc.scenari.software/Opale/fr/
-- https://scenari.org/
-- 11h-11h45 sur https://visio.incubateur.net/b/bas-vwv-2ww
+- Sur https://visio.incubateur.net/b/bas-vwv-2ww
 - Intervention de Loïc Alejandro, directeur de l'association Scenari
+- 11h-12h pour présenter https://doc.scenari.software/Opale/fr/
+- 12h-12h30 pour aborder les évolutions du SILL
 - Ouverte à tou⋅te⋅s
 
 ** 29 janvier : Atelier de présentation de SambaÉdu
