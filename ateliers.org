@@ -68,10 +68,154 @@ plateformes LMS.
 - 12h-12h30 pour aborder les évolutions du SILL
 - Ouverte à tou⋅te⋅s
 
+** 29 janvier : Atelier de présentation de SambaÉdu
+   SCHEDULED: <2021-01-29 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       44df787a-6d5e-4401-a5b1-24c45b31e9cd
+   :END:
+
+SambaÉdu est une solution de serveurs permettant d’administrer un
+annuaire Active Directory, un réseau local de petite ou de très grande
+ampleur. Cette solution propose un ensemble de services conséquent :
+déploiement automatique de clients Linux/Windows, gestion de salon de
+visioconférence BigBlueButton, prise en main de postes à distance de
+façon sécurisée par l’intermédiaire de Guacamole, affichage dynamique.
+
+Orienté pédagogie, SambaÉdu est déployé dans les écoles, lycées et
+collèges. Cette solution est aussi mise en place dans des CFA, dans
+des centres du secours populaire, dans des pépinières d’entreprises et
+des FabLab.
+
+Éric Mercier (ac-versailles) fera la présentation de SambaÉdu puis
+Denis Bonnenfant (ac-paris) présentera ensuite le projet "connexe"
+Apache/Guacamole.
+
+- 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
+- Intervention de Eric Mercier (Académie de Versailles) et Denis
+  Bonnenfant (Académie de Paris)
+- Réunion ouverte à tous
+- Projet connexe proposé à la présentation : Apache Guacamole
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1611914312376][Revoir la session]]
+** 22 janvier : Présentation de [[https://proxmox.com][Proxmox]]
+   SCHEDULED: <2021-01-22 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       aca44f43-f34e-4365-b259-a8cdbea20242
+   :END:
+
+Proxmox est une plateforme opensource (AGPL v3) de virtualisation
+alternative à VMWare, HyperV, Xen ... depuis 2008 qui repose sur
+Debian. Elle permet la virtualisation de serveurs (machines virtuelles
+KVM et containers LXC) mais aussi du réseau (VLan, Nat, agrégation de
+ports, switchs virtuels, ...) et du stockage (LVM, ZFS mais aussi
+iScsi, Ceph, NFS, CIFS, RBD, ...) la portant ainsi à une solution
+d'hyperconvergence.
+
+Une interface web permet de gérer facilement la haute disponibilité
+(en miroir à 2 hosts ou en cluster à partir de 3 hosts), les
+transferts de machines entre hosts à chaud, et tout le paramétrage.
+
+Etant opensource, Proxmox n'impose pas les contraintes matérielles
+(notamment sur le stockage ou le réseau) des solutions propriétaires
+et permet des architectures ouvertes et peu dépendantes du matériel.
+
+Son API lui permet également d'être pilotée facilement par un outil
+d'orchestration externe et son export des données de performance natif
+(InfluxDB) permet de créer des tableaux de bord (par exemple avec
+Grafana) ou de le connecter facilement à un système de supervision.
+
+Un service d'assistance/support payant est disponible si la communauté
+de suffit pas.
+
+- Intervention de Pierre-Yves Fraisse
+- Ouverte à tous
+- De 11h à 12h30
+- https://visio.incubateur.net/b/bas-vwv-2ww
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1610704351524][Revoir la session]] : la présentation Proxmox commence à partir de 93 minutes
+** 15 janvier : Présentation de [[https://www.tuleap.org/fr/][Tuleap]], outil de transformation digitale, réalisations agiles et devops ("Application Lifecycle Management")
+   SCHEDULED: <2021-01-15 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       4710fc24-cfd9-4acd-b976-a78f6ff49279
+   :END:
+
+- Intervention de Sébastien Romanet
+- 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
+- Tout public: présentation ouverte à tous
+
 * 2020
   :PROPERTIES:
   :ID:       6d722d6f-5406-46ef-aa2f-bbc6c1667f9c
   :END:
+
+** 18 Décembre : OpenMole, les JDEV et plateforme vidéo "Constellation"
+   SCHEDULED: <2020-12-18 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       d1bd2743-e43a-4606-b985-ed870d315cd3
+   :END:
+
+- Intervention de Nicolas Can sur [[https://sill.etalab.gouv.fr/fr/software?id=210][Esup Pod]]
+- Intervention de Mathieu Leclaire sur le projet et la communauté [[https://github.com/openmole][OpenMole]]
+- Intervention de Pascal Dayre sur Constellation (présenté au JDEV)
+- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww]]
+- Tout public: présentation générale
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1608285535731][Revoir la session]]
+
+** 4 Décembre : présentation d'Exodus Privacy
+   SCHEDULED: <2020-12-04 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       1533f221-05b5-4a7d-935a-905f34ddcbb9
+   :END:
+
+Le projet [[https://exodus-privacy.eu.org/fr/][exodus privacy]] a pour vocation à analyser les pisteurs que
+l'on peut trouver dans les Apps mobile (android, iOs ce n'est pas
+possible pour des raisons légales), et consulter [[https://reports.exodus-privacy.eu.org/fr/][les rapports en ligne]]
+mais aussi via une application sur [[votre mobile]] qui vous permettra
+d'avoir un rapport détaillé des apps de votre mobile.
+
+Le MENJS est en relation depuis un peu plus d'un an avec l'association
+exodus privacy afin d'avoir une instance MENJS d'exodus pour que les
+enseignants et personnels administratifs puissent faire analyser les
+apps non présente dans les store google et fdroid, notamment les apk
+achété par les collectivités et établissements scolaire.
+
+Le service exodus peut être relié a [[https://fr.wikipedia.org/wiki/Mobile_device_management][un MDM]] (logiciel de gestion de
+flotte) afin de comparait via les API exodus/MDM les traceurs et les
+apps proposé ou installé sur les mobiles
+
+L'association Exodus a été retenu par la [[https://www.fondation-afnic.fr/fr/Telechargement.htm?path=files%2Fpdf%2Ffront&folder=content&file=liste_laureats_2020.pdf][fondation AFNIC]] lors de son
+appel a projet 2020.
+
+- 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
+- Interventions de l'association Exodus
+- Tout public : présentation générale
+
+** 27 Novembre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (2/2) (Prodige et Atlasanté)
+   SCHEDULED: <2020-11-27 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       64334bf2-8973-4db2-bb23-7ddb6df3ffdd
+   :END:
+
+Atlasante est le système d'information géographique mutualisé des
+ARS. Lancé en 2010, au moment de la création des ARS, il est
+aujourd'hui le support d'une trentaine de projets métiers : Ambroisie,
+DAE, légionellose, Eau potable, Cartosanté, entre autres.  C'est aussi
+un annuaire de données et de services d'accès aux données utiles au
+domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
+
+- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww]]
+- Interventions de personnes impliquées dans ces projets
+- Tout public : présentation générale
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1606471273893][Revoir la session]]
+
+** 20 Novembre : Présentation des fonctionnalités principales d'[[https://sill.etalab.gouv.fr/fr/software?id=214][XWiki]] et de nos adaptations en direct sur une de nos instances de préprod.
+   SCHEDULED: <2020-11-20 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       aeb39164-c629-4695-9eb7-94825c12d0db
+   :END:
+
+- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww]]
+- Pascal BASTIEN (MTES)
+- Réunion ouverte à tous
+- [[https://peertube.xwiki.com/videos/watch/4fa38484-9a98-48c9-a3cd-787331abd9a3][Revoir la session]]
 
 ** 23 Octobre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (1/2) (Geotrek/geonature, [[https://sill.etalab.gouv.fr/fr/software?id=195][Scenari/Opale]]).
    SCHEDULED: <2020-10-23 ven. 11:00-12:30>
@@ -118,5 +262,3 @@ plateformes LMS.
 - Intervention de Ronan Chardonneau
 - Réunion ouverte à tous
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1594976319282][Revoir la session]]
-
-
