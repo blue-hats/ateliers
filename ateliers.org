@@ -5,6 +5,16 @@
   :ID:       cc85b175-39be-4fc5-a6d1-bb04be323b84
   :END:
 
+** 16 avril : Présentation de [[https://cozy.io/fr/][Cozy Cloud]]
+   SCHEDULED: <2021-04-16 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       45e0b1b5-b14b-46e6-a80d-762a5cb06588
+   :END:
+
+- 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
+- 11h-12h30 : Interventions à définir
+- Réunion ouverte à tous
+
 ** 9 avril : Quelles motivations pour contribuer à des projets open source ?
    SCHEDULED: <2021-04-09 ven. 11:00-12:30>
    :PROPERTIES:
