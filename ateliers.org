@@ -1,4 +1,5 @@
 #+title: Ateliers #BlueHats
+#+category: BLH
 
 * 2021
   :PROPERTIES:
@@ -88,7 +89,7 @@ plateformes LMS.
 - 12h-12h30 pour aborder les évolutions du SILL
 - Ouverte à tou⋅te⋅s
 
-** 29 janvier : Atelier de présentation de SambaÉdu
+** DONE 29 janvier : Atelier de présentation de SambaÉdu
    SCHEDULED: <2021-01-29 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       44df787a-6d5e-4401-a5b1-24c45b31e9cd
@@ -116,7 +117,7 @@ Apache/Guacamole.
 - Réunion ouverte à tous
 - Projet connexe proposé à la présentation : Apache Guacamole
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1611914312376][Revoir la session]]
-** 22 janvier : Présentation de [[https://proxmox.com][Proxmox]]
+** DONE 22 janvier : Présentation de [[https://proxmox.com][Proxmox]]
    SCHEDULED: <2021-01-22 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       aca44f43-f34e-4365-b259-a8cdbea20242
@@ -151,7 +152,7 @@ de suffit pas.
 - De 11h à 12h30
 - https://visio.incubateur.net/b/bas-vwv-2ww
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1610704351524][Revoir la session]] : la présentation Proxmox commence à partir de 93 minutes
-** 15 janvier : Présentation de [[https://www.tuleap.org/fr/][Tuleap]], outil de transformation digitale, réalisations agiles et devops ("Application Lifecycle Management")
+** DONE 15 janvier : Présentation de [[https://www.tuleap.org/fr/][Tuleap]], outil de transformation digitale, réalisations agiles et devops ("Application Lifecycle Management")
    SCHEDULED: <2021-01-15 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       4710fc24-cfd9-4acd-b976-a78f6ff49279
@@ -166,7 +167,7 @@ de suffit pas.
   :ID:       6d722d6f-5406-46ef-aa2f-bbc6c1667f9c
   :END:
 
-** 18 Décembre : OpenMole, les JDEV et plateforme vidéo "Constellation"
+** DONE 18 Décembre : OpenMole, les JDEV et plateforme vidéo "Constellation"
    SCHEDULED: <2020-12-18 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       d1bd2743-e43a-4606-b985-ed870d315cd3
@@ -179,7 +180,7 @@ de suffit pas.
 - Tout public: présentation générale
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1608285535731][Revoir la session]]
 
-** 4 Décembre : présentation d'Exodus Privacy
+** DONE 4 Décembre : présentation d'Exodus Privacy
    SCHEDULED: <2020-12-04 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       1533f221-05b5-4a7d-935a-905f34ddcbb9
@@ -208,7 +209,7 @@ appel a projet 2020.
 - Interventions de l'association Exodus
 - Tout public : présentation générale
 
-** 27 Novembre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (2/2) (Prodige et Atlasanté)
+** DONE 27 Novembre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (2/2) (Prodige et Atlasanté)
    SCHEDULED: <2020-11-27 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       64334bf2-8973-4db2-bb23-7ddb6df3ffdd
@@ -226,7 +227,7 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Tout public : présentation générale
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1606471273893][Revoir la session]]
 
-** 20 Novembre : Présentation des fonctionnalités principales d'[[https://sill.etalab.gouv.fr/fr/software?id=214][XWiki]] et de nos adaptations en direct sur une de nos instances de préprod.
+** DONE 20 Novembre : Présentation des fonctionnalités principales d'[[https://sill.etalab.gouv.fr/fr/software?id=214][XWiki]] et de nos adaptations en direct sur une de nos instances de préprod.
    SCHEDULED: <2020-11-20 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       aeb39164-c629-4695-9eb7-94825c12d0db
@@ -237,7 +238,7 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Réunion ouverte à tous
 - [[https://peertube.xwiki.com/videos/watch/4fa38484-9a98-48c9-a3cd-787331abd9a3][Revoir la session]]
 
-** 23 Octobre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (1/2) (Geotrek/geonature, [[https://sill.etalab.gouv.fr/fr/software?id=195][Scenari/Opale]]).
+** DONE 23 Octobre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (1/2) (Geotrek/geonature, [[https://sill.etalab.gouv.fr/fr/software?id=195][Scenari/Opale]]).
    SCHEDULED: <2020-10-23 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       cfb423db-8872-4662-b2e4-4d430b85957b
@@ -250,7 +251,7 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Revoir [[https://aperi.tube/videos/watch/3f1eec26-ad4c-44bf-8fe8-207e53d8a50e][la présentation Geotrek via une instance Peertube]]
 - Revoir [[https://aperi.tube/videos/watch/aa02b688-6622-430d-a6b2-394b5e47a365][la présentation Scenari via une instance Peertube]]
 
-** 9 Octobre : Wébinaire de prise en main de [[https://sill.etalab.gouv.fr/fr/software?id=207][JOSM]]
+** DONE 9 Octobre : Wébinaire de prise en main de [[https://sill.etalab.gouv.fr/fr/software?id=207][JOSM]]
    SCHEDULED: <2020-10-09 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       be76f51c-1224-495e-8214-711a03a41b5d
@@ -260,7 +261,7 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Intervention de Delphine Montagne
 - Tout public : présentation générale
 
-** 25 Septembre : Wébinaire : "OpenStreetMap n'est pas qu'une carte, c'est une base de données ouverte"
+** DONE 25 Septembre : Wébinaire : "OpenStreetMap n'est pas qu'une carte, c'est une base de données ouverte"
    SCHEDULED: <2020-09-25 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       bd46d807-3dc2-4440-ab7e-9c3500619820
@@ -272,7 +273,7 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Intervention de Delphine Montagne
 - Réunion ouverte à tous
 
-** 17 Juillet : Wébinaire [[https://sill.etalab.gouv.fr/fr/software?id=176][Matomo]]
+** DONE 17 Juillet : Wébinaire [[https://sill.etalab.gouv.fr/fr/software?id=176][Matomo]]
    SCHEDULED: <2020-07-17 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       f894cf92-7ea9-4ce0-acb4-ee94ac338918
