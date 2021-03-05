@@ -73,10 +73,10 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
    :ID:       4e49e5c6-7995-4603-b0fd-08bedbe2e13c
    :END:
 
-[[https://doc.scenari.software/Opale/fr/][Opale]] est un logiciel [[Scenari][https://scenari.org/]] utilisé par nombre
-d'universités, lycées, centres de formations, entreprises, ... qui
-permet de créer collaborativement des documents pédagogiques pour la
-formation présentielle, à distance ou mixte.
+[[https://doc.scenari.software/Opale/fr/][Opale]] est un logiciel [[https://scenari.org/][Scenari]] utilisé par nombre d'universités,
+lycées, centres de formations, entreprises, etc. qui permet de créer
+collaborativement des documents pédagogiques pour la formation
+présentielle, à distance ou mixte.
 
 Les documents créés peuvent contenir des ressources multimédia, des
 quiz, des évaluations, et peuvent être générés sous forme de pdf, site
@@ -88,6 +88,8 @@ plateformes LMS.
 - 11h-12h pour présenter https://doc.scenari.software/Opale/fr/
 - 12h-12h30 pour aborder les évolutions du SILL
 - Ouverte à tou⋅te⋅s
+- [[https://scenari.org/presentations/Opale/presDemoOpale_gen_sldHtml.zip][Support de présentation]]
+- [[https://scenari.org/presentations/Opale/presDemoOpale_2021-03-05.scar][Sources du support de présentation]] (format Scenari Optim)
 
 ** DONE 29 janvier : Atelier de présentation de SambaÉdu
    SCHEDULED: <2021-01-29 ven. 11:00-12:30>
