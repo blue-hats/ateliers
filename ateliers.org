@@ -85,7 +85,7 @@ plateformes LMS.
 
 - Sur https://visio.incubateur.net/b/bas-vwv-2ww
 - Intervention de Loïc Alejandro, directeur de l'association Scenari
-- 11h-12h pour présenter https://doc.scenari.software/Opale/fr/
+- 11h-12h pour présenter [[https://doc.scenari.software/Opale/fr/][Scenari Opale]]
 - 12h-12h30 pour aborder les évolutions du SILL
 - Ouverte à tou⋅te⋅s
 - [[https://scenari.org/presentations/Opale/presDemoOpale_gen_sldHtml.zip][Support de présentation]]
