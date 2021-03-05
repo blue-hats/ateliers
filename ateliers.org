@@ -44,7 +44,7 @@ de recherche au Laboratoire d'Informatique Gaspard-Monge (LIGM).
 - 11h45-12h30 : Intervention de Teresa Gomez-Diaz
 - Réunion ouverte à tous
 
-** 26 mars : Atelier sur OW2 Good Governance Initiatve
+** 26 mars : Atelier sur OW2 Good Governance Initiative
    SCHEDULED: <2021-03-26 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       672c9032-1866-4bb9-9daf-71d8de75bebc
