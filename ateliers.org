@@ -67,7 +67,7 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 - Intervention de Ronan Chardonneau
 - Réunion ouverte à tous
 
-** 5 mars : Atelier de découverte de Scenari Opale et point SILL
+** DONE 5 mars : Atelier de découverte de Scenari Opale et point SILL
    SCHEDULED: <2021-03-05 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       4e49e5c6-7995-4603-b0fd-08bedbe2e13c
