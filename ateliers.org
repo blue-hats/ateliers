@@ -152,6 +152,8 @@ de suffit pas.
 - De 11h à 12h30
 - https://visio.incubateur.net/b/bas-vwv-2ww
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1610704351524][Revoir la session]] : la présentation Proxmox commence à partir de 93 minutes
+- [[https://cloud.telecomste.fr/index.php/s/d56yxfDtFjkHYWz][Télécharger la présentation]]
+
 ** DONE 15 janvier : Présentation de [[https://www.tuleap.org/fr/][Tuleap]], outil de transformation digitale, réalisations agiles et devops ("Application Lifecycle Management")
    SCHEDULED: <2021-01-15 ven. 11:00-12:30>
    :PROPERTIES:
