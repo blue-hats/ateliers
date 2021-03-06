@@ -7,7 +7,7 @@
   :END:
 
 ** 21 mai : Présentation du framework [[https://plotly.com/dash/][Dash]] (Plotly.js, React et Flask)
-   SCHEDULED: <2021-04-21 mer. 11:00-12:30>
+   SCHEDULED: <2021-05-21 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       e1e9a070-7c35-448e-9c61-bfb7c66e4e1b
    :END:
@@ -90,6 +90,7 @@ plateformes LMS.
 - Ouverte à tou⋅te⋅s
 - [[https://scenari.org/presentations/Opale/presDemoOpale_gen_sldHtml.zip][Support de présentation]]
 - [[https://scenari.org/presentations/Opale/presDemoOpale_2021-03-05.scar][Sources du support de présentation]] (format Scenari Optim)
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1614938355081][Revoir la session]]
 
 ** DONE 29 janvier : Atelier de présentation de SambaÉdu
    SCHEDULED: <2021-01-29 ven. 11:00-12:30>
@@ -119,6 +120,7 @@ Apache/Guacamole.
 - Réunion ouverte à tous
 - Projet connexe proposé à la présentation : Apache Guacamole
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1611914312376][Revoir la session]]
+
 ** DONE 22 janvier : Présentation de [[https://proxmox.com][Proxmox]]
    SCHEDULED: <2021-01-22 ven. 11:00-12:30>
    :PROPERTIES:
