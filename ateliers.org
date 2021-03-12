@@ -6,7 +6,7 @@
   :ID:       cc85b175-39be-4fc5-a6d1-bb04be323b84
   :END:
 
-** 21 mai : Présentation du framework [[https://plotly.com/dash/][Dash]] (Plotly.js, React et Flask)
+** 4 juin : Présentation du framework [[https://plotly.com/dash/][Dash]] (Plotly.js, React et Flask)
    SCHEDULED: <2021-06-04 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       e1e9a070-7c35-448e-9c61-bfb7c66e4e1b
