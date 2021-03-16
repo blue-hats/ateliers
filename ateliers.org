@@ -56,7 +56,7 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 - Intervention de OW2
 - Réunion ouverte à tous
 
-** 12 mars : Atelier de mise à jour RGPD pour Matomo
+** DONE 12 mars : Atelier de mise à jour RGPD pour Matomo
    SCHEDULED: <2021-03-12 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       90c8ccda-b47d-461e-998a-fb5a3bdc4f7d
@@ -66,6 +66,7 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 - 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
 - Intervention de Ronan Chardonneau
 - Réunion ouverte à tous
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1615543095738][Revoir la session]]
 
 ** DONE 5 mars : Atelier de découverte de Scenari Opale et point SILL
    SCHEDULED: <2021-03-05 ven. 11:00-12:30>
