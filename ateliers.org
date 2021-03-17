@@ -39,7 +39,7 @@ sélection d'articles et de ressources]] à lire en amont.
 
 Intervention de Teresa Gomez-Diaz sur la production de logiciel libre
 de recherche au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire
-le détail et les éléments de bibliographie.
+une [[file:~/.etalab/git/ateliers/details/2021-04-09.org][description détaillée]] avec une bibliographie.
 
 - 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
 - 11h-11h45 : Intervention de Nicolas Jullien
