@@ -1,0 +1,43 @@
+#+title: Sur la production de logiciels libres au Laboratoire d’Informatique Gaspard-Monge (LIGM)
+
+Nous présenterons l'expérience de productions des logiciels de la
+recherche au Laboratoire d'informatique Gaspard-Monge, dont plus de
+80% sont diffusés sous licence libre [1].  Depuis 2006 le laboratoire
+mène une politique qui favorise la visibilité de cette production,
+avec l'amélioration des pratiques de diffusion et la réalisation et
+maintenance d'un catalogue.
+
+Le concept de "logiciel d'un laboratoire" [1,2,5], que nous avons
+proposé initiallement en 2006 a évolué vers le concept de logiciel de
+la recherche, comme la traduction du terme anglais research software,
+mais aussi pour mieux faire le parallèle avec les évolutions récentes
+du paysage scientifique liées aux données de la recherche.
+
+Il s'agît d'un concept central pour les infrastructures et les
+services [3,4] qui sont actuellement en construction dans le cadre des
+évolutions de la Science Ouverte [3], dont l'objectif est de rendre
+les productions scientifiques visibles, accessibles et réutilizables.
+Il est également un concept central dans la proposition des protocoles
+d'évaluation de cette production scientifique [5].
+
+[1] T. Gomez-Diaz (2013) Patrimoine logiciel des laboratoires
+https://hal.archives-ouvertes.fr/cel-01804283
+
+[2] T. Gomez-Diaz (2015) Article vs. Logiciel : questions juridiques
+et de politique scientifique dans la production de logiciels
+http://www.societe-informatique-de-france.fr/wp-content/uploads/2015/04/1024-5-gomez-diaz.pdf
+
+[3] T. Gomez-Diaz, T. Recio (2020) Towards an Open Science definition
+as a political and legal framework: on the sharing and dissemination
+of research outputs POLIS N. 19, 2020,
+http://uet.edu.al/polis/images/1.pdf V3 du 28/02/2021 :
+https://zenodo.org/record/4577066
+
+[4] T. Gomez-Diaz, T. Recio (2020) Open comments on the Task Force
+SIRS report: Scholarly Infrastructures for Research Software, Research
+Ideas and Outcomes (RIO) 7: e63872,
+https://doi.org/10.3897/rio.7.e63872
+
+[5] T. Gomez-Diaz, T. Recio (2019) On the evaluation of research
+software: the CDUR procedure
+https://doi.org/10.12688/f1000research.19994.2

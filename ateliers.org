@@ -34,10 +34,12 @@
 
 Présentation de l'article de Nicolas Jullien et Karine Roudaut : « Can
 Open Source projects succeed when the producers are not users? Lessons
-from the data processing field » ([[https://hal.archives-ouvertes.fr/hal-00737173][lien sur HAL]]).
+from the data processing field » ([[https://hal.archives-ouvertes.fr/hal-00737173][lien sur HAL]]).  Télécharger [[https://box.bzg.io/cloud/index.php/s/5wiMKnArmxnDKw5][une
+sélection d'articles et de ressources]] à lire en amont.
 
 Intervention de Teresa Gomez-Diaz sur la production de logiciel libre
-de recherche au Laboratoire d'Informatique Gaspard-Monge (LIGM).
+de recherche au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire
+le détail et les éléments de bibliographie.
 
 - 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
 - 11h-11h45 : Intervention de Nicolas Jullien
