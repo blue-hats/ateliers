@@ -1,5 +1,8 @@
 #+title: Sur la production de logiciels libres au Laboratoire d’Informatique Gaspard-Monge (LIGM)
 
+/Description détaillée de l'intervention de T. Gomez-Diaz le 9 avril
+lors de l'atelier BlueHats./
+
 Nous présenterons l'expérience de productions des logiciels de la
 recherche au Laboratoire d'informatique Gaspard-Monge, dont plus de
 80% sont diffusés sous licence libre [1].  Depuis 2006 le laboratoire
