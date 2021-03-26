@@ -66,7 +66,7 @@ libres au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire une
 - 11h45-12h30 : Intervention de Teresa Gomez-Diaz
 - Réunion ouverte à tous
 
-** 26 mars : Atelier sur OW2 Good Governance Initiative
+** DONE 26 mars : Atelier sur OW2 Good Governance Initiative
    SCHEDULED: <2021-03-26 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       672c9032-1866-4bb9-9daf-71d8de75bebc
@@ -75,8 +75,15 @@ libres au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire une
 Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governance Initiatve]].
 
 - 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
-- Intervention de OW2
+- Intervention de Cédric Thomas ([[https://www.ow2.org/][OW2]])
 - Réunion ouverte à tous
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1616753194273][Revoir la session]]
+
+# lien participants :
+# https://visio-agents.education.fr/meeting/signin/9426/creator/1/hash/29234ca28920f9adae3cecad34452fcaf5f815d0
+
+# lien modérateur 
+# https://visio-agents.education.fr/meeting/signin/9426/creator/1/hash/64a8b975ba612b12b0eefbca72ffc12ff76d651a
 
 ** DONE 12 mars : Atelier de mise à jour RGPD pour Matomo
    SCHEDULED: <2021-03-12 ven. 11:00-12:30>
