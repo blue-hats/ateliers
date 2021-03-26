@@ -77,6 +77,7 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 - 11h-12h30 sur https://visio.incubateur.net/b/bas-vwv-2ww
 - Intervention de Cédric Thomas ([[https://www.ow2.org/][OW2]])
 - Réunion ouverte à tous
+- [[https://www.ow2.org/download/OSS_Governance/WebHome/2103-OW2-Good-Governance-initiative-Intro-en?rev=1.1][Support de présentation]]
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1616753194273][Revoir la session]]
 
 # lien participants :
