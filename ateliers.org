@@ -36,14 +36,16 @@
 - 11h-12h30 : Interventions de Lionel Laské
 - Réunion ouverte à tous
 
-** 16 avril : Présentation de [[https://cozy.io/fr/][Cozy Cloud]]
+** 16 avril : Présentation de cas d'usage de [[https://cozy.io/fr/][Cozy Cloud]]
    SCHEDULED: <2021-04-16 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       45e0b1b5-b14b-46e6-a80d-762a5cb06588
    :END:
 
 - 11h-12h30 sur [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][webinaire.numerique.gouv.fr]]
-- 11h-12h30 : Interventions d'Olivier Adam ([[https://oadam-drive.mytoutatice.cloud/public?sharecode=ADMBoi4ncJkZ#/][Toutatice]]) et de Benjamin André ([[https://cozy.io/fr/][cozy.io]])
+- 11h-11h45 : Interventions d'Olivier Adam ([[https://oadam-drive.mytoutatice.cloud/public?sharecode=ADMBoi4ncJkZ#/][Toutatice]])
+- 11h45-12h30 : Intervention de Maria-Inés Leal (Grand Lyon)
+- Avec la participation de Benjamin André ([[https://cozy.io/fr/][cozy.io]])
 - Réunion ouverte à tous
 
 ** 9 avril : Quelles motivations pour contribuer à des projets open source ?
