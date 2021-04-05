@@ -12,7 +12,7 @@
    :ID:       dae12145-64fe-47b0-b17f-eeb2129ce406
    :END:
 
-- 11h-12h30 sur [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][webinaire.numerique.gouv.fr]] 
+- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-12h30 : Interventions de Nicolas Schont (MENJ) et Luc Bourdot (MENJ)
 - Réunion ouverte à tous
 
@@ -22,7 +22,7 @@
    :ID:       e1e9a070-7c35-448e-9c61-bfb7c66e4e1b
    :END:
 
-- 11h-12h30 sur [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][webinaire.numerique.gouv.fr]] 
+- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-12h30 : Interventions de Line Rahal (ANSM), Antoine Biard (HAS), Rémi Delbouys (Envinorma)
 - Réunion ouverte à tous
 
@@ -32,7 +32,7 @@
    :ID:       f1124183-8b96-44a1-bb18-48016702f46b
    :END:
 
-- 11h-12h30 sur [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][webinaire.numerique.gouv.fr]] 
+- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-12h30 : Interventions de Lionel Laské
 - Réunion ouverte à tous
 
@@ -42,7 +42,7 @@
    :ID:       45e0b1b5-b14b-46e6-a80d-762a5cb06588
    :END:
 
-- 11h-12h30 sur [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][webinaire.numerique.gouv.fr]]
+- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-11h45 : Interventions d'Olivier Adam ([[https://oadam-drive.mytoutatice.cloud/public?sharecode=ADMBoi4ncJkZ#/][Toutatice]])
 - 11h45-12h30 : Intervention de Maria-Inés Leal (Grand Lyon)
 - Avec la participation de Benjamin André ([[https://cozy.io/fr/][cozy.io]])
@@ -63,7 +63,7 @@ Intervention de Teresa Gomez-Diaz sur la production de logiciels
 libres au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire une
 [[file:details/2021-04-09.org][description détaillée]] avec une bibliographie.
 
-- 11h-12h30 sur [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][webinaire.numerique.gouv.fr]]
+- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-11h45 : Intervention de Nicolas Jullien ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
 - 11h45-12h30 : Intervention de Teresa Gomez-Diaz
 - Réunion ouverte à tous
