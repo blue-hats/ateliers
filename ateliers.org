@@ -64,8 +64,8 @@ libres au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire une
 [[file:details/2021-04-09.org][description détaillée]] avec une bibliographie.
 
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
-- 11h-11h45 : Intervention de Nicolas Jullien ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
-- 11h45-12h30 : Intervention de Teresa Gomez-Diaz
+- 11h-11h45 : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
+- 11h45-12h30 : Intervention de [[http://igm.univ-mlv.fr/~teresa/][Teresa Gomez-Diaz]]
 - Réunion ouverte à tous
 
 ** DONE 26 mars : Atelier sur OW2 Good Governance Initiative
