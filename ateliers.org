@@ -48,7 +48,7 @@
 - Avec la participation de Benjamin André ([[https://cozy.io/fr/][cozy.io]])
 - Réunion ouverte à tous
 
-** 9 avril : Quelles motivations pour contribuer à des projets open source ?
+** DONE 9 avril : Quelles motivations pour contribuer à des projets open source ?
    <2021-04-09 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       5a2ee054-c175-42f4-ac0f-5505f32cdacd
@@ -66,6 +66,7 @@ libres au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire une
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-11h45 : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
 - 11h45-12h30 : Intervention de [[http://igm.univ-mlv.fr/~teresa/][Teresa Gomez-Diaz]] ([[http://igm.univ-mlv.fr/~teresa/logicielsLIGM/documents/Seminaires/2021avrilBlueHats_TGD.pdf][présentation]])
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1617958857944][Revoir la session]]
 - Réunion ouverte à tous
 
 ** DONE 26 mars : Atelier sur OW2 Good Governance Initiative
