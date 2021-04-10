@@ -1,6 +1,8 @@
 Ateliers #BlueHats
 ======
 
+![Logo BlueHats](https://www.numerique.gouv.fr/uploads/Visuel_article_Rejoignez%20la%20communaut%C3%A9%20Bluehats.jpg)
+
 ## Que sont les « ateliers #BlueHats » ?
 
 - des ateliers organisés à l'initiative des [référents
@@ -38,6 +40,10 @@ Ateliers #BlueHats
 Vous pouvez consulter [cette page
 web](https://box.bzg.io/cloud/index.php/apps/calendar/p/Lt2cGqsFS82mjkWL)
 et suivre les modifications de ce dépôt.
+
+Vous pouvez aussi [vous abonner à la gazette
+BlueHats](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio)
+où sont annoncés les ateliers.
 
 ## Comment proposer un atelier ?
 
