@@ -6,7 +6,25 @@
   :ID:       cc85b175-39be-4fc5-a6d1-bb04be323b84
   :END:
 
+** 25 juin : Quelles motivations pour contribuer à des projets open source ? (suite)
+   :PROPERTIES:
+   :ID:       17879e63-7c5f-482f-816a-d8bf8944526c
+   :END:
+   <2021-06-25 ven. 11:00-12:30>
+
+Suite de la présentation de Nicolas Jullien du 9 avril.  Vous pouvez
+consulter l'[[https://hal.archives-ouvertes.fr/hal-00737173][article]] à l'origine de la présentation et télécharger [[https://box.bzg.io/cloud/index.php/s/5wiMKnArmxnDKw5][une
+sélection d'articles et de ressources]] associées.
+
+- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
+- 11h-11h45 : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
+- 11h45-12h30 : ...
+- Réunion ouverte à tous
+
 ** 11 juin : Présentation du pôle EOLE et de www.mim-libre.fr
+   :PROPERTIES:
+   :ID:       da718b73-3c72-45d8-b482-237c0569cee2
+   :END:
    <2021-06-11 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       dae12145-64fe-47b0-b17f-eeb2129ce406
@@ -17,6 +35,9 @@
 - Réunion ouverte à tous
 
 ** 4 juin : Présentation du framework [[https://plotly.com/dash/][Dash]] (Plotly.js, React et Flask)
+   :PROPERTIES:
+   :ID:       e88cd4ff-20a9-42d4-86f3-9a82587bc326
+   :END:
    <2021-06-04 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       e1e9a070-7c35-448e-9c61-bfb7c66e4e1b
@@ -27,6 +48,9 @@
 - Réunion ouverte à tous
 
 ** 21 mai : Votre première contribution à un projet open source
+   :PROPERTIES:
+   :ID:       a4016ee7-1164-4e1b-855e-622e9e4f60a0
+   :END:
    <2021-05-21 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       f1124183-8b96-44a1-bb18-48016702f46b
@@ -37,6 +61,9 @@
 - Réunion ouverte à tous
 
 ** 16 avril : Présentation de cas d'usage de [[https://cozy.io/fr/][Cozy Cloud]]
+   :PROPERTIES:
+   :ID:       37d239a9-9a2a-473a-94bd-f478604599bb
+   :END:
    <2021-04-16 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       45e0b1b5-b14b-46e6-a80d-762a5cb06588
@@ -49,6 +76,9 @@
 - Réunion ouverte à tous
 
 ** DONE 9 avril : Quelles motivations pour contribuer à des projets open source ?
+   :PROPERTIES:
+   :ID:       451a30e6-6ca8-4882-ab6e-a7ebf14332fd
+   :END:
    <2021-04-09 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       5a2ee054-c175-42f4-ac0f-5505f32cdacd
@@ -70,6 +100,9 @@ libres au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire une
 - Réunion ouverte à tous
 
 ** DONE 26 mars : Atelier sur OW2 Good Governance Initiative
+   :PROPERTIES:
+   :ID:       eba34397-c437-4d58-baf5-ae4701a6aeff
+   :END:
    <2021-03-26 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       672c9032-1866-4bb9-9daf-71d8de75bebc
@@ -90,6 +123,9 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 # https://visio-agents.education.fr/meeting/signin/9426/creator/1/hash/64a8b975ba612b12b0eefbca72ffc12ff76d651a
 
 ** DONE 12 mars : Atelier de mise à jour RGPD pour Matomo
+   :PROPERTIES:
+   :ID:       a3db5e45-7397-4efc-a8ba-b7a77904d3ae
+   :END:
    <2021-03-12 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       90c8ccda-b47d-461e-998a-fb5a3bdc4f7d
@@ -102,6 +138,9 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1615543095738][Revoir la session]]
 
 ** DONE 5 mars : Atelier de découverte de Scenari Opale et point SILL
+   :PROPERTIES:
+   :ID:       74293f32-b5d2-4eb8-a818-8f6ea5f9f23c
+   :END:
    <2021-03-05 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       4e49e5c6-7995-4603-b0fd-08bedbe2e13c
@@ -127,6 +166,9 @@ plateformes LMS.
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1614938355081][Revoir la session]]
 
 ** DONE 29 janvier : Atelier de présentation de SambaÉdu
+   :PROPERTIES:
+   :ID:       99a13b58-6f63-4842-b15b-fe09608e1f38
+   :END:
    <2021-01-29 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       44df787a-6d5e-4401-a5b1-24c45b31e9cd
@@ -156,6 +198,9 @@ Apache/Guacamole.
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1611914312376][Revoir la session]]
 
 ** DONE 22 janvier : Présentation de [[https://proxmox.com][Proxmox]]
+   :PROPERTIES:
+   :ID:       6a9ff81d-99e2-445c-85dc-f34794d527a2
+   :END:
    <2021-01-22 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       aca44f43-f34e-4365-b259-a8cdbea20242
@@ -193,6 +238,9 @@ de suffit pas.
 - [[https://cloud.telecomste.fr/index.php/s/d56yxfDtFjkHYWz][Télécharger la présentation]]
 
 ** DONE 15 janvier : Présentation de [[https://www.tuleap.org/fr/][Tuleap]], outil de transformation digitale, réalisations agiles et devops ("Application Lifecycle Management")
+   :PROPERTIES:
+   :ID:       ffa0db2e-7ac4-4c8e-b057-8a2510344390
+   :END:
    <2021-01-15 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       4710fc24-cfd9-4acd-b976-a78f6ff49279
@@ -208,6 +256,9 @@ de suffit pas.
   :END:
 
 ** DONE 18 Décembre : OpenMole, les JDEV et plateforme vidéo "Constellation"
+   :PROPERTIES:
+   :ID:       6f3c2c63-8f96-4796-94d1-1277797f0564
+   :END:
    <2020-12-18 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       d1bd2743-e43a-4606-b985-ed870d315cd3
@@ -221,6 +272,9 @@ de suffit pas.
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1608285535731][Revoir la session]]
 
 ** DONE 4 Décembre : présentation d'Exodus Privacy
+   :PROPERTIES:
+   :ID:       0a03b76f-e9f1-4780-a389-6a086790f0c5
+   :END:
    <2020-12-04 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       1533f221-05b5-4a7d-935a-905f34ddcbb9
@@ -250,6 +304,9 @@ appel a projet 2020.
 - Tout public : présentation générale
 
 ** DONE 27 Novembre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (2/2) (Prodige et Atlasanté)
+   :PROPERTIES:
+   :ID:       44072367-cfca-41d5-9ca9-e27c86801b29
+   :END:
    <2020-11-27 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       64334bf2-8973-4db2-bb23-7ddb6df3ffdd
@@ -268,6 +325,9 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1606471273893][Revoir la session]]
 
 ** DONE 20 Novembre : Présentation des fonctionnalités principales d'[[https://sill.etalab.gouv.fr/fr/software?id=214][XWiki]] et de nos adaptations en direct sur une de nos instances de préprod.
+   :PROPERTIES:
+   :ID:       cb55392e-dcce-40d7-8881-8e00ce9b4ec7
+   :END:
    <2020-11-20 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       aeb39164-c629-4695-9eb7-94825c12d0db
@@ -279,6 +339,9 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - [[https://peertube.xwiki.com/videos/watch/4fa38484-9a98-48c9-a3cd-787331abd9a3][Revoir la session]]
 
 ** DONE 23 Octobre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (1/2) (Geotrek/geonature, [[https://sill.etalab.gouv.fr/fr/software?id=195][Scenari/Opale]]).
+   :PROPERTIES:
+   :ID:       e091806d-9604-48f6-932e-39d9b3dd6c86
+   :END:
    <2020-10-23 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       cfb423db-8872-4662-b2e4-4d430b85957b
@@ -292,6 +355,9 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Revoir [[https://aperi.tube/videos/watch/aa02b688-6622-430d-a6b2-394b5e47a365][la présentation Scenari via une instance Peertube]]
 
 ** DONE 9 Octobre : Wébinaire de prise en main de [[https://sill.etalab.gouv.fr/fr/software?id=207][JOSM]]
+   :PROPERTIES:
+   :ID:       4788544e-4f54-4ee5-9322-52162f3651f7
+   :END:
    <2020-10-09 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       be76f51c-1224-495e-8214-711a03a41b5d
@@ -302,6 +368,9 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Tout public : présentation générale
 
 ** DONE 25 Septembre : Wébinaire : "OpenStreetMap n'est pas qu'une carte, c'est une base de données ouverte"
+   :PROPERTIES:
+   :ID:       1acd1f4e-8888-4c1a-acd2-b6d3b2c10848
+   :END:
    <2020-09-25 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       bd46d807-3dc2-4440-ab7e-9c3500619820
@@ -314,6 +383,9 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Réunion ouverte à tous
 
 ** DONE 17 Juillet : Wébinaire [[https://sill.etalab.gouv.fr/fr/software?id=176][Matomo]]
+   :PROPERTIES:
+   :ID:       8dbbabbb-c075-4ee2-85d9-0b8d4cc1234a
+   :END:
    <2020-07-17 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       f894cf92-7ea9-4ce0-acb4-ee94ac338918
