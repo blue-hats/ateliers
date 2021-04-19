@@ -51,7 +51,22 @@ sélection d'articles et de ressources]] associées.
 - 11h-12h30 : Interventions de Lionel Laské
 - Réunion ouverte à tous
 
-** 16 avril : Présentation de cas d'usage de [[https://cozy.io/fr/][Cozy Cloud]]
+** 7 mai : Présentation du projet Open Terms Archive
+   SCHEDULED: <2021-05-07 ven. 11:00-12:30>
+
+Quel contrat ai-je accepté en utilisant un service numérique ? Les
+conditions ont-elles changé depuis que j’utilise ces services ? Dans
+quel sens évoluent-elles ? Sont-elles conformes aux discours de ces
+acteurs et aux lois qui encadrent leurs pratiques ?
+
+Un outil simple permet désormais de répondre à ces questions : [[https://disinfo.quaidorsay.fr/en/open-terms-archive][Open
+Terms Archive]].
+
+- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
+- 11h-12h30 : Interventions de l'équipe de l'ambassadeur pour le numérique.
+- Réunion ouverte à tous
+
+** DONE 16 avril : Présentation de cas d'usage de [[https://cozy.io/fr/][Cozy Cloud]]
    SCHEDULED: <2021-04-16 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       37d239a9-9a2a-473a-94bd-f478604599bb
