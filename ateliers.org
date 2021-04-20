@@ -76,6 +76,7 @@ Terms Archive]].
 - 11h-11h45 : Interventions d'Olivier Adam ([[https://oadam-drive.mytoutatice.cloud/public?sharecode=ADMBoi4ncJkZ#/][Toutatice]])
 - 11h45-12h30 : Intervention de Maria-Inés Leal (Grand Lyon)
 - Avec la participation de Benjamin André ([[https://cozy.io/fr/][cozy.io]])
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1618563309934][Revoir la session]]
 - Réunion ouverte à tous
 
 ** DONE 9 avril : Quelles motivations pour contribuer à des projets open source ?
