@@ -21,7 +21,7 @@ sélection d'articles et de ressources]] associées.
 - 11h45-12h30 : ...
 - Réunion ouverte à tous
 
-** 11 juin : Présentation du pôle EOLE et de www.mim-libre.fr
+** 11 juin : (À confirmer) Présentation du pôle EOLE et de www.mim-libre.fr
    SCHEDULED: <2021-06-11 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       da718b73-3c72-45d8-b482-237c0569cee2
@@ -53,6 +53,9 @@ sélection d'articles et de ressources]] associées.
 
 ** 7 mai : Présentation du projet Open Terms Archive
    SCHEDULED: <2021-05-07 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       3fb223da-37ed-405c-a3fa-e8f7034ea94a
+   :END:
 
 Quel contrat ai-je accepté en utilisant un service numérique ? Les
 conditions ont-elles changé depuis que j’utilise ces services ? Dans
