@@ -73,7 +73,7 @@ Eole figure au [[https://sill.etalab.gouv.fr/fr/software?id=41][SILL]] (Socle In
 - 11h-12h30 : Interventions de Lionel Laské
 - Réunion ouverte à tous
 
-** 7 mai : Présentation du projet Open Terms Archive
+** DONE 7 mai : Présentation du projet Open Terms Archive
    SCHEDULED: <2021-05-07 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       3fb223da-37ed-405c-a3fa-e8f7034ea94a
@@ -90,6 +90,7 @@ Terms Archive]].
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-12h30 : Interventions de l'équipe de l'ambassadeur pour le numérique.
 - Réunion ouverte à tous
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1620376802213][Revoir la session]]
 
 ** DONE 16 avril : Présentation de cas d'usage de [[https://cozy.io/fr/][Cozy Cloud]]
    SCHEDULED: <2021-04-16 ven. 11:00-12:30>
