@@ -63,14 +63,21 @@ Eole figure au [[https://sill.etalab.gouv.fr/fr/software?id=41][SILL]] (Socle In
 - 11h-12h30 : Interventions de Line Rahal (ANSM), Antoine Biard (HAS), Rémi Delbouys (Envinorma)
 - Réunion ouverte à tous
 
-** 21 mai : Votre première contribution à un projet open source
+** 21 mai : Sauter le pas: faire votre première contribution à un projet open source
+
+Vous en avez envie depuis longtemps et n'avez jamais sauté le pas ? L'objectif de cet atelier est de faire de vous un contributeur Open Source.
+
+L'atelier vous expliquera l’intérêt de contribuer, vous permettra d’identifier les projets auxquels vous pouvez contribuer, les règles à respecter et les outils pour le faire. L'atelier présentera aussi différents programmes permettant de démarrer des contributions et vous fera faire votre première contribution.
+ 
+[[https://github.com/llaske][Lionel Laské]], l’animateur de l'atelier est l'auteur de la plateforme pédagogique libre [[https://sugarizer.org][Sugarizer]], membre du board de l'organisation Open Source [[http://sugarlabs.org][SugarLabs]] et mentor pour le Google Summer of Code depuis 2013.
+
    SCHEDULED: <2021-05-21 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       a4016ee7-1164-4e1b-855e-622e9e4f60a0
    :END:
 
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
-- 11h-12h30 : Interventions de Lionel Laské
+- 11h-12h30 : Intervention de Lionel Laské
 - Réunion ouverte à tous
 
 ** DONE 7 mai : Présentation du projet Open Terms Archive
