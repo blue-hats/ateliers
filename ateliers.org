@@ -78,6 +78,8 @@ L'atelier vous expliquera l’intérêt de contribuer, vous permettra d’identi
 
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-12h30 : Intervention de Lionel Laské
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1621587264813][Revoir la session]]
+- [[https://box.bzg.io/cloud/index.php/s/23z6s4FLPeFW3ER][Présentation PDF]]
 - Réunion ouverte à tous
 
 ** DONE 7 mai : Présentation du projet Open Terms Archive
