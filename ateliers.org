@@ -6,6 +6,13 @@
   :ID:       cc85b175-39be-4fc5-a6d1-bb04be323b84
   :END:
 
+** 17 septembre : les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
+
+- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
+- 11h-11h45 : Intervention de Théophile Lemarié
+- 11h45-12h30 : ...
+- Réunion ouverte à tous
+
 ** 25 juin : Quelles motivations pour contribuer à des projets open source ? (suite)
    SCHEDULED: <2021-06-25 ven. 11:00-12:30>
    :PROPERTIES:
@@ -64,6 +71,9 @@ Eole figure au [[https://sill.etalab.gouv.fr/fr/software?id=41][SILL]] (Socle In
 - Réunion ouverte à tous
 
 ** 21 mai : Sauter le pas: faire votre première contribution à un projet open source
+   :PROPERTIES:
+   :ID:       0c91bd0a-9488-4951-b46d-a4f41777f791
+   :END:
 
 Vous en avez envie depuis longtemps et n'avez jamais sauté le pas ? L'objectif de cet atelier est de faire de vous un contributeur Open Source.
 
