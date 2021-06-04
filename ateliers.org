@@ -75,6 +75,10 @@ Eole figure au [[https://sill.etalab.gouv.fr/fr/software?id=41][SILL]] (Socle In
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1622796902673][Revoir la session]]
 - Réunion ouverte à tous
 
+L'application créée dans le cadre de cet atelier est accessible sur github : [[https://github.com/antoan2/le-grand-dashbat][le-grand-dashbat]].
+
+Il est possible de rejouer les différentes étapes du live-code : [[https://github.com/antoan2/le-grand-dashbat/compare/live-code-final-state][ici]]
+
 ** DONE 21 mai : Sauter le pas: faire votre première contribution à un projet open source
    :PROPERTIES:
    :ID:       0c91bd0a-9488-4951-b46d-a4f41777f791
