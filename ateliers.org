@@ -70,6 +70,10 @@ Eole figure au [[https://sill.etalab.gouv.fr/fr/software?id=41][SILL]] (Socle In
 - 11h-12h30 : Interventions de Line Rahal (ANSM), Antoine Biard (HAS), Rémi Delbouys (Envinorma)
 - Réunion ouverte à tous
 
+L'application créée dans le cadre de cet atelier est accessible sur github : [[https://github.com/antoan2/le-grand-dashbat][le-grand-dashbat]].
+
+Il est possible de rejouer les différentes étapes du live-code : [[https://github.com/antoan2/le-grand-dashbat/compare/live-code-final-state][ici]]
+
 ** 21 mai : Sauter le pas: faire votre première contribution à un projet open source
    :PROPERTIES:
    :ID:       0c91bd0a-9488-4951-b46d-a4f41777f791
