@@ -7,6 +7,9 @@
   :END:
 
 ** 17 septembre : les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
+   :PROPERTIES:
+   :ID:       b98602b3-5dab-49d7-9371-c2016c18a373
+   :END:
 
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-11h45 : Intervention de Théophile Lemarié
@@ -60,7 +63,7 @@ Eole figure au [[https://sill.etalab.gouv.fr/fr/software?id=41][SILL]] (Socle In
 - 11h-12h30 : Interventions de Luc Bourdot (MENJ) et Nicolas Schont (MENJ)
 - Réunion ouverte à tous
 
-** 4 juin : Présentation du framework [[https://plotly.com/dash/][Dash]] (Plotly.js, React et Flask)
+** DONE 4 juin : Présentation du framework [[https://plotly.com/dash/][Dash]] (Plotly.js, React et Flask)
    SCHEDULED: <2021-06-04 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       e88cd4ff-20a9-42d4-86f3-9a82587bc326
@@ -68,9 +71,11 @@ Eole figure au [[https://sill.etalab.gouv.fr/fr/software?id=41][SILL]] (Socle In
 
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-12h30 : Interventions de Line Rahal (ANSM), Antoine Biard (HAS), Rémi Delbouys (Envinorma)
+- Explorer [[https://github.com/antoan2/le-grand-dashbat][le dépôt de code]] présenté
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1622796902673][Revoir la session]]
 - Réunion ouverte à tous
 
-** 21 mai : Sauter le pas: faire votre première contribution à un projet open source
+** DONE 21 mai : Sauter le pas: faire votre première contribution à un projet open source
    :PROPERTIES:
    :ID:       0c91bd0a-9488-4951-b46d-a4f41777f791
    :END:
