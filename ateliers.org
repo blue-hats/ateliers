@@ -16,7 +16,7 @@
 - 11h45-12h30 : ...
 - Réunion ouverte à tous
 
-** 25 juin : Quelles motivations pour contribuer à des projets open source ? (suite)
+** DONE 25 juin : Quelles motivations pour contribuer à des projets open source ? (suite)
    SCHEDULED: <2021-06-25 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       17879e63-7c5f-482f-816a-d8bf8944526c
@@ -26,9 +26,9 @@ Suite de la présentation de Nicolas Jullien du 9 avril.  Vous pouvez
 consulter l'[[https://hal.archives-ouvertes.fr/hal-00737173][article]] à l'origine de la présentation et télécharger [[https://box.bzg.io/cloud/index.php/s/5wiMKnArmxnDKw5][une
 sélection d'articles et de ressources]] associées.
 
-- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
-- 11h-11h45 : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
-- 11h45-12h30 : ...
+- 11h-12h sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
+- 11h-12h : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1624611469177][Revoir la session]]
 - Réunion ouverte à tous
 
 ** DONE 11 juin : Présentation du pôle EOLE et de www.mim-libre.fr
