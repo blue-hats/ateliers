@@ -11,7 +11,7 @@
    :ID:       b98602b3-5dab-49d7-9371-c2016c18a373
    :END:
 
-- 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
+- 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/983/creator/369/hash/27f7103685682c79edfd15d54ececec0d66303f3][le salon de visioconférence BlueHats]]
 - 11h-11h45 : Intervention de Théophile Lemarié
 - 11h45-12h30 : ...
 - Réunion ouverte à tous
