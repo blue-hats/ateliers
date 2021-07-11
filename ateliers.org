@@ -6,6 +6,41 @@
   :ID:       cc85b175-39be-4fc5-a6d1-bb04be323b84
   :END:
 
+** 24 septembre : présentation du Standard pour un code informatique public, et retour d'expérience OpenFisca (EN)
+   :PROPERTIES:
+   :ID:
+   :END:
+
+_English version follows_
+
+Le Standard pour un code informatique public est un ensemble de critères qui ont pour vocation d’aider les administrations publiques à rapprocher les politiques publiques avec les logiciels qui les implémentent : le code source du calcul de l’impôt sur le revenu, des prestations sociales, des algorithmes de Parcoursup…
+
+Alors que, de plus en plus, ces logiciels s’assimilent aux règles de la loi qu’ils implémentent, leur contrôle démocratique se déploie doucement : ouvrir leurs codes sources, faciliter la contribution d’autres administrations et de la société civile, et rendre compte de leur utilisation.
+
+Mais si le cadre légal est pourtant déjà là - lois Informatique et Libertés, CADA, Valter, Lemaire, le RGPD - alors pourquoi un déploiement si doux ? Depuis le « Dam », aux Pays-Bas, la Foundation for Public Code nous propose une approche pragmatique par le code, le Standard pour un code informatique public.
+
+La fondation accompagne, depuis 2020, la communauté OpenFisca dans l’adoption du « standard ». Cela tombe bien puisqu’OpenFisca est, justement, un logiciel libre et contributif qui permet de transformer le code de la loi en code informatique, et porté depuis 2014 par l’administration !
+
+Mais qu’en est-il ? Venez le découvrir !
+
+_Version française ci-dessus_
+
+The Standard for Public Code is a set of criteria intended to help public administrations to reconcile public policies with the software that implements them: the source code for calculating income tax, social benefits, the algorithms used to grant access to higher education, etc.
+
+While this software increasingly assimilates to the rules of the law they implement, their democratic control is yet slowly deployed: the opening of their source codes, the facilitation of contributions by administrations and the civil society, and their democratic accountability.
+
+But if the legal framework is there already —acts Data Protection, CADA, Valter, Lemaire, GDPR— then why such a slow deployment? From the “Dam” in the Netherlands, the Foundation for Public Code offers us a pragmatic code-based approach, the Standard for Public Code.
+
+Since 2020, the foundation has been supporting the OpenFisca community in adopting the "standard". This is a good thing since OpenFisca is, in fact, a libre and contributive software to write the rules of the law into computer code, and powered since 2014 by the administration!
+
+But where are we at? Come and find out!
+
+- 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/983/creator/369/hash/27f7103685682c79edfd15d54ececec0d66303f3][le salon de visioconférence BlueHats]]
+- 11h00-11h30 : Intervention de [TBD](https://link.to/bio) de la [Foundation for Public Code](https://publiccode.net/)
+- 11h30-12h00 : Intervention de [TBD](https://link.to/bio) de la communauté [OpenFisca](https://openfisca.org/en/)
+- 12h00-12h30 : Temps d'échange
+- Réunion ouverte à tous
+
 ** 17 septembre : les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
    :PROPERTIES:
    :ID:       b98602b3-5dab-49d7-9371-c2016c18a373
