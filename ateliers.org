@@ -103,8 +103,9 @@ sélection d'articles et de ressources]] associées.
 
 - 11h-12h sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-12h : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
-- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1624611469177][Revoir la session]]
 - Réunion ouverte à tous
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1624611469177][Revoir la session]]
+- [[https://dai.ly/x82vcuf][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 11 juin : Présentation du pôle EOLE et de www.mim-libre.fr
    SCHEDULED: <2021-06-11 ven. 11:00-12:30>
@@ -137,6 +138,7 @@ Eole figure au [[https://sill.etalab.gouv.fr/fr/software?id=41][SILL]] (Socle In
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-12h30 : Interventions de Luc Bourdot (MENJ) et Nicolas Schont (MENJ)
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1623401839728][Revoir la session]]
+- [[https://dai.ly/x82vd1l][Revoir sur le compte Dailymotion d'Etalab]]
 - Réunion ouverte à tous
 
 ** DONE 4 juin : Présentation du framework [[https://plotly.com/dash/][Dash]] (Plotly.js, React et Flask)
@@ -149,6 +151,7 @@ Eole figure au [[https://sill.etalab.gouv.fr/fr/software?id=41][SILL]] (Socle In
 - 11h-12h30 : Interventions de Line Rahal (ANSM), Antoine Biard (HAS), Rémi Delbouys (Envinorma)
 - Explorer [[https://github.com/antoan2/le-grand-dashbat][le dépôt de code]] présenté
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1622796902673][Revoir la session]]
+- [[https://dai.ly/x82vd1m][Revoir sur le compte Dailymotion d'Etalab]]
 - Réunion ouverte à tous
 
 L'application créée dans le cadre de cet atelier est accessible sur github : [[https://github.com/antoan2/le-grand-dashbat][le-grand-dashbat]].
@@ -174,6 +177,7 @@ L'atelier vous expliquera l’intérêt de contribuer, vous permettra d’identi
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww][https://visio.incubateur.net/b/bas-vwv-2ww]]
 - 11h-12h30 : Intervention de Lionel Laské
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1621587264813][Revoir la session]]
+- [[https://dai.ly/x82vd1i][Revoir sur le compte Dailymotion d'Etalab]]
 - [[https://box.bzg.io/cloud/index.php/s/23z6s4FLPeFW3ER][Présentation PDF]]
 - Réunion ouverte à tous
 
@@ -195,6 +199,7 @@ Terms Archive]].
 - 11h-12h30 : Interventions de l'équipe de l'ambassadeur pour le numérique.
 - Réunion ouverte à tous
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1620376802213][Revoir la session]]
+- [[https://dai.ly/x82vcue][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 16 avril : Présentation de cas d'usage de [[https://cozy.io/fr/][Cozy Cloud]]
    SCHEDULED: <2021-04-16 ven. 11:00-12:30>
@@ -206,8 +211,9 @@ Terms Archive]].
 - 11h-11h45 : Interventions d'Olivier Adam ([[https://oadam-drive.mytoutatice.cloud/public?sharecode=ADMBoi4ncJkZ#/][Toutatice]])
 - 11h45-12h30 : Intervention de Maria-Inés Leal (Grand Lyon)
 - Avec la participation de Benjamin André ([[https://cozy.io/fr/][cozy.io]])
-- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1618563309934][Revoir la session]]
 - Réunion ouverte à tous
+- [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1618563309934][Revoir la session]]
+- [[https://dai.ly/x82vd1n][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 9 avril : Quelles motivations pour contribuer à des projets open source ?
    SCHEDULED: <2021-04-09 ven. 11:00-12:30>
@@ -228,6 +234,7 @@ libres au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire une
 - 11h-11h45 : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
 - 11h45-12h30 : Intervention de [[http://igm.univ-mlv.fr/~teresa/][Teresa Gomez-Diaz]] ([[http://igm.univ-mlv.fr/~teresa/logicielsLIGM/documents/Seminaires/2021avrilBlueHats_TGD.pdf][présentation]])
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1617958857944][Revoir la session]]
+- [[https://dai.ly/x82vd1k][Revoir sur le compte Dailymotion d'Etalab]]
 - Réunion ouverte à tous
 
 ** DONE 26 mars : Atelier sur OW2 Good Governance Initiative
@@ -243,6 +250,7 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 - Réunion ouverte à tous
 - [[https://www.ow2.org/download/OSS_Governance/WebHome/2103-OW2-Good-Governance-initiative-Intro-en?rev=1.1][Support de présentation]]
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1616753194273][Revoir la session]]
+- [[https://dai.ly/x82vcud][Revoir sur le compte Dailymotion d'Etalab]]
 
 # lien participants :
 # https://visio-agents.education.fr/meeting/signin/9426/creator/1/hash/29234ca28920f9adae3cecad34452fcaf5f815d0
@@ -261,6 +269,7 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 - Intervention de Ronan Chardonneau
 - Réunion ouverte à tous
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1615543095738][Revoir la session]]
+- [[https://dai.ly/x82vcug][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 5 mars : Atelier de découverte de Scenari Opale et point SILL
    SCHEDULED: <2021-03-05 ven. 11:00-12:30>
@@ -287,7 +296,7 @@ plateformes LMS.
 - [[https://scenari.org/presentations/Opale/presDemoOpale_2021-03-05.scar][Sources du support de présentation]] (format Scenari Optim)
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1614938355081][Revoir la session]]
 
-** DONE 29 janvier : Atelier de présentation de SambaÉdu
+** DONE 29 janvier : Atelier de présentation de SambaÉdu É
    SCHEDULED: <2021-01-29 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       99a13b58-6f63-4842-b15b-fe09608e1f38
@@ -315,6 +324,7 @@ Apache/Guacamole.
 - Réunion ouverte à tous
 - Projet connexe proposé à la présentation : Apache Guacamole
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1611914312376][Revoir la session]]
+- [[ https://dai.ly/x82vcub][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 22 janvier : Présentation de [[https://proxmox.com][Proxmox]]
    SCHEDULED: <2021-01-22 ven. 11:00-12:30>
@@ -380,6 +390,7 @@ de suffit pas.
 - 11h-12h30 sur [[https://visio.incubateur.net/b/bas-vwv-2ww]]
 - Tout public: présentation générale
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1608285535731][Revoir la session]]
+- [[https://dai.ly/x82vd1j][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 4 Décembre : présentation d'Exodus Privacy
    SCHEDULED: <2020-12-04 ven. 11:00-12:30>
@@ -427,6 +438,7 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Interventions de personnes impliquées dans ces projets
 - Tout public : présentation générale
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1606471273893][Revoir la session]]
+- [[https://dai.ly/x82vcuc][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 20 Novembre : Présentation des fonctionnalités principales d'[[https://sill.etalab.gouv.fr/fr/software?id=214][XWiki]] et de nos adaptations en direct sur une de nos instances de préprod.
    SCHEDULED: <2020-11-20 ven. 11:00-12:30>
@@ -438,6 +450,7 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Pascal BASTIEN (MTES)
 - Réunion ouverte à tous
 - [[https://peertube.xwiki.com/videos/watch/4fa38484-9a98-48c9-a3cd-787331abd9a3][Revoir la session]]
+- [[https://dai.ly/x82vcu8][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 23 Octobre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (1/2) (Geotrek/geonature, [[https://sill.etalab.gouv.fr/fr/software?id=195][Scenari/Opale]]).
    SCHEDULED: <2020-10-23 ven. 11:00-12:30>
@@ -449,8 +462,9 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Interventions de personnes impliquées dans ces projets
 - Tout public : présentation générale
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1603443006881][Revoir la session]]
+- [[Revoir sur le compte Dailymotion d'Etalab][Revoir sur le compte Dailymotion d'Etalab]]
 - Revoir [[https://aperi.tube/videos/watch/3f1eec26-ad4c-44bf-8fe8-207e53d8a50e][la présentation Geotrek via une instance Peertube]] ou la télécharger
-- Revoir [[https://aperi.tube/videos/watch/aa02b688-6622-430d-a6b2-394b5e47a365][la présentation Scenari via une instance Peertube]]
+- Revoir [[https://aperi.tube/videos/watch/aa02b688-6622-430d-a6b2-394b5e47a365][la présentation Scenari via une instance Peertube]] ou [[https://dai.ly/x82vcua][le compte Dailymotion d'Etalab]]
 
 ** DONE 9 Octobre : Wébinaire de prise en main de [[https://sill.etalab.gouv.fr/fr/software?id=207][JOSM]]
    SCHEDULED: <2020-10-09 ven. 11:00-12:30>
@@ -484,3 +498,4 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - Intervention de Ronan Chardonneau
 - Réunion ouverte à tous
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1594976319282][Revoir la session]]
+- [[https://dai.ly/x82vcuh][Revoir sur le compte Dailymotion d'Etalab]]
