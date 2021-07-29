@@ -6,7 +6,7 @@
   :ID:       cc85b175-39be-4fc5-a6d1-bb04be323b84
   :END:
 
-** 24 septembre : présentation du Standard pour un code informatique public, et retour d'expérience OpenFisca (EN)
+** 24 septembre : Présentation du Standard pour un code informatique public, et retour d'expérience OpenFisca (EN)
    :PROPERTIES:
    :ID:
    :END:
@@ -71,7 +71,7 @@ But where are we at? Come and find out!
 - 12h00-12h30 : Temps d'échange
 - Réunion ouverte à tous
 
-** 17 septembre : les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
+** 17 septembre : Les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
    :PROPERTIES:
    :ID:       b98602b3-5dab-49d7-9371-c2016c18a373
    :END:
@@ -81,7 +81,7 @@ But where are we at? Come and find out!
 - 11h45-12h30 : ...
 - Réunion ouverte à tous
 
-** 10 septembre : présentation de la Messagerie Collaborative de l'État
+** 10 septembre : Présentation de la Messagerie Collaborative de l'État
    :PROPERTIES:
    :ID:       9551fa17-3818-4ad2-ba69-6fa70e19247a
    :END:
@@ -234,7 +234,7 @@ libres au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire une
 - 11h-11h45 : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
 - 11h45-12h30 : Intervention de [[http://igm.univ-mlv.fr/~teresa/][Teresa Gomez-Diaz]] ([[http://igm.univ-mlv.fr/~teresa/logicielsLIGM/documents/Seminaires/2021avrilBlueHats_TGD.pdf][présentation]])
 - [[https://visio.incubateur.net/playback/presentation/2.0/playback.html?meetingId=9e1cec212d5b00a6edffdb255b00858adf5a647d-1617958857944][Revoir la session]]
-- [[https://dai.ly/x82vd1k][Revoir sur le compte Dailymotion d'Etalab]]
+- [[https://dai.ly/x8314eo][Revoir sur le compte Dailymotion d'Etalab]]
 - Réunion ouverte à tous
 
 ** DONE 26 mars : Atelier sur OW2 Good Governance Initiative
