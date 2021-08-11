@@ -86,6 +86,10 @@ But where are we at? Come and find out!
    :ID:       9551fa17-3818-4ad2-ba69-6fa70e19247a
    :END:
 
+Bref historique de la Messagerie Collaborative de l'État (MCE),
+présentation de l'architecture technique basée sur un socle libre et
+de la dernière interface totalement intégrée (Suite collaborative).
+
 - 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/983/creator/369/hash/27f7103685682c79edfd15d54ececec0d66303f3][le salon de visioconférence BlueHats]]
 - 11h-11h45 : Intervention de X (à définir)
 - 11h45-12h30 : ...
