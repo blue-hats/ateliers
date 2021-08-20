@@ -69,7 +69,6 @@ But where are we at? Come and find out!
 - 11h00-11h30 : Intervention de [[TBD][https://link.to/bio]] de la [[Foundation for Public Code][https://publiccode.net/]]
 - 11h30-12h00 : Intervention de [[TBD][https://link.to/bio]] de la communauté [[OpenFisca][https://openfisca.org/en/]]
 - 12h00-12h30 : Temps d'échange
-- Réunion ouverte à tous
 
 ** 17 septembre : Les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
    :PROPERTIES:
@@ -79,7 +78,6 @@ But where are we at? Come and find out!
 - 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/983/creator/369/hash/27f7103685682c79edfd15d54ececec0d66303f3][le salon de visioconférence BlueHats]]
 - 11h-11h45 : Intervention de Théophile Lemarié
 - 11h45-12h30 : ...
-- Réunion ouverte à tous
 
 ** 10 septembre : Présentation de la Messagerie Collaborative de l'État
    :PROPERTIES:
@@ -93,7 +91,6 @@ de la dernière interface totalement intégrée (Suite collaborative).
 - 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/983/creator/369/hash/27f7103685682c79edfd15d54ececec0d66303f3][le salon de visioconférence BlueHats]]
 - 11h-11h45 : Intervention de X (à définir)
 - 11h45-12h30 : ...
-- Réunion ouverte à tous
 
 ** DONE 25 juin : Quelles motivations pour contribuer à des projets open source ? (suite)
    SCHEDULED: <2021-06-25 ven. 11:00-12:30>
@@ -106,7 +103,6 @@ consulter l'[[https://hal.archives-ouvertes.fr/hal-00737173][article]] à l'orig
 sélection d'articles et de ressources]] associées.
 
 - 11h-12h : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
-- Réunion ouverte à tous
 - [[https://dai.ly/x82vcuf][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 11 juin : Présentation du pôle EOLE et de www.mim-libre.fr
@@ -139,7 +135,6 @@ Eole figure au [[https://sill.etalab.gouv.fr/fr/software?id=41][SILL]] (Socle In
 
 - 11h-12h30 : Interventions de Luc Bourdot (MENJ) et Nicolas Schont (MENJ)
 - [[https://dai.ly/x82vd1l][Revoir sur le compte Dailymotion d'Etalab]]
-- Réunion ouverte à tous
 
 ** DONE 4 juin : Présentation du framework [[https://plotly.com/dash/][Dash]] (Plotly.js, React et Flask)
    SCHEDULED: <2021-06-04 ven. 11:00-12:30>
@@ -150,7 +145,6 @@ Eole figure au [[https://sill.etalab.gouv.fr/fr/software?id=41][SILL]] (Socle In
 - 11h-12h30 : Interventions de Line Rahal (ANSM), Antoine Biard (HAS), Rémi Delbouys (Envinorma)
 - Explorer [[https://github.com/antoan2/le-grand-dashbat][le dépôt de code]] présenté
 - [[https://dai.ly/x82vd1m][Revoir sur le compte Dailymotion d'Etalab]]
-- Réunion ouverte à tous
 
 L'application créée dans le cadre de cet atelier est accessible sur github : [[https://github.com/antoan2/le-grand-dashbat][le-grand-dashbat]].
 
@@ -175,7 +169,6 @@ L'atelier vous expliquera l’intérêt de contribuer, vous permettra d’identi
 - 11h-12h30 : Intervention de Lionel Laské
 - [[https://dai.ly/x82vd1i][Revoir sur le compte Dailymotion d'Etalab]]
 - [[https://box.bzg.io/cloud/index.php/s/23z6s4FLPeFW3ER][Présentation PDF]]
-- Réunion ouverte à tous
 
 ** DONE 7 mai : Présentation du projet Open Terms Archive
    SCHEDULED: <2021-05-07 ven. 11:00-12:30>
@@ -192,7 +185,6 @@ Un outil simple permet désormais de répondre à ces questions : [[https://disi
 Terms Archive]].
 
 - 11h-12h30 : Interventions de l'équipe de l'ambassadeur pour le numérique.
-- Réunion ouverte à tous
 - [[https://dai.ly/x82vcue][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 16 avril : Présentation de cas d'usage de [[https://cozy.io/fr/][Cozy Cloud]]
@@ -204,7 +196,6 @@ Terms Archive]].
 - 11h-11h45 : Interventions d'Olivier Adam ([[https://oadam-drive.mytoutatice.cloud/public?sharecode=ADMBoi4ncJkZ#/][Toutatice]])
 - 11h45-12h30 : Intervention de Maria-Inés Leal (Grand Lyon)
 - Avec la participation de Benjamin André ([[https://cozy.io/fr/][cozy.io]])
-- Réunion ouverte à tous
 - [[https://dai.ly/x82vd1n][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 9 avril : Quelles motivations pour contribuer à des projets open source ?
@@ -225,7 +216,6 @@ libres au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire une
 - 11h-11h45 : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
 - 11h45-12h30 : Intervention de [[http://igm.univ-mlv.fr/~teresa/][Teresa Gomez-Diaz]] ([[http://igm.univ-mlv.fr/~teresa/logicielsLIGM/documents/Seminaires/2021avrilBlueHats_TGD.pdf][présentation]])
 - [[https://dai.ly/x8314eo][Revoir sur le compte Dailymotion d'Etalab]]
-- Réunion ouverte à tous
 
 ** DONE 26 mars : Atelier sur OW2 Good Governance Initiative
    SCHEDULED: <2021-03-26 ven. 11:00-12:30>
@@ -236,7 +226,6 @@ libres au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire une
 Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governance Initiatve]].
 
 - 11h-12h30 : Intervention de Cédric Thomas ([[https://www.ow2.org/][OW2]])
-- Réunion ouverte à tous
 - [[https://www.ow2.org/download/OSS_Governance/WebHome/2103-OW2-Good-Governance-initiative-Intro-en?rev=1.1][Support de présentation]]
 - [[https://dai.ly/x82vcud][Revoir sur le compte Dailymotion d'Etalab]]
 
@@ -255,7 +244,6 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 - [[https://sill.etalab.gouv.fr/fr/software?id=176][Matomo dans le SILL]]
 - 11h-12h30 : Intervention de Ronan Chardonneau
 - [[https://dai.ly/x82vcug][Revoir sur le compte Dailymotion d'Etalab]]
-- Réunion ouverte à tous
 
 ** DONE 5 mars : Atelier de découverte de Scenari Opale et point SILL
    SCHEDULED: <2021-03-05 ven. 11:00-12:30>
@@ -276,7 +264,6 @@ plateformes LMS.
 - Intervention de Loïc Alejandro, directeur de l'association Scenari
 - 11h-12h pour présenter [[https://doc.scenari.software/Opale/fr/][Scenari Opale]]
 - 12h-12h30 pour aborder les évolutions du SILL
-- Ouverte à tou⋅te⋅s
 - [[https://scenari.org/presentations/Opale/presDemoOpale_gen_sldHtml.zip][Support de présentation]]
 - [[https://scenari.org/presentations/Opale/presDemoOpale_2021-03-05.scar][Sources du support de présentation]] (format Scenari Optim)
 - [[https://www.dailymotion.com/video/x82vcua?playlist=x767bq][Revoir sur le compte Dailymotion d'Etalab]]
@@ -305,7 +292,6 @@ Apache/Guacamole.
 
 - 11h-12h30 : Intervention de Eric Mercier (Académie de Versailles) et Denis
   Bonnenfant (Académie de Paris)
-- Réunion ouverte à tous
 - Projet connexe proposé à la présentation : Apache Guacamole
 - [[https://dai.ly/x82vcub][Revoir sur le compte Dailymotion d'Etalab]]
 
@@ -339,10 +325,9 @@ Grafana) ou de le connecter facilement à un système de supervision.
 Un service d'assistance/support payant est disponible si la communauté
 de suffit pas.
 
-- Intervention de Pierre-Yves Fraisse
-- Ouverte à tous
-- De 11h à 12h30
+- 11h à 12h30 : Intervention de Pierre-Yves Fraisse
 - [[https://cloud.telecomste.fr/index.php/s/d56yxfDtFjkHYWz][Télécharger la présentation]]
+- [[https://dai.ly/x83k79m][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 15 janvier : Présentation de [[https://www.tuleap.org/fr/][Tuleap]], outil de transformation digitale, réalisations agiles et devops ("Application Lifecycle Management")
    SCHEDULED: <2021-01-15 ven. 11:00-12:30>
@@ -351,7 +336,6 @@ de suffit pas.
    :END:
 
 - 11h-12h30 : Intervention de Sébastien Romanet
-- Tout public: présentation ouverte à tous
 
 * 2020
   :PROPERTIES:
@@ -368,7 +352,6 @@ de suffit pas.
 - Intervention de Mathieu Leclaire sur le projet et la communauté [[https://github.com/openmole][OpenMole]]
 - Intervention de Pascal Dayre sur Constellation (présenté au JDEV)
 - [[https://dai.ly/x82vd1j][Revoir sur le compte Dailymotion d'Etalab]]
-- Tout public : présentation générale
 
 ** DONE 4 Décembre : présentation d'Exodus Privacy
    SCHEDULED: <2020-12-04 ven. 11:00-12:30>
@@ -396,7 +379,6 @@ L'association Exodus a été retenu par la [[https://www.fondation-afnic.fr/fr/T
 appel a projet 2020.
 
 - 11h-12h30 : Interventions de l'association Exodus
-- Tout public : présentation générale
 
 ** DONE 27 Novembre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (2/2) (Prodige et Atlasanté)
    SCHEDULED: <2020-11-27 ven. 11:00-12:30>
@@ -413,7 +395,6 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 
 - 11h-12h30 : Interventions de personnes impliquées dans ces projets
 - [[https://dai.ly/x82vcuc][Revoir sur le compte Dailymotion d'Etalab]]
-- Tout public : présentation générale
 
 ** DONE 20 Novembre : Présentation des fonctionnalités principales d'[[https://sill.etalab.gouv.fr/fr/software?id=214][XWiki]] et de nos adaptations en direct sur une de nos instances de préprod.
    SCHEDULED: <2020-11-20 ven. 11:00-12:30>
@@ -424,7 +405,6 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 - 11h-12h30 : Pascal BASTIEN (MTES)
 - [[https://peertube.xwiki.com/videos/watch/4fa38484-9a98-48c9-a3cd-787331abd9a3][Revoir la session]]
 - [[https://dai.ly/x82vcu8][Revoir sur le compte Dailymotion d'Etalab]]
-- Réunion ouverte à tous
 
 ** DONE 23 Octobre : Wébinaire autour de la gouvernance de logiciels libres liés au secteur public (1/2) (Geotrek/geonature, [[https://sill.etalab.gouv.fr/fr/software?id=195][Scenari/Opale]]).
    SCHEDULED: <2020-10-23 ven. 11:00-12:30>
@@ -434,8 +414,7 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 
 - 11h-12h30 : Interventions de personnes impliquées dans ces projets
 - Revoir [[https://aperi.tube/videos/watch/3f1eec26-ad4c-44bf-8fe8-207e53d8a50e][la présentation Geotrek via une instance Peertube]] ou [[https://www.dailymotion.com/video/x82vd1g?playlist=x767bq][le compte Dailymotion d'Etalab]]
-- Revoir [[https://aperi.tube/videos/watch/aa02b688-6622-430d-a6b2-394b5e47a365][la présentation Scenari via une instance Peertube]] ou [[https://dai.ly/x82vcua][le compte Dailymotion d'Etalab]]
-- Tout public : présentation générale
+- Revoir [[https://aperi.tube/videos/watch/aa02b688-6622-430d-a6b2-394b5e47a365][la présentation Scenari via une instance Peertube]] ou [[https://dai.ly/x83k7d0][le compte Dailymotion d'Etalab]]
 
 ** DONE 9 Octobre : Wébinaire de prise en main de [[https://sill.etalab.gouv.fr/fr/software?id=207][JOSM]]
    SCHEDULED: <2020-10-09 ven. 11:00-12:30>
@@ -443,9 +422,7 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
    :ID:       4788544e-4f54-4ee5-9322-52162f3651f7
    :END:
 
-- 11h-12h30 sur [[https://meet.jit.si/ateliers-bluehats]]
-- Intervention de Delphine Montagne
-- Tout public : présentation générale
+- 11h-12h30 : Intervention de Delphine Montagne
 
 ** DONE 25 Septembre : Wébinaire : "OpenStreetMap n'est pas qu'une carte, c'est une base de données ouverte"
    SCHEDULED: <2020-09-25 ven. 11:00-12:30>
@@ -453,9 +430,8 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
    :ID:       1acd1f4e-8888-4c1a-acd2-b6d3b2c10848
    :END:
 
-- 11h-13h: Pré-requis : création d'un compte sur [[https://www.openstreetmap.org/user/new][OSM]], il y a aura un aspect pratique avec création d'au moins une donnée.
-- Intervention de Delphine Montagne
-- Réunion ouverte à tous
+- 11h-13h : Intervention de Delphine Montagne
+- Pré-requis : création d'un compte sur [[https://www.openstreetmap.org/user/new][OSM]], il y a aura un aspect pratique avec création d'au moins une donnée.
 
 ** DONE 17 Juillet : Wébinaire [[https://sill.etalab.gouv.fr/fr/software?id=176][Matomo]]
    SCHEDULED: <2020-07-17 ven. 11:00-12:30>
@@ -465,4 +441,3 @@ domaine de la santé. Le projet s'appuie sur Prodige et Geoclip.
 
 - 11h-12h30 : Intervention de Ronan Chardonneau
 - [[https://dai.ly/x82vcuh][Revoir sur le compte Dailymotion d'Etalab]]
-- Réunion ouverte à tous
