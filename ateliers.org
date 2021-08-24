@@ -184,7 +184,7 @@ acteurs et aux lois qui encadrent leurs pratiques ?
 Un outil simple permet désormais de répondre à ces questions : [[https://disinfo.quaidorsay.fr/en/open-terms-archive][Open
 Terms Archive]].
 
-- 11h-12h30 : Interventions de l'équipe de l'ambassadeur pour le numérique.
+- 11h-12h30 : Interventions de Clément Biron, de l'équipe de l'ambassadeur pour le numérique.
 - [[https://dai.ly/x82vcue][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 16 avril : Présentation de cas d'usage de [[https://cozy.io/fr/][Cozy Cloud]]
