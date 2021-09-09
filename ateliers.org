@@ -79,7 +79,7 @@ But where are we at? Come and find out!
 - 11h-11h45 : Intervention de Théophile Lemarié
 - 11h45-12h30 : ...
 
-** (À confirmer) 10 septembre : Présentation de la Messagerie Collaborative de l'État
+** 10 septembre : Présentation de la Messagerie Collaborative de l'État
    :PROPERTIES:
    :ID:       9551fa17-3818-4ad2-ba69-6fa70e19247a
    :END:
@@ -90,12 +90,9 @@ de la dernière interface totalement intégrée (Suite collaborative).
 
 - 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/983/creator/369/hash/27f7103685682c79edfd15d54ececec0d66303f3][le salon de visioconférence BlueHats]]
 - 11h-11h45 : Intervention du Groupe Messagerie et Conférence à Distance, MTE/SNUM avec appui de la société Apitech
-
-* Présentation de la MCE (ce que c'est / ce que ce n'est pas) et bref historique,
-* Vision stratégique de cette solution de messagerie OpenSource, Patrick Chaléat et Cyril Aeck, Chef et Adjoint du groupe
-
-* Démo de la solution colaborative conçue autour de cette écosystème, Julien Delamarre & Thomas Payen, DévOps/Team Leader Apitech
-
+  - Présentation de la MCE (ce que c'est / ce que ce n'est pas) et bref historique,
+  - Vision stratégique de cette solution de messagerie OpenSource, Patrick Chaléat et Cyril Aeck, Chef et Adjoint du groupe
+  - Démo de la solution colaborative conçue autour de cette écosystème, Julien Delamarre & Thomas Payen, DévOps/Team Leader Apitech
 - 11h45-12h30 : Session de questions/réponses
 
 ** DONE 25 juin : Quelles motivations pour contribuer à des projets open source ? (suite)
