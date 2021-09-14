@@ -70,15 +70,6 @@ But where are we at? Come and find out!
 - 11h30-12h00 : Intervention de [[TBD][https://link.to/bio]] de la communauté [[OpenFisca][https://openfisca.org/en/]]
 - 12h00-12h30 : Temps d'échange
 
-** 17 septembre : Les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
-   :PROPERTIES:
-   :ID:       b98602b3-5dab-49d7-9371-c2016c18a373
-   :END:
-
-- 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
-- 11h-11h45 : Intervention de Théophile Lemarié
-- 11h45-12h30 : ...
-
 ** 10 septembre : Présentation de la Messagerie Collaborative de l'État
    :PROPERTIES:
    :ID:       9551fa17-3818-4ad2-ba69-6fa70e19247a
