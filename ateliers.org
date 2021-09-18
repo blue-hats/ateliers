@@ -6,9 +6,20 @@
   :ID:       cc85b175-39be-4fc5-a6d1-bb04be323b84
   :END:
 
-** 24 septembre : Présentation du Standard pour un code informatique public, et retour d'expérience OpenFisca (EN)
+** 8 octobre : Les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
+   SCHEDULED: <2021-10-08 ven. 11:00-12:30>
    :PROPERTIES:
-   :ID:
+   :ID:       5dfc28b6-197a-43b4-9086-2661ad00ab25
+   :END:
+
+- 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+- 11h-11h45 : Intervention de Théophile Lemarié
+- 11h45-12h30 : ...
+
+** 24 septembre : Présentation du Standard pour un code informatique public, et retour d'expérience OpenFisca (EN)
+   SCHEDULED: <2021-09-24 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       5e179321-784f-48be-879b-212afd0b3d8f
    :END:
 
 _English version follows_
@@ -70,7 +81,8 @@ But where are we at? Come and find out!
 - 11h30-12h00 : Intervention de [[TBD][https://link.to/bio]] de la communauté [[OpenFisca][https://openfisca.org/en/]]
 - 12h00-12h30 : Temps d'échange
 
-** 10 septembre : Présentation de la Messagerie Collaborative de l'État
+** DONE 10 septembre : Présentation de la Messagerie Collaborative de l'État
+   SCHEDULED: <2021-09-10 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       9551fa17-3818-4ad2-ba69-6fa70e19247a
    :END:
