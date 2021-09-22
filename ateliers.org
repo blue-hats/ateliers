@@ -12,9 +12,50 @@
    :ID:       5dfc28b6-197a-43b4-9086-2661ad00ab25
    :END:
 
+*** Intervention : Les outils Framasoft dans l'administration
+
+L'intervention commencera par un bref rappel historique sur le
+contexte de la création et le développement de l'association
+Framasoft, notamment avec l'administration publique.
+
+Un second temps sera consacré au virage pris par l'association en 2014
+avec la campagne "Dégooglisons Internet" et son offre de 34 services
+libres, éthiques, décentralisés et solidaires.
+
+Enfin, un dernier temps sera consacré à la question de l'édition
+logicielle par une structure d'éducation populaire (avec les exemples
+de PeerTube, Mobilizon ou Framaforms) afin de souligner les
+difficultés (financement, gestion communautaire, pérennité,
+responsabilités juridiques, partenariats, etc) qu'une association
+comme Framasoft peut rencontrer, spécifiquement dans son articulation
+avec les services de l'État.
+
+*** Intervention : Yakforms
+
+Framaforms est un logiciel libre de création de formulaires, lancé par
+Framasoft en 2016 dans le cadre de sa campagne « Degooglisons
+Internet », diffusé notamment sous forme de service en ligne
+https://framaforms.org . Il rencontre rapidement un grand succès, et
+reste à ce jour une des seules alternatives libres et respectueuses de
+la vie privée à Google Forms.
+
+Un travail a été réalisé pendant la période 2020-2021 pour faciliter
+l'essaimage du logiciel et l'émanciper de l'association Framasoft :
+le logiciel Framaforms est devenu Yakforms. Nous souhaitions pour
+cette présentation revenir sur l'historique de ce logiciel rendu à sa
+communauté, sur les possibilités qu'il offre et ses perspectives
+d'évolution.
+
 - 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
-- 11h-11h45 : Intervention de Théophile Lemarié
-- 11h45-12h30 : ...
+
+- 11h-11h45 : Framasoft, une plateforme de services et de logiciels à
+  disposition de toutes et tous ? Intervention de Pierre-Yves Gosset,
+  codirecteur de Framasoft
+
+- 11h45-12h20 : Étude de cas : le logiciel Yakforms. Intervention de
+  Théophile Lemarié, mainteneur de Yakforms et de framaforms.org.
+
+- 12h20-12h30 : Questions/Réponses
 
 ** 24 septembre : Présentation du Standard pour un code informatique public, et retour d'expérience OpenFisca (EN)
    SCHEDULED: <2021-09-24 ven. 11:00-12:30>
