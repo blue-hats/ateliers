@@ -13,6 +13,9 @@
    :END:
 
 *** Intervention : Les outils Framasoft dans l'administration
+    :PROPERTIES:
+    :ID:       3dbbd25d-230a-4a42-afdd-2ca75e4a6492
+    :END:
 
 L'intervention commencera par un bref rappel historique sur le
 contexte de la création et le développement de l'association
@@ -31,6 +34,9 @@ comme Framasoft peut rencontrer, spécifiquement dans son articulation
 avec les services de l'État.
 
 *** Intervention : Yakforms
+    :PROPERTIES:
+    :ID:       04de124e-49db-4d2d-bd8d-3764c574714b
+    :END:
 
 Framaforms est un logiciel libre de création de formulaires, lancé par
 Framasoft en 2016 dans le cadre de sa campagne « Degooglisons
@@ -138,6 +144,7 @@ de la dernière interface totalement intégrée (Suite collaborative).
   - Vision stratégique de cette solution de messagerie OpenSource, Patrick Chaléat et Cyril Aeck, Chef et Adjoint du groupe
   - Démo de la solution colaborative conçue autour de cette écosystème, Julien Delamarre & Thomas Payen, DévOps/Team Leader Apitech
 - 11h45-12h30 : Session de questions/réponses
+- [[https://dai.ly/x84dwt0][Revoir sur le compte Dailymotion d'Etalab]]
 - [[https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1631263920561][Revoir la présentation]]
 
 ** DONE 25 juin : Quelles motivations pour contribuer à des projets open source ? (suite)
