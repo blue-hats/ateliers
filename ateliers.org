@@ -63,7 +63,7 @@ d'évolution.
 
 - 12h20-12h30 : Questions/Réponses
 
-** 24 septembre : Présentation du Standard pour un code informatique public, et retour d'expérience OpenFisca (EN)
+** DONE 24 septembre : Présentation du Standard pour un code informatique public, et retour d'expérience OpenFisca (EN)
    SCHEDULED: <2021-09-24 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       5e179321-784f-48be-879b-212afd0b3d8f
@@ -127,6 +127,7 @@ But where are we at? Come and find out!
 - 11h00-11h30 : Intervention de [[TBD][https://link.to/bio]] de la [[Foundation for Public Code][https://publiccode.net/]]
 - 11h30-12h00 : Intervention de [[TBD][https://link.to/bio]] de la communauté [[OpenFisca][https://openfisca.org/en/]]
 - 12h00-12h30 : Temps d'échange
+- [[https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1632473986713][Revoir la session]]
 
 ** DONE 10 septembre : Présentation de la Messagerie Collaborative de l'État
    SCHEDULED: <2021-09-10 ven. 11:00-12:30>
