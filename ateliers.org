@@ -6,6 +6,8 @@
   :ID:       cc85b175-39be-4fc5-a6d1-bb04be323b84
   :END:
 
+** 26 novembre : réservé
+** 25 octobre : Présentation des outils développés par le MediaLab de Sciences Po
 ** 8 octobre : Les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
    SCHEDULED: <2021-10-08 ven. 11:00-12:30>
    :PROPERTIES:
