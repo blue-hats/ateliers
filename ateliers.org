@@ -7,7 +7,10 @@
   :END:
 
 ** 26 novembre : réservé
-** 25 octobre : Présentation des outils développés par le MediaLab de Sciences Po
+** 25 octobre : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po
+
+Le médialab de SciencesPo, fondé par Bruno Latour il y a maintenant une dizaine d'année, est un laboratoire de recherche ayant pour objectif de faire travailler ensemble chercheur·se·s en sciences sociales, designers et ingénieur·e·s. Dans le cadre de ses projets, il conçoit et maintient une multitude d'outils Open Source pour la recherche et la société civile. Faisons ensemble une brève visite guidée de ces différents outils, pouvant aller des applications web destinées aux étudiants jusqu'aux outils en ligne de commande pour la collecte de données en ligne ou aux librairies de code bas-niveau servant à optimiser certains calculs.
+
 ** 8 octobre : Les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
    SCHEDULED: <2021-10-08 ven. 11:00-12:30>
    :PROPERTIES:
