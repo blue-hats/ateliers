@@ -7,11 +7,17 @@
   :END:
 
 ** 26 novembre : réservé
+   :PROPERTIES:
+   :ID:       5d0f2313-191a-4a7b-944b-bbcecb2fb171
+   :END:
 ** 25 octobre : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po
+   :PROPERTIES:
+   :ID:       c3366ad4-c98d-4cfd-82f6-dd0f423e42aa
+   :END:
 
 Le médialab de SciencesPo, fondé par Bruno Latour il y a maintenant une dizaine d'année, est un laboratoire de recherche ayant pour objectif de faire travailler ensemble chercheur·se·s en sciences sociales, designers et ingénieur·e·s. Dans le cadre de ses projets, il conçoit et maintient une multitude d'outils Open Source pour la recherche et la société civile. Faisons ensemble une brève visite guidée de ces différents outils, pouvant aller des applications web destinées aux étudiants jusqu'aux outils en ligne de commande pour la collecte de données en ligne ou aux librairies de code bas-niveau servant à optimiser certains calculs.
 
-** 8 octobre : Les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
+** DONE 8 octobre : Les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
    SCHEDULED: <2021-10-08 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       5dfc28b6-197a-43b4-9086-2661ad00ab25
@@ -57,8 +63,6 @@ cette présentation revenir sur l'historique de ce logiciel rendu à sa
 communauté, sur les possibilités qu'il offre et ses perspectives
 d'évolution.
 
-- 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
-
 - 11h-11h45 : Framasoft, une plateforme de services et de logiciels à
   disposition de toutes et tous ? Intervention de Pierre-Yves Gosset,
   codirecteur de Framasoft
@@ -66,7 +70,9 @@ d'évolution.
 - 11h45-12h20 : Étude de cas : le logiciel Yakforms. Intervention de
   Théophile Lemarié, mainteneur de Yakforms et de framaforms.org.
 
-- 12h20-12h30 : Questions/Réponses
+*** Revoir
+
+Vous pouvez [[https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1633683557557][revoir la session ici]].
 
 ** DONE 24 septembre : Présentation du Standard pour un code informatique public, et retour d'expérience OpenFisca (EN)
    SCHEDULED: <2021-09-24 ven. 11:00-12:30>
