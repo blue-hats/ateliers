@@ -10,7 +10,8 @@
    :PROPERTIES:
    :ID:       5d0f2313-191a-4a7b-944b-bbcecb2fb171
    :END:
-** 25 octobre : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po
+** 22 octobre : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po
+   SCHEDULED: <2021-10-22 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       c3366ad4-c98d-4cfd-82f6-dd0f423e42aa
    :END:
@@ -71,6 +72,9 @@ d'évolution.
   Théophile Lemarié, mainteneur de Yakforms et de framaforms.org.
 
 *** Revoir
+    :PROPERTIES:
+    :ID:       3cce25d2-2d87-4fe6-bf67-1356289bf40a
+    :END:
 
 Vous pouvez [[https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1633683557557][revoir la session ici]].
 
