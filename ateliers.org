@@ -16,7 +16,19 @@
    :ID:       c3366ad4-c98d-4cfd-82f6-dd0f423e42aa
    :END:
 
-Le médialab de SciencesPo, fondé par Bruno Latour il y a maintenant une dizaine d'année, est un laboratoire de recherche ayant pour objectif de faire travailler ensemble chercheur·se·s en sciences sociales, designers et ingénieur·e·s. Dans le cadre de ses projets, il conçoit et maintient une multitude d'outils Open Source pour la recherche et la société civile. Faisons ensemble une brève visite guidée de ces différents outils, pouvant aller des applications web destinées aux étudiants jusqu'aux outils en ligne de commande pour la collecte de données en ligne ou aux librairies de code bas-niveau servant à optimiser certains calculs.
+Le médialab de SciencesPo, fondé par Bruno Latour il y a maintenant
+une dizaine d'année, est un laboratoire de recherche ayant pour
+objectif de faire travailler ensemble chercheur·se·s en sciences
+sociales, designers et ingénieur·e·s. Dans le cadre de ses projets, il
+conçoit et maintient une multitude d'outils Open Source pour la
+recherche et la société civile. Faisons ensemble une brève visite
+guidée de ces différents outils, pouvant aller des applications web
+destinées aux étudiants jusqu'aux outils en ligne de commande pour la
+collecte de données en ligne ou aux librairies de code bas-niveau
+servant à optimiser certains calculs.
+
+- 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+- 11h00-12h30 : Intervention de Guillaume Plique avec démos et temps d'échanges
 
 ** DONE 8 octobre : Les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
    SCHEDULED: <2021-10-08 ven. 11:00-12:30>
