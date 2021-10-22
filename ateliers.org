@@ -35,6 +35,7 @@ servant à optimiser certains calculs.
 
 - 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - 11h00-12h30 : Intervention de Guillaume Plique avec démos et temps d'échanges
+- [[https://dai.ly/x8511pn][Revoir sur le compte Dailymotion d'Etalab]]
 - [[https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1634892301849][Revoir la session]]
 
 ** DONE 8 octobre : Les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
