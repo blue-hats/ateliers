@@ -10,7 +10,7 @@
    :PROPERTIES:
    :ID:       5d0f2313-191a-4a7b-944b-bbcecb2fb171
    :END:
-** 22 octobre : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po
+** DONE 22 octobre : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po
    SCHEDULED: <2021-10-22 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       c3366ad4-c98d-4cfd-82f6-dd0f423e42aa
@@ -29,6 +29,7 @@ servant à optimiser certains calculs.
 
 - 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - 11h00-12h30 : Intervention de Guillaume Plique avec démos et temps d'échanges
+- [[https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1634892301849][Revoir la session]]
 
 ** DONE 8 octobre : Les outils Framasoft dans l'administration publique et présentation de framaforms/[[https://framablog.org/2021/05/25/oubliez-framaforms-le-logiciel-faites-de-la-place-a-yakforms/][Yakforms]]
    SCHEDULED: <2021-10-08 ven. 11:00-12:30>
