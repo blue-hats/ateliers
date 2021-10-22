@@ -6,10 +6,16 @@
   :ID:       cc85b175-39be-4fc5-a6d1-bb04be323b84
   :END:
 
+** 10 décembre : libre
+** 3 décembre : libre
 ** 26 novembre : réservé
    :PROPERTIES:
    :ID:       5d0f2313-191a-4a7b-944b-bbcecb2fb171
    :END:
+
+** 12 novembre : libre
+** 5 novembre : libre
+** 29 octobre : libre
 ** DONE 22 octobre : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po
    SCHEDULED: <2021-10-22 ven. 11:00-12:30>
    :PROPERTIES:
