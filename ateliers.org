@@ -80,6 +80,8 @@ responsabilités juridiques, partenariats, etc) qu'une association
 comme Framasoft peut rencontrer, spécifiquement dans son articulation
 avec les services de l'État.
 
+- [[https://asso.framasoft.org/nextcloud/s/qwoKPgRxko894yj][Voir le support de présentation]]
+
 *** Intervention : Yakforms
     :PROPERTIES:
     :ID:       04de124e-49db-4d2d-bd8d-3764c574714b
@@ -106,13 +108,15 @@ d'évolution.
 - 11h45-12h20 : Étude de cas : le logiciel Yakforms. Intervention de
   Théophile Lemarié, mainteneur de Yakforms et de framaforms.org.
 
+- [[https://asso.framasoft.org/nextcloud/s/H27X35Aeycc5AoG][Voir le support de présentation]]
+
 *** Revoir
     :PROPERTIES:
     :ID:       3cce25d2-2d87-4fe6-bf67-1356289bf40a
     :END:
 
 - Vous pouvez [[https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1633683557557][revoir la session ici]].
-- Vous pouvez accéder aux [[https://asso.framasoft.org/nextcloud/s/qwoKPgRxko894yj][supports de présentation ici]].
+- Vous pouvez accéder aux [[https://asso.framasoft.org/nextcloud/s/pEw4nHCEYEETKAn][supports de présentation ici]].
 
 ** DONE 24 septembre : Présentation du Standard pour un code informatique public, et retour d'expérience OpenFisca (EN)
    SCHEDULED: <2021-09-24 ven. 11:00-12:30>
