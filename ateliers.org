@@ -7,15 +7,30 @@
   :END:
 
 ** 10 décembre : libre
+:PROPERTIES:
+:ID:       37e4880b-e4f5-4446-8b12-5441a447a441
+:END:
 ** 3 décembre : libre
+:PROPERTIES:
+:ID:       551b651f-2556-4ae3-9d5b-72a843e00226
+:END:
 ** 26 novembre : réservé
    :PROPERTIES:
    :ID:       5d0f2313-191a-4a7b-944b-bbcecb2fb171
    :END:
 
 ** 12 novembre : libre
+:PROPERTIES:
+:ID:       9fd4379a-cb10-4862-9d59-d05afdf2d9c0
+:END:
 ** 5 novembre : libre
+:PROPERTIES:
+:ID:       c5e2c4b2-9dae-4751-99c2-bb1ecf36ff48
+:END:
 ** 29 octobre : libre
+:PROPERTIES:
+:ID:       94c0d748-d48d-4c4d-a7b5-7f056c984b3d
+:END:
 ** DONE 22 octobre : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po
    SCHEDULED: <2021-10-22 ven. 11:00-12:30>
    :PROPERTIES:
@@ -96,7 +111,8 @@ d'évolution.
     :ID:       3cce25d2-2d87-4fe6-bf67-1356289bf40a
     :END:
 
-Vous pouvez [[https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1633683557557][revoir la session ici]].
+- Vous pouvez [[https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/22298bc9d93b53540248207bc3f9e31260f3b4f1-1633683557557][revoir la session ici]].
+- Vous pouvez accéder aux [[https://asso.framasoft.org/nextcloud/s/qwoKPgRxko894yj][supports de présentation ici]].
 
 ** DONE 24 septembre : Présentation du Standard pour un code informatique public, et retour d'expérience OpenFisca (EN)
    SCHEDULED: <2021-09-24 ven. 11:00-12:30>
