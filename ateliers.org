@@ -6,15 +6,7 @@
   :ID:       cc85b175-39be-4fc5-a6d1-bb04be323b84
   :END:
 
-** 10 décembre : libre
-   :PROPERTIES:
-   :ID:       37e4880b-e4f5-4446-8b12-5441a447a441
-   :END:
-** 3 décembre : libre
-   :PROPERTIES:
-   :ID:       551b651f-2556-4ae3-9d5b-72a843e00226
-   :END:
-** 26 novembre : Propriété intellectuelle dans les marchés publics
+** 10 décembre : Propriété intellectuelle dans les marchés publics
    :PROPERTIES:
    :ID:       5d0f2313-191a-4a7b-944b-bbcecb2fb171
    :END:
@@ -25,7 +17,11 @@ en oeuvre les documents particuliers.
 - 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - 11h00-12h30 : Anne-Claire Viala et Sylvia Israel (APIE, DAJ).
 
-** 29 octobre : libre
+** 3 décembre : libre
+   :PROPERTIES:
+   :ID:       551b651f-2556-4ae3-9d5b-72a843e00226
+   :END:
+** CANCELED 29 octobre : libre
 :PROPERTIES:
 :ID:       94c0d748-d48d-4c4d-a7b5-7f056c984b3d
 :END:
