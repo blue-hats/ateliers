@@ -10,7 +10,8 @@
    :PROPERTIES:
    :ID:       7d62157c-7d58-4d74-8d15-68ade1c0d094
    :END:
-** 11 février : libre
+** 11 février : Présentation de l'outil VersLeLibre (AMUE) - détails à venir
+   SCHEDULED: <2022-02-11 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       084a3ea7-fcad-4cca-9074-e632afe92c31
    :END:
@@ -19,6 +20,7 @@
    :ID:       6e0a70f6-2fea-48aa-bb0c-00aec0c0e871
    :END:
 ** 14 janvier : Stratégie Open Source de RTE
+   SCHEDULED: <2022-01-14 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       66d9c0ac-802f-4868-87a7-00ef01edf69c
    :END:
@@ -36,6 +38,7 @@ tout salarié de bien développer.
   :END:
 
 ** 10 décembre : Propriété intellectuelle dans les marchés publics
+   SCHEDULED: <2021-12-10 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       5d0f2313-191a-4a7b-944b-bbcecb2fb171
    :END:
