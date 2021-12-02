@@ -43,8 +43,12 @@ tout salarié de bien développer.
    :ID:       5d0f2313-191a-4a7b-944b-bbcecb2fb171
    :END:
 
-Propriété intellectuelle dans les marchés publics : rédiger et mettre
-en oeuvre les documents particuliers.  
+Anne-Claire Viala et Sylvia Israel, de la mission d'appui au
+patrimoine immatériel de l'État, proposeront une introduction aux
+enjeux de propriété intellectuelle dans les achats informatiques de
+l'administration.  Elles insisteront sur le rôle clef des directeurs
+des systèmes d'information dans la définition des besoins
+d'utilisation et de réutilisation des livrables.
 
 - 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - 11h00-12h30 : Anne-Claire Viala et Sylvia Israel (APIE, DAJ).
