@@ -50,6 +50,9 @@ l'administration.  Elles insisteront sur le rôle clef des directeurs
 des systèmes d'information dans la définition des besoins
 d'utilisation et de réutilisation des livrables.
 
+Voir le [[https://www.economie.gouv.fr/files/files/directions_services/apie/propriete_intellectuelle/publications/Guide_CCAG2104.pdf][guide de mise en œuvre de la clause de propriété
+intellectuelle, avril 2021]]
+
 - 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - 11h00-12h30 : Anne-Claire Viala et Sylvia Israel (APIE, DAJ).
 
