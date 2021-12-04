@@ -6,10 +6,16 @@
   :ID:       4ee2e336-8ae9-400d-810b-c1a5c173add6
   :END:
 
-** 25 février : libre
+** 25 février : Présentation de la licence European Union Public Licence
    :PROPERTIES:
    :ID:       7d62157c-7d58-4d74-8d15-68ade1c0d094
    :END:
+
+Présentation de la licence "European Union Public Licence" par
+Patrice-Emmanuel Schmitz.
+
+- 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+
 ** 11 février : Présentation de l'outil VersLeLibre (AMUE) - détails à venir
    SCHEDULED: <2022-02-11 ven. 11:00-12:30>
    :PROPERTIES:
