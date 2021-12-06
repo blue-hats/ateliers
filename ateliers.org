@@ -62,14 +62,6 @@ intellectuelle, avril 2021]]
 - 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - 11h00-12h30 : Anne-Claire Viala et Sylvia Israel (APIE, DAJ).
 
-** CANCELED 3 décembre : libre
-   :PROPERTIES:
-   :ID:       551b651f-2556-4ae3-9d5b-72a843e00226
-   :END:
-** CANCELED 29 octobre : libre
-:PROPERTIES:
-:ID:       94c0d748-d48d-4c4d-a7b5-7f056c984b3d
-:END:
 ** DONE 22 octobre : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po
    SCHEDULED: <2021-10-22 ven. 11:00-12:30>
    :PROPERTIES:
