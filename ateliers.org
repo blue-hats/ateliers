@@ -34,6 +34,9 @@ Ils animeront enfin un échange pour que cet outils devienne une
 solution d’autoévaluation pour toutes les solutions numériques
 candidates à l’ouverture de leur code.
 
+Vous pouvez consulter le document de présentation de [[https://data.amue.fr/ressources/VersLeLibre_UnOutilDAideALaDecisionAAllerVersLeLibre_VersionFinale_V2-CCBYSA.pdf][l'outil
+VersLeLibre au format PDF]].
+
 - 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - Intervention de Bertrand Mocquet et David Rongeat (Amue)
 
