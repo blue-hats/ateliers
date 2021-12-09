@@ -37,7 +37,7 @@ candidates à l’ouverture de leur code.
 - 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - Intervention de Bertrand Mocquet et David Rongeat (Amue)
 
-** 28 janvier : libre
+** 28 janvier : Présentation de Rudder (détails à venir)
    :PROPERTIES:
    :ID:       6e0a70f6-2fea-48aa-bb0c-00aec0c0e871
    :END:
