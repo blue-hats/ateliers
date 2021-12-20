@@ -44,6 +44,32 @@ VersLeLibre au format PDF]].
    :PROPERTIES:
    :ID:       6e0a70f6-2fea-48aa-bb0c-00aec0c0e871
    :END:
+
+Rudder est un logiciel d'automatisation des infrastructures systèmes,
+qu'elles soient sur site, dans le cloud ou en hybride.  Il assure le
+déploiement ainsi que le maintien opérationnel et de sécurité au
+niveau OS, middleware et applicatif.  Une interface Web centralise la
+gestion des serveurs, et apporte ainsi un contrôle global et une
+visibilité accrue, permettant de les maintenir fiables et sécurisés en
+permanence. Son fonctionnement repose sur des rôles et directives
+attribués à des groupes. La collecte des informations se fait par
+l'intermédiaire d'un agent installé sur chaque nœud.
+
+Pour plus d'informations, visitez le [[https://www.rudder.io/][site Rudder]].  Rudder est aussi
+référencé dans le [[https://sill.etalab.gouv.fr/fr/software?id=164][SILL]].
+
+Au travers de cet atelier, Alexandre Brianceau, CEO de [[https://www.rudder.io/company/][Normation]],
+l'éditeur de Rudder, présentera la solution et son historique.
+Stéphane Paillet, sysadmin GNU Linux au sein du Centre de
+Responsabilité Technique Hébergement du Ministère de l'Éducation
+Nationale, fera ensuite un retour d'expérience de l'utilisation du
+logiciel au sein de la Plateforme d'Hébergement Mutualisé de
+l'Éducation Nationale.
+
+- 11h00-12h30 : dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]] 
+- Intervention d'Alexandre Brianceau et de Stéphane Paillet, suivi
+  d'une session de questions et réponses.
+
 ** 14 janvier : Stratégie Open Source de RTE
    SCHEDULED: <2022-01-14 ven. 11:00-12:30>
    :PROPERTIES:
