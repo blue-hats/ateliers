@@ -480,7 +480,7 @@ Apache/Guacamole.
 - 11h-12h30 : Intervention de Eric Mercier (Académie de Versailles) et Denis
   Bonnenfant (Académie de Paris)
 - Projet connexe proposé à la présentation : Apache Guacamole
-- [[https://dai.ly/x82vcub][Revoir sur le compte Dailymotion d'Etalab]]
+# - [[https://dai.ly/x82vcub][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 22 janvier : Présentation de [[https://proxmox.com][Proxmox]]
    SCHEDULED: <2021-01-22 ven. 11:00-12:30>
