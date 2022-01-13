@@ -67,8 +67,8 @@ logiciel au sein de la Plateforme d'Hébergement Mutualisé de
 l'Éducation Nationale.
 
 - 11h00-12h30 : dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]] 
-- Intervention d'Alexandre Brianceau et de Stéphane Paillet, suivi
-  d'une session de questions et réponses.
+- Intervention d'Alexandre Brianceau, Emmanuel Roguet et Stéphane
+  Paillet, suivi d'une session de questions et réponses.
 
 ** 14 janvier : Stratégie Open Source de RTE
    SCHEDULED: <2022-01-14 ven. 11:00-12:30>
