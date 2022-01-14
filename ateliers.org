@@ -70,7 +70,7 @@ l'Éducation Nationale.
 - Intervention d'Alexandre Brianceau, Emmanuel Roguet et Stéphane
   Paillet, suivi d'une session de questions et réponses.
 
-** 14 janvier : Stratégie Open Source de RTE
+** DONE 14 janvier : Stratégie Open Source de RTE
    SCHEDULED: <2022-01-14 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       66d9c0ac-802f-4868-87a7-00ef01edf69c
