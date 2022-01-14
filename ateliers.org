@@ -58,13 +58,13 @@ l'intermédiaire d'un agent installé sur chaque nœud.
 Pour plus d'informations, visitez le [[https://www.rudder.io/][site Rudder]].  Rudder est aussi
 référencé dans le [[https://sill.etalab.gouv.fr/fr/software?id=164][SILL]].
 
-Au travers de cet atelier, Alexandre Brianceau, CEO de [[https://www.rudder.io/company/][Normation]],
-l'éditeur de Rudder, présentera la solution et son historique.
-Stéphane Paillet, sysadmin GNU Linux au sein du Centre de
-Responsabilité Technique Hébergement du Ministère de l'Éducation
-Nationale, fera ensuite un retour d'expérience de l'utilisation du
-logiciel au sein de la Plateforme d'Hébergement Mutualisé de
-l'Éducation Nationale.
+Lors de cet atelier, Alexandre Brianceau, CEO de [[https://www.rudder.io/company/][Normation]], l’éditeur
+de Rudder, présentera la solution et son historique. Emmanuel Roguet,
+responsable du Centre de Responsabilité Technique Hébergement du
+Ministère de l’Éducation Nationale présentera ce service et ses
+missions. Stéphane Paillet, sysadmin GNU Linux au sein de CRT fera
+ensuite un retour d’expérience de l’utilisation du logiciel au sein de
+la Plateforme d’Hébergement Mutualisé de l’Éducation Nationale.
 
 - 11h00-12h30 : dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]] 
 - Intervention d'Alexandre Brianceau, Emmanuel Roguet et Stéphane
