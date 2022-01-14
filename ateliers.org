@@ -6,6 +6,10 @@
   :ID:       4ee2e336-8ae9-400d-810b-c1a5c173add6
   :END:
 
+** 22 avril : session à prendre
+** 8 avril : session à prendre
+** 25 mars : session à prendre
+** 11 mars : Présentation de Squash TM
 ** 25 février : Présentation de la licence European Union Public Licence
    :PROPERTIES:
    :ID:       7d62157c-7d58-4d74-8d15-68ade1c0d094
