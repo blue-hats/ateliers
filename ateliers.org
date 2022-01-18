@@ -18,13 +18,9 @@
    :END:
 
 ** 8 avril : session à prendre
-   :PROPERTIES:
-   :ID:       34234d78-c7b5-486f-81e0-9805ef734dcb
-   :END:
-** 25 mars : session à prendre
-   :PROPERTIES:
-   :ID:       111623bf-79e7-45d6-8b4e-9470a72f0343
-   :END:
+
+** 25 mars : Présentation de Catala
+
 ** 11 mars : Présentation de Squash TM
    :PROPERTIES:
    :ID:       40920d34-5bce-4a06-832f-05888021200b
