@@ -6,10 +6,25 @@
   :ID:       4ee2e336-8ae9-400d-810b-c1a5c173add6
   :END:
 
+** 25 mars : session à prendre
+** 11 mars : (session réservée)
+   :PROPERTIES:
+   :ID:       64b1af9b-3676-46ba-8dc6-8f30947e2a42
+   :END:
+
 ** 22 avril : session à prendre
+   :PROPERTIES:
+   :ID:       392067d7-a3c3-43d6-be8d-33232ddf159a
+   :END:
+
 ** 8 avril : session à prendre
+
 ** 25 mars : Présentation de Catala
+
 ** 11 mars : Présentation de Squash TM
+   :PROPERTIES:
+   :ID:       40920d34-5bce-4a06-832f-05888021200b
+   :END:
 ** 25 février : Présentation de la licence European Union Public Licence
    :PROPERTIES:
    :ID:       7d62157c-7d58-4d74-8d15-68ade1c0d094
@@ -28,7 +43,7 @@ Patrice-Emmanuel Schmitz.
 
 Bertrand Mocquet et David Rongeat de l’Amue (www.amue.fr) présenteront
 un outil méthodologique, VersLeLibre, qui permet des autoévaluations
-de solutions numériques pour prévoir l’ouverture de leur code. 
+de solutions numériques pour prévoir l’ouverture de leur code.
 
 Ils placeront ce dispositif dans le contexte Enseignement Supérieur et
 Recherche et la stratégie de l’Amue, présenteront leur retour
@@ -70,7 +85,7 @@ missions. Stéphane Paillet, sysadmin GNU Linux au sein de CRT fera
 ensuite un retour d’expérience de l’utilisation du logiciel au sein de
 la Plateforme d’Hébergement Mutualisé de l’Éducation Nationale.
 
-- 11h00-12h30 : dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]] 
+- 11h00-12h30 : dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - Intervention d'Alexandre Brianceau, Emmanuel Roguet et Stéphane
   Paillet, suivi d'une session de questions et réponses.
 
@@ -377,7 +392,7 @@ Il est possible de rejouer les différentes étapes du live-code : [[https://git
 Vous en avez envie depuis longtemps et n'avez jamais sauté le pas ? L'objectif de cet atelier est de faire de vous un contributeur Open Source.
 
 L'atelier vous expliquera l’intérêt de contribuer, vous permettra d’identifier les projets auxquels vous pouvez contribuer, les règles à respecter et les outils pour le faire. L'atelier présentera aussi différents programmes permettant de démarrer des contributions et vous fera faire votre première contribution.
- 
+
 [[https://github.com/llaske][Lionel Laské]], l’animateur de l'atelier est l'auteur de la plateforme pédagogique libre [[https://sugarizer.org][Sugarizer]], membre du board de l'organisation Open Source [[http://sugarlabs.org][SugarLabs]] et mentor pour le Google Summer of Code depuis 2013.
 
    SCHEDULED: <2021-05-21 ven. 11:00-12:30>
@@ -451,7 +466,7 @@ Présentation de l'[[https://www.ow2.org/view/OSS_Governance/][OW2 Good Governan
 # lien participants :
 # https://visio-agents.education.fr/meeting/signin/9426/creator/1/hash/29234ca28920f9adae3cecad34452fcaf5f815d0
 
-# lien modérateur 
+# lien modérateur
 # https://visio-agents.education.fr/meeting/signin/9426/creator/1/hash/64a8b975ba612b12b0eefbca72ffc12ff76d651a
 
 ** DONE 12 mars : Atelier de mise à jour RGPD pour Matomo
