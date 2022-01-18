@@ -6,10 +6,28 @@
   :ID:       4ee2e336-8ae9-400d-810b-c1a5c173add6
   :END:
 
+** 11 mars : session réservée
+   :PROPERTIES:
+   :ID:       64b1af9b-3676-46ba-8dc6-8f30947e2a42
+   :END:
+
 ** 22 avril : session à prendre
+   :PROPERTIES:
+   :ID:       392067d7-a3c3-43d6-be8d-33232ddf159a
+   :END:
+
 ** 8 avril : session à prendre
+   :PROPERTIES:
+   :ID:       34234d78-c7b5-486f-81e0-9805ef734dcb
+   :END:
 ** 25 mars : session à prendre
+   :PROPERTIES:
+   :ID:       111623bf-79e7-45d6-8b4e-9470a72f0343
+   :END:
 ** 11 mars : Présentation de Squash TM
+   :PROPERTIES:
+   :ID:       40920d34-5bce-4a06-832f-05888021200b
+   :END:
 ** 25 février : Présentation de la licence European Union Public Licence
    :PROPERTIES:
    :ID:       7d62157c-7d58-4d74-8d15-68ade1c0d094
