@@ -7,6 +7,9 @@
   :END:
 
 ** 25 mars : session à prendre
+   :PROPERTIES:
+   :ID:       7210e61c-a641-4328-b908-ec271325b6a3
+   :END:
 ** 11 mars : (session réservée)
    :PROPERTIES:
    :ID:       64b1af9b-3676-46ba-8dc6-8f30947e2a42
@@ -18,8 +21,14 @@
    :END:
 
 ** 8 avril : session à prendre
+   :PROPERTIES:
+   :ID:       103c951d-f48e-44c8-a494-5c18befc0318
+   :END:
 
 ** 25 mars : Présentation de Catala
+   :PROPERTIES:
+   :ID:       775fb255-27c9-4508-b6d6-3b03141e9e16
+   :END:
 
 ** 11 mars : Présentation de Squash TM
    :PROPERTIES:
@@ -127,6 +136,7 @@ faciliter la transition vers un mode de développement ouvert.
 
 - 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - Intervention de Gwilherm Poullennec et Lucian Balea
+- Consulter la [[https://speakerdeck.com/bluehats/strategie-rte-une-strategie-open-source-au-coeur-des-activites-logicielles-de-demain][première]] et la [[https://speakerdeck.com/bluehats/strategie-rte-presentation-du-devstudio][deuxième]] présentations
 - [[https://dai.ly/x873d6i][Revoir la session]]
 
 * 2021
@@ -152,6 +162,7 @@ Voir le [[https://www.economie.gouv.fr/files/files/directions_services/apie/prop
 
 - 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - 11h00-12h30 : Anne-Claire Viala et Sylvia Israel (APIE, DAJ).
+- [[https://speakerdeck.com/bluehats/propriete-intellectuelle-dans-les-marches-publics-informatiques][Consulter la présentation]]
 - [[https://dai.ly/x866ogt][Revoir la session]]
 
 ** DONE 22 octobre : Présentation des outils et librairies Open Source développés par le médialab de Sciences Po
@@ -336,7 +347,7 @@ Suite de la présentation de Nicolas Jullien du 9 avril.  Vous pouvez
 consulter l'[[https://hal.archives-ouvertes.fr/hal-00737173][article]] à l'origine de la présentation et télécharger [[https://box.bzg.io/cloud/index.php/s/5wiMKnArmxnDKw5][une
 sélection d'articles et de ressources]] associées.
 
-- 11h-12h : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
+- 11h-12h : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://speakerdeck.com/bluehats/produire-du-logiciel-libre-dot-dot-dot-dans-et-pour-ladministration][présentation]])
 - [[https://dai.ly/x82vcuf][Revoir sur le compte Dailymotion d'Etalab]]
 
 ** DONE 11 juin : Présentation du pôle EOLE et de www.mim-libre.fr
@@ -402,7 +413,7 @@ L'atelier vous expliquera l’intérêt de contribuer, vous permettra d’identi
 
 - 11h-12h30 : Intervention de Lionel Laské
 - [[https://dai.ly/x82vd1i][Revoir sur le compte Dailymotion d'Etalab]]
-- [[https://box.bzg.io/cloud/index.php/s/23z6s4FLPeFW3ER][Présentation PDF]]
+- [[https://speakerdeck.com/bluehats/open-source-comprendre-et-contribuer][Présentation PDF]]
 
 ** DONE 7 mai : Présentation du projet Open Terms Archive
    SCHEDULED: <2021-05-07 ven. 11:00-12:30>
@@ -438,16 +449,13 @@ Terms Archive]].
    :ID:       5a2ee054-c175-42f4-ac0f-5505f32cdacd
    :END:
 
-Présentation de l'article de Nicolas Jullien et Karine Roudaut : « Can
-Open Source projects succeed when the producers are not users? Lessons
-from the data processing field » ([[https://hal.archives-ouvertes.fr/hal-00737173][lien sur HAL]]).  Télécharger [[https://box.bzg.io/cloud/index.php/s/5wiMKnArmxnDKw5][une
-sélection d'articles et de ressources]] à lire en amont.
+Présentation de l'article de Nicolas Jullien et Karine Roudaut : « Can Open Source projects succeed when the producers are not users? Lessons from the data processing field » ([[https://hal.archives-ouvertes.fr/hal-00737173][lien sur HAL]]).  Télécharger [[https://box.bzg.io/cloud/index.php/s/5wiMKnArmxnDKw5][une sélection d'articles et de ressources]] à lire en amont.
 
 Intervention de Teresa Gomez-Diaz sur la production de logiciels
 libres au Laboratoire d'Informatique Gaspard-Monge (LIGM) : lire une
 [[file:details/2021-04-09.org][description détaillée]] avec une bibliographie.
 
-- 11h-11h45 : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://box.bzg.io/cloud/index.php/s/cNPA5SJqiaxaBwR][présentation]])
+- 11h-11h45 : Intervention de [[https://cv.archives-ouvertes.fr/nicolas-jullien][Nicolas Jullien]] ([[https://speakerdeck.com/bluehats/produire-du-logiciel-libre-dot-dot-dot-dans-et-pour-ladministration][présentation]])
 - 11h45-12h30 : Intervention de [[http://igm.univ-mlv.fr/~teresa/][Teresa Gomez-Diaz]] ([[http://igm.univ-mlv.fr/~teresa/logicielsLIGM/documents/Seminaires/2021avrilBlueHats_TGD.pdf][présentation]])
 - [[https://dai.ly/x8314eo][Revoir sur le compte Dailymotion d'Etalab]]
 
