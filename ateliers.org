@@ -6,21 +6,20 @@
   :ID:       4ee2e336-8ae9-400d-810b-c1a5c173add6
   :END:
 
-** 25 mars : session à prendre
-   :PROPERTIES:
-   :ID:       7210e61c-a641-4328-b908-ec271325b6a3
-   :END:
-** 11 mars : (session réservée)
-   :PROPERTIES:
-   :ID:       64b1af9b-3676-46ba-8dc6-8f30947e2a42
-   :END:
+** 27 mai : session à prendre
+   SCHEDULED: <2022-05-27 ven. 11:00-12:30>
+
+** 13 mai : session à prendre
+   SCHEDULED: <2022-05-13 ven. 11:00-12:30>
 
 ** 22 avril : session à prendre
+   SCHEDULED: <2022-04-22 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       392067d7-a3c3-43d6-be8d-33232ddf159a
    :END:
 
 ** 8 avril : session à prendre
+   SCHEDULED: <2022-04-08 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       103c951d-f48e-44c8-a494-5c18befc0318
    :END:
@@ -36,6 +35,7 @@
    :PROPERTIES:
    :ID:       40920d34-5bce-4a06-832f-05888021200b
    :END:
+
 ** 25 février : Présentation de la licence European Union Public Licence
    SCHEDULED: <2022-02-25 ven. 11:00-12:30>
    :PROPERTIES:
@@ -71,7 +71,7 @@ VersLeLibre au format PDF]].
 - 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - Intervention de Bertrand Mocquet et David Rongeat (Amue)
 
-** 28 janvier : Présentation de Rudder
+** DONE 28 janvier : Présentation de Rudder
    SCHEDULED: <2022-01-28 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       6e0a70f6-2fea-48aa-bb0c-00aec0c0e871
