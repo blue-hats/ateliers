@@ -8,9 +8,15 @@
 
 ** 27 mai : session à prendre
    SCHEDULED: <2022-05-27 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       31e8ca2d-ff70-4171-b349-997b1237dafc
+   :END:
 
 ** 13 mai : session à prendre
    SCHEDULED: <2022-05-13 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       a83e559c-fbfa-4a53-89de-0371af893ca5
+   :END:
 
 ** 22 avril : session à prendre
    SCHEDULED: <2022-04-22 ven. 11:00-12:30>
@@ -18,7 +24,7 @@
    :ID:       392067d7-a3c3-43d6-be8d-33232ddf159a
    :END:
 
-** 8 avril : session à prendre
+** 8 avril : Atelier avec France Brevets
    SCHEDULED: <2022-04-08 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       103c951d-f48e-44c8-a494-5c18befc0318
