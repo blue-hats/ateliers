@@ -24,6 +24,26 @@
    :ID:       392067d7-a3c3-43d6-be8d-33232ddf159a
    :END:
 
+Démarches Simplifiées (DS) est le logiciel libre pour créer des démarches administratives en ligne. Il offre une utilisation facile et intuitive autant pour l'agent créant la démarche, que le citoyen souhaitant la remplir.
+
+Le logiciel DS compte aujourd'hui trois instances publiques (celle de la DINUM, celle de l'ADULLACT et celle du GIP Territoire Numérique Bourgogne-Franche-Comté)
+
+La DINUM, Direction Interministériel du Numérique est la "DSI de l'État". L'ADULLACT est l'association de collectivités, créée il y a maintenant 20 ans, pour mutualiser les logiciels libre dans les domaines métiers des collectivités.
+
+Intervenants : 
+
+- Christophe ROBILLARD [[https://github.com/krichtof][@krichtof]], DINUM
+- Pascal KUCZYNSKI, ADULLACT
+- Matthieu FAURE [[https://github.com/mfaure][@mfaure]], ADULLACT
+
+Programme prévisionnel :
+
+- DS de l'idée initale à aujourd'hui un logiciel reconnu
+- Nouveaux besoins, le virage avec les collectivités
+- DINUM / ADULLACT : récit d'une collaboration pour un commun numérique
+
+
+
 ** 8 avril : Atelier avec France Brevets
    SCHEDULED: <2022-04-08 ven. 11:00-12:30>
    :PROPERTIES:
