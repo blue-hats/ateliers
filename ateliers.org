@@ -18,17 +18,25 @@
    :ID:       a83e559c-fbfa-4a53-89de-0371af893ca5
    :END:
 
-** 22 avril : session à prendre
+** 22 avril : Présentation de Démarches simplifiées
    SCHEDULED: <2022-04-22 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       392067d7-a3c3-43d6-be8d-33232ddf159a
    :END:
 
-Démarches Simplifiées (DS) est le logiciel libre pour créer des démarches administratives en ligne. Il offre une utilisation facile et intuitive autant pour l'agent créant la démarche, que le citoyen souhaitant la remplir.
+Démarches Simplifiées (DS) est le logiciel libre pour créer des
+démarches administratives en ligne. Il offre une utilisation facile et
+intuitive autant pour l'agent créant la démarche, que le citoyen
+souhaitant la remplir.
 
-Le logiciel DS compte aujourd'hui trois instances publiques (celle de la DINUM, celle de l'ADULLACT et celle du GIP Territoire Numérique Bourgogne-Franche-Comté)
+Le logiciel DS compte aujourd'hui trois instances publiques (celle de
+la DINUM, celle de l'ADULLACT et celle du GIP Territoire Numérique
+Bourgogne-Franche-Comté)
 
-La DINUM, Direction Interministériel du Numérique est la "DSI de l'État". L'ADULLACT est l'association de collectivités, créée il y a maintenant 20 ans, pour mutualiser les logiciels libre dans les domaines métiers des collectivités.
+La DINUM, Direction Interministériel du Numérique est la "DSI de
+l'État". L'ADULLACT est l'association de collectivités, créée il y a
+maintenant 20 ans, pour mutualiser les logiciels libre dans les
+domaines métiers des collectivités.
 
 Intervenants : 
 
@@ -36,13 +44,13 @@ Intervenants :
 - Pascal KUCZYNSKI, ADULLACT
 - Matthieu FAURE [[https://github.com/mfaure][@mfaure]], ADULLACT
 
+- 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+
 Programme prévisionnel :
 
 - DS de l'idée initale à aujourd'hui un logiciel reconnu
 - Nouveaux besoins, le virage avec les collectivités
 - DINUM / ADULLACT : récit d'une collaboration pour un commun numérique
-
-
 
 ** 8 avril : Atelier avec France Brevets
    SCHEDULED: <2022-04-08 ven. 11:00-12:30>
@@ -94,7 +102,7 @@ candidates à l’ouverture de leur code.
 Vous pouvez consulter le document de présentation de [[https://data.amue.fr/ressources/VersLeLibre_UnOutilDAideALaDecisionAAllerVersLeLibre_VersionFinale_V2-CCBYSA.pdf][l'outil
 VersLeLibre au format PDF]].
 
-- 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+- 11h00-12h00 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - Intervention de Bertrand Mocquet et David Rongeat (Amue)
 
 ** DONE 28 janvier : Présentation de Rudder
