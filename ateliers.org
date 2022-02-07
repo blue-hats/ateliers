@@ -59,15 +59,15 @@ Patrice-Emmanuel Schmitz.
    :ID:       084a3ea7-fcad-4cca-9074-e632afe92c31
    :END:
 
-Bertrand Mocquet et David Rongeat de l’Amue (www.amue.fr) présenteront
-un outil méthodologique, VersLeLibre, qui permet des autoévaluations
-de solutions numériques pour prévoir l’ouverture de leur code.
+Bertrand Mocquet et David Rongeat de l’[[https://www.amue.fr][Amue]] présenteront un outil
+méthodologique, VersLeLibre, qui permet des autoévaluations de
+solutions numériques pour prévoir l’ouverture de leur code.
 
 Ils placeront ce dispositif dans le contexte Enseignement Supérieur et
 Recherche et la stratégie de l’Amue, présenteront leur retour
 d’expériences avec ce dispositif.
 
-Ils animeront enfin un échange pour que cet outils devienne une
+Ils animeront enfin un échange pour que cet outil devienne une
 solution d’autoévaluation pour toutes les solutions numériques
 candidates à l’ouverture de leur code.
 
