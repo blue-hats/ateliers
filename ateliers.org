@@ -18,11 +18,23 @@
    :ID:       31e8ca2d-ff70-4171-b349-997b1237dafc
    :END:
 
-** 13 mai : session à prendre
+** 13 mai : Créer sa documentation technique ou logicielle avec Scenari Dokiel
    SCHEDULED: <2022-05-13 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       a83e559c-fbfa-4a53-89de-0371af893ca5
    :END:
+   
+[[https://doc.scenari.software/Dokiel/fr/][Dokiel]] est un logiciel libre [[https://scenari.org/][Scenari]] qui permet de créer collaborativement de la documentation technique et/ou logicielle et y associer du contenu de formation.
+
+[[https://doc.scenari.software/Dokiel/fr/][Dokiel]] s'adresse aux rédacteurs techniques et formateurs des éditeurs de logiciels, industriels, fabricants d'équipements, directions informatiques, services support...
+
+La documentation ainsi créée peut être diffusée sous forme de PDF, web ou scorm.
+
+Quels intérêts ?
+- Concevoir des objets métiers avancés (arbre synoptique, écran interactif, lecteur de procédure, quiz...) sans pré-requis technique, ni connaissance HTML
+- Automatiser la publication multi-format (pdf, web, scorm) et multi-canal (internet, intranet, plate-forme de formation, impression,...), à partir d'une source unique de contenu
+- Réduire le temps de mise à jour : la modification d'un fragment de contenu est répercutée sur l'ensemble des documents qui l'intègrent
+- Organiser le travail collaboratif d'une équipe : rédaction, relecture, validation (dans un environnement client/serveur)
 
 ** 22 avril : Présentation de Démarches simplifiées
    SCHEDULED: <2022-04-22 ven. 11:00-12:30>
