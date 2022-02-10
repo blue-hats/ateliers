@@ -8,9 +8,15 @@
 
 ** 24 juin : session à prendre
    SCHEDULED: <2022-06-24 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       22f6e624-848a-4293-8308-3ad21ba030eb
+   :END:
 
 ** 10 juin : session à prendre
    SCHEDULED: <2022-06-10 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       bcaa3d2f-e5b2-40e2-aadd-9c7f267ffbc7
+   :END:
 
 ** 27 mai : session à prendre
    SCHEDULED: <2022-05-27 ven. 11:00-12:30>
@@ -83,7 +89,7 @@ Programme prévisionnel :
    :END:
 
 ** 11 mars : Présentation de Squash TM
-   SCHEDULED: <2022-03-11 ven. 11:00-12:30>
+   SCHEDULED: <2022-03-11 ven. 09:30-11:00>
    :PROPERTIES:
    :ID:       40920d34-5bce-4a06-832f-05888021200b
    :END:
