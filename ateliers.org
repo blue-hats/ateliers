@@ -6,6 +6,12 @@
   :ID:       4ee2e336-8ae9-400d-810b-c1a5c173add6
   :END:
 
+** 24 juin : session à prendre
+   SCHEDULED: <2022-06-24 ven. 11:00-12:30>
+
+** 10 juin : session à prendre
+   SCHEDULED: <2022-06-10 ven. 11:00-12:30>
+
 ** 27 mai : session à prendre
    SCHEDULED: <2022-05-27 ven. 11:00-12:30>
    :PROPERTIES:
