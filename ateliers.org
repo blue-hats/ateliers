@@ -12,11 +12,17 @@
    :ID:       22f6e624-848a-4293-8308-3ad21ba030eb
    :END:
 
-** 10 juin : session à prendre
+** 10 juin : Présentation de GéoRivière
    SCHEDULED: <2022-06-10 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       bcaa3d2f-e5b2-40e2-aadd-9c7f267ffbc7
    :END:
+
+- Thomas Magnin-Feysot, Chargé de mission SIG/Informatique/Evaluation,
+  Parc naturel régional du Haut-Jura.
+
+- Emmanuelle Helly, Développeuse Python/Django/Geotrek/GeoRivière,
+  Makina Corpus.
 
 ** 27 mai : session à prendre
    SCHEDULED: <2022-05-27 ven. 11:00-12:30>
@@ -105,7 +111,7 @@ Patrice-Emmanuel Schmitz.
 
 - 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 
-** 11 février : Présentation de l'outil VersLeLibre (AMUE)
+** DONE 11 février : Présentation de l'outil VersLeLibre (AMUE)
    SCHEDULED: <2022-02-11 ven. 11:00-12:00>
    :PROPERTIES:
    :ID:       084a3ea7-fcad-4cca-9074-e632afe92c31
