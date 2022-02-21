@@ -18,6 +18,9 @@
    :ID:       bcaa3d2f-e5b2-40e2-aadd-9c7f267ffbc7
    :END:
 
+Présentation du logiciel libre [[https://makina-corpus.com/sig-webmapping/georiviere-outil-gestion-suivi-cours-eau#corps][GéoRivière]] - voir le [[https://github.com/Georiviere][code source]] et la
+[[https://georiviere.readthedocs.io/en/stable/][documentation]].
+
 - Thomas Magnin-Feysot, Chargé de mission SIG/Informatique/Evaluation,
   Parc naturel régional du Haut-Jura.
 
