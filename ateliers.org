@@ -6,7 +6,7 @@
   :ID:       4ee2e336-8ae9-400d-810b-c1a5c173add6
   :END:
 
-** 24 juin : session à prendre
+** 24 juin : Session à prendre
    SCHEDULED: <2022-06-24 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       22f6e624-848a-4293-8308-3ad21ba030eb
@@ -27,7 +27,7 @@ Présentation du logiciel libre [[https://makina-corpus.com/sig-webmapping/geori
 - Emmanuelle Helly, Développeuse Python/Django/Geotrek/GeoRivière,
   Makina Corpus.
 
-** 27 mai : session à prendre
+** 27 mai : Session à prendre
    SCHEDULED: <2022-05-27 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       31e8ca2d-ff70-4171-b349-997b1237dafc
