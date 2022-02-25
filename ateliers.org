@@ -103,7 +103,7 @@ Programme prévisionnel :
    :ID:       40920d34-5bce-4a06-832f-05888021200b
    :END:
 
-** 25 février : Présentation de la licence European Union Public Licence
+** DONE 25 février : Présentation de la licence European Union Public Licence
    SCHEDULED: <2022-02-25 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       7d62157c-7d58-4d74-8d15-68ade1c0d094
