@@ -103,6 +103,25 @@ Programme prévisionnel :
    :ID:       40920d34-5bce-4a06-832f-05888021200b
    :END:
 
+
+Squash TM est une application full web de gestion de patrimoine de
+test. Sa philosophie et son ergonomie apportent un cadre structurant
+pour initier une activité de test comme pour l'industrialiser, dans
+des contextes projet Cycle en V ou Agile.
+
+Squash TM permet de raffiner les spécifications de l'application en
+exigences, d'en vérifier la couverture par des cas de tests, et
+d'organiser ces cas de test dans des campagnes de tests à exécuter.
+Un espace dédié au pilotage permet en outre d'assurer le suivi de la
+qualité du système testé, et l'avancée de sa qualification.
+
+Dans cet atelier, Gérald Berjot et Sébastien Touzet nous présenteront
+l'activité de test fonctionnel au sein de l'Agirc-Arrco, et comment
+les testeurs utilisent Squash TM pour garantir la qualité de leurs
+applications.
+
+- 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+
 ** DONE 25 février : Présentation de la licence European Union Public Licence
    SCHEDULED: <2022-02-25 ven. 11:00-12:30>
    :PROPERTIES:
