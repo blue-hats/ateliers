@@ -125,10 +125,11 @@ Intervention de Denis Merigoux.
 
 - 11h-12h dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 
-** 11 mars : Présentation de Squash TM
+** DONE 11 mars : Présentation de Squash TM
    SCHEDULED: <2022-03-11 ven. 09:30-11:00>
    :PROPERTIES:
    :ID:       40920d34-5bce-4a06-832f-05888021200b
+   :LOCATION: https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b
    :END:
 
 
