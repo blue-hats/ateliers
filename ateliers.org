@@ -6,7 +6,7 @@
   :ID:       4ee2e336-8ae9-400d-810b-c1a5c173add6
   :END:
 
-** 24 juin : Session à prendre
+** 24 juin : Présentation des marchés de support et d'expertise logiciels libres
    SCHEDULED: <2022-06-24 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       22f6e624-848a-4293-8308-3ad21ba030eb
