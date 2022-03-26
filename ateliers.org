@@ -119,6 +119,16 @@ Programme prévisionnel :
    :ID:       103c951d-f48e-44c8-a494-5c18befc0318
    :END:
 
+France Brevets est une structure qui accompagne depuis plus de 10 ans
+les organismes de recherche, startups, PMEs, grands groupes ainsi que
+l’État français en matière de propriété intellectuelle.
+
+Dans cet atelier, France Brevets illustrera la relation entre les
+logiciels open source et les brevets, et fournira un éclairage sur les
+informations clé à connaitre avant la publication du code ouvert.
+
+- 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+
 ** DONE 11 mars : Présentation de Squash TM
    SCHEDULED: <2022-03-11 ven. 09:30-11:00>
    :PROPERTIES:
