@@ -27,8 +27,8 @@ Présentation du logiciel libre [[https://makina-corpus.com/sig-webmapping/geori
 - Emmanuelle Helly, Développeuse Python/Django/Geotrek/GeoRivière,
   Makina Corpus.
 
-** 27 mai : Présentation de Catala
-   SCHEDULED: <2022-05-27 ven. 11:00-12:00>
+** 20 mai : Présentation de Catala
+   SCHEDULED: <2022-05-20 ven. 11:00-12:00>
    :PROPERTIES:
    :ID:       31e8ca2d-ff70-4171-b349-997b1237dafc
    :END:
