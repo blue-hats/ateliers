@@ -26,7 +26,7 @@ Ateliers #BlueHats
 
 - Les ateliers ont lieu environ tous les quinze jours les **vendredi
   de 11h à 12h30** en visioconférence sur une instance BigBlueButton
-  ([lien](https://visio.incubateur.net/b/bas-vwv-2ww)).
+  ([lien](https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b)).
 
 - Ces ateliers #BlueHats sont soit ouverts à toute personne, soit
   réservés aux agents publics, soit réservés aux référents
