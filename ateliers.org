@@ -79,7 +79,7 @@ Quels intérêts ?
 - Réduire le temps de mise à jour : la modification d'un fragment de contenu est répercutée sur l'ensemble des documents qui l'intègrent
 - Organiser le travail collaboratif d'une équipe : rédaction, relecture, validation (dans un environnement client/serveur)
 
-** 22 avril : Présentation de Démarches simplifiées
+** DONE 22 avril : Présentation de Démarches simplifiées
    SCHEDULED: <2022-04-22 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       392067d7-a3c3-43d6-be8d-33232ddf159a
@@ -99,6 +99,8 @@ l'État". L'ADULLACT est l'association de collectivités, créée il y a
 maintenant 20 ans, pour mutualiser les logiciels libre dans les
 domaines métiers des collectivités.
 
+- [[https://communs.numerique.gouv.fr/ateliers/demarches-simplifiees/][Revoir la session]]
+
 Intervenants : 
 
 - Christophe ROBILLARD [[https://github.com/krichtof][@krichtof]], DINUM
@@ -113,7 +115,7 @@ Programme prévisionnel :
 - Nouveaux besoins, le virage avec les collectivités
 - DINUM / ADULLACT : récit d'une collaboration pour un commun numérique
 
-** 8 avril : Atelier avec France Brevets
+** DONE 8 avril : Atelier avec France Brevets
    SCHEDULED: <2022-04-08 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       103c951d-f48e-44c8-a494-5c18befc0318
@@ -127,7 +129,7 @@ Dans cet atelier, France Brevets illustrera la relation entre les
 logiciels open source et les brevets, et fournira un éclairage sur les
 informations clé à connaitre avant la publication du code ouvert.
 
-- 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+- [[https://communs.numerique.gouv.fr/ateliers/france-brevets/][Revoir la session]]
 
 Intervenants :
 
@@ -159,7 +161,7 @@ l'activité de test fonctionnel au sein de l'Agirc-Arrco, et comment
 les testeurs utilisent Squash TM pour garantir la qualité de leurs
 applications.
 
-- 9h30-11h dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+- [[https://communs.numerique.gouv.fr/ateliers/squash-tm/][Revoir la session]]
 
 ** DONE 25 février : Présentation de la licence European Union Public Licence
    SCHEDULED: <2022-02-25 ven. 11:00-12:30>
@@ -170,7 +172,7 @@ applications.
 Présentation de la licence "European Union Public Licence" par
 Patrice-Emmanuel Schmitz.
 
-- 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+- [[https://communs.numerique.gouv.fr/ateliers/eupl/][Revoir la session]]
 
 ** DONE 11 février : Présentation de l'outil VersLeLibre (AMUE)
    SCHEDULED: <2022-02-11 ven. 11:00-12:00>
@@ -193,7 +195,7 @@ candidates à l’ouverture de leur code.
 Vous pouvez consulter le document de présentation de [[https://data.amue.fr/ressources/VersLeLibre_UnOutilDAideALaDecisionAAllerVersLeLibre_VersionFinale_V2-CCBYSA.pdf][l'outil
 VersLeLibre au format PDF]].
 
-- 11h00-12h00 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+- [[https://communs.numerique.gouv.fr/ateliers/amue-verslelibre/][Revoir la session]]
 - Intervention de Bertrand Mocquet et David Rongeat (Amue)
 
 ** DONE 28 janvier : Présentation de Rudder
@@ -223,7 +225,6 @@ missions. Stéphane Paillet, sysadmin GNU Linux au sein de CRT fera
 ensuite un retour d’expérience de l’utilisation du logiciel au sein de
 la Plateforme d’Hébergement Mutualisé de l’Éducation Nationale.
 
-- 11h00-12h30 : dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 - Intervention d'Alexandre Brianceau, Emmanuel Roguet et Stéphane
   Paillet, suivi d'une session de questions et réponses.
 
@@ -263,10 +264,9 @@ Il sera complété par un aperçu de l'initiative Inner source de RTE, le
 DevStudio, basé sur un socle 100% open source et permettant de
 faciliter la transition vers un mode de développement ouvert.
 
-- 11h00-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+- [[https://communs.numerique.gouv.fr/ateliers/rte/][Revoir la session]]
 - Intervention de Gwilherm Poullennec et Lucian Balea
 - Consulter la [[https://speakerdeck.com/bluehats/strategie-rte-une-strategie-open-source-au-coeur-des-activites-logicielles-de-demain][première]] et la [[https://speakerdeck.com/bluehats/strategie-rte-presentation-du-devstudio][deuxième]] présentations
-- [[https://dai.ly/x873d6i][Revoir la session]]
 
 * 2021
   :PROPERTIES:
