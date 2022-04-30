@@ -56,20 +56,61 @@
    :PROPERTIES:
    :ID:       22f6e624-848a-4293-8308-3ad21ba030eb
    :END:
-** 10 juin : Présentation de GéoRivière
+** 10 juin : Présentation de GéoRivière
    SCHEDULED: <2022-06-10 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       bcaa3d2f-e5b2-40e2-aadd-9c7f267ffbc7
    :END:
 
+- 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+
 Présentation du logiciel libre [[https://makina-corpus.com/sig-webmapping/georiviere-outil-gestion-suivi-cours-eau#corps][GéoRivière]] - voir le [[https://github.com/Georiviere][code source]] et la
 [[https://georiviere.readthedocs.io/en/stable/][documentation]].
 
-- Thomas Magnin-Feysot, Chargé de mission SIG/Informatique/Evaluation,
-  Parc naturel régional du Haut-Jura.
+Intervenants :
 
-- Emmanuelle Helly, Développeuse Python/Django/Geotrek/GeoRivière,
-  Makina Corpus.
+ 1. Thomas Magnin-Feysot, Chargé de mission SIG/Informatique/
+    Evaluation, Parc naturel régional du Haut-Jura
+ 2. Emmanuelle Helly, Développeuse Python/Django/Geotrek/GeoRivière,
+    Makina Corpus
+
+Dans le cadre de l’exercice de la GEMAPI (GEstion des Milieux
+Aquatiques et Préventions des Inondations) sur son territoire, le 
+Parc naturel régional du haut-Jura a fait développer en partenariat
+avec Makina Corpus l’outil GeoRivière visant à organiser les données
+et à accompagner les techniciens dans leurs tâches courantes de
+gestion et de suivi des cours d'eau. 
+
+L’outil permet sur un territoire de compétence ou sur un bassin
+versant :
+
+1. d’avoir une base de données cartographique partagée, cohérente et
+   valide à long terme. Cette base permet de capitaliser l’ensemble
+   des informations sur le long terme ;
+2. de structurer les observations terrain effectués par l’équipe
+   technique pour mieux connaître et gérer les rivières ;
+3. d’organiser et visualiser l’ensemble des données de suivi et de
+   surveillance des cours d’eau ;
+4. de planifier les actions d’entretien courant et de restauration
+   des milieux aquatiques, en permettant une gestion administrative
+   et financière facilitée.
+
+Cette application web se veut générique et paramétrable dans
+l'objectif d'une utilisation par toutes autres collectivités
+titulaires de la compétence GEMAPI, intervenant dans des contextes
+hydrogéologiques différents. Il est possible d'importer des données
+externes, notamment celles des APIs Hub'eau température, qualité de
+l'eau et hydrométrie, d'autres intégrations sont prévues par la suite.
+
+Le choix volontaire d'utiliser des technologies Open Source et de
+libérer de 100% du code de développement permet à tout gestionnaire de
+rivière intéressé de télécharger, de déployer et de faire évoluer
+librement GeoRivière. Le développement de nouvelles fonctionnalités
+seront accessibles à toute la « communauté d’utilisateurs ».
+
+Cet atelier permettra de vous présenter l’outil et ses différentes
+fonctionnalités ainsi que les possibilités de déploiement et
+d’utilisation sur votre territoire.
 
 ** 20 mai : Présentation de Catala
    SCHEDULED: <2022-05-20 ven. 11:00-12:00>
