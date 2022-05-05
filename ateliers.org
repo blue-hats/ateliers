@@ -56,7 +56,7 @@
    :PROPERTIES:
    :ID:       22f6e624-848a-4293-8308-3ad21ba030eb
    :END:
-** 10 juin : Présentation de GéoRivière
+** 10 juin : Présentation du logiciel libre GeoRivière
    SCHEDULED: <2022-06-10 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       bcaa3d2f-e5b2-40e2-aadd-9c7f267ffbc7
@@ -64,7 +64,7 @@
 
 - 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 
-Présentation du logiciel libre [[https://makina-corpus.com/sig-webmapping/georiviere-outil-gestion-suivi-cours-eau#corps][GéoRivière]] - voir le [[https://github.com/Georiviere][code source]] et la
+Présentation du logiciel libre [[https://makina-corpus.com/sig-webmapping/georiviere-outil-gestion-suivi-cours-eau#corps][GeoRivière]] - voir le [[https://github.com/Georiviere][code source]] et la
 [[https://georiviere.readthedocs.io/en/stable/][documentation]].
 
 Intervenants :
@@ -87,7 +87,7 @@ versant :
 1. d’avoir une base de données cartographique partagée, cohérente et
    valide à long terme. Cette base permet de capitaliser l’ensemble
    des informations sur le long terme ;
-2. de structurer les observations terrain effectués par l’équipe
+2. de structurer les observations terrain effectuées par l’équipe
    technique pour mieux connaître et gérer les rivières ;
 3. d’organiser et visualiser l’ensemble des données de suivi et de
    surveillance des cours d’eau ;
