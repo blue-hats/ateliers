@@ -75,11 +75,11 @@ Intervenants :
     Makina Corpus
 
 Dans le cadre de l’exercice de la GEMAPI (GEstion des Milieux
-Aquatiques et Préventions des Inondations) sur son territoire, le 
+Aquatiques et Préventions des Inondations) sur son territoire, le
 Parc naturel régional du haut-Jura a fait développer en partenariat
 avec Makina Corpus l’outil GeoRivière visant à organiser les données
 et à accompagner les techniciens dans leurs tâches courantes de
-gestion et de suivi des cours d'eau. 
+gestion et de suivi des cours d'eau.
 
 L’outil permet sur un territoire de compétence ou sur un bassin
 versant :
@@ -138,20 +138,20 @@ informatique à l’Inria, et Liane Huttner, doctorante en droit à Paris
 I.
 
 - Le site web du langage : https://catala-lang.org
-- Le dépôt des sources : https://github.com/CatalaLang/catala 
-- Un article accessible en français : https://hal.inria.fr/hal-03128248/document 
+- Le dépôt des sources : https://github.com/CatalaLang/catala
+- Un article accessible en français : https://hal.inria.fr/hal-03128248/document
 
 
 Intervention de Denis Merigoux.
 
 - 11h-12h dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 
-** 13 mai : Créer sa documentation technique ou logicielle avec Scenari Dokiel
+** !! REPORTÉ !! +13 mai : Créer sa documentation technique ou logicielle avec Scenari Dokiel+
    SCHEDULED: <2022-05-13 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       a83e559c-fbfa-4a53-89de-0371af893ca5
    :END:
-   
+
 [[https://doc.scenari.software/Dokiel/fr/][Dokiel]] est un logiciel libre [[https://scenari.org/][Scenari]] qui permet de créer collaborativement de la documentation technique et/ou logicielle et y associer du contenu de formation.
 
 [[https://doc.scenari.software/Dokiel/fr/][Dokiel]] s'adresse aux rédacteurs techniques et formateurs des éditeurs de logiciels, industriels, fabricants d'équipements, directions informatiques, services support...
@@ -186,7 +186,7 @@ domaines métiers des collectivités.
 
 - [[https://communs.numerique.gouv.fr/ateliers/demarches-simplifiees/][Revoir la session]]
 
-Intervenants : 
+Intervenants :
 
 - Christophe ROBILLARD [[https://github.com/krichtof][@krichtof]], DINUM
 - Pascal KUCZYNSKI, ADULLACT
