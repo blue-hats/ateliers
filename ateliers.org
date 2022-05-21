@@ -112,7 +112,7 @@ Cet atelier permettra de vous présenter l’outil et ses différentes
 fonctionnalités ainsi que les possibilités de déploiement et
 d’utilisation sur votre territoire.
 
-** 20 mai : Présentation de Catala
+** DONE 20 mai : Présentation de Catala
    SCHEDULED: <2022-05-20 ven. 11:00-12:00>
    :PROPERTIES:
    :ID:       31e8ca2d-ff70-4171-b349-997b1237dafc
@@ -141,13 +141,11 @@ I.
 - Le dépôt des sources : https://github.com/CatalaLang/catala
 - Un article accessible en français : https://hal.inria.fr/hal-03128248/document
 
-
 Intervention de Denis Merigoux.
 
-- 11h-12h dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
+- [[https://communs.numerique.gouv.fr/ateliers/catala/][Revoir la session]]
 
 ** 13 mai REPORTÉ !!! Créer sa documentation technique ou logicielle avec Scenari Dokiel
-   SCHEDULED: <2022-05-13 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       a83e559c-fbfa-4a53-89de-0371af893ca5
    :END:
