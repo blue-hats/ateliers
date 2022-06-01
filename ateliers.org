@@ -21,7 +21,7 @@
    :PROPERTIES:
    :ID:       901b282d-ac1c-4abe-8593-b92a88f04683
    :END:
-** 28 octobre : Date libre
+** 28 octobre : Présentation de [[https://github.com/TOSIT-IO/TDP][TDP]]
    SCHEDULED: <2022-10-28 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       05d29c8c-74a5-4f6f-8d70-eba43ba0b97e
