@@ -81,6 +81,12 @@ Intervenants :
    :PROPERTIES:
    :ID:       f6f9495d-cdb3-49f3-928f-09eb1b115129
    :END:
+
+   Présentation de l'outil [Keycloakify](https://keycloakify.dev) qui permet de personnaliser les pages de login et register de Keycloak.
+   Grâce à Keycloakify, plus besoin d'arbitrer entre l'UX et la sécurité, vos utilisateurs ne se rendront même pas compte qu'ils sont redirigés.
+
+   Intervenant: [Joseph Garrone](https://github.com/garronej)
+
 ** 24 juin : Présentation des marchés de support et d'expertise logiciels libres
    SCHEDULED: <2022-06-24 ven. 11:00-12:30>
    :PROPERTIES:
