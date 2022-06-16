@@ -71,19 +71,20 @@ Intervenants :
    :PROPERTIES:
    :ID:       bd42ba42-4e7e-40ef-bc95-fea8d4814d15
    :END:
-** 2 septembre : Faire réussir un projet open source.
+** 2 septembre : Des outils pour mettre en valeur votre projet libre
    SCHEDULED: <2022-09-02 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       9a86675d-a40a-49b3-b4ea-790eac273faf
    :END:
 
-Atelier sur le thème: **mettre en valeur son travail open source**. Quelles sont les étapes pour parvenir à ce que votre projet
-soit vu, réutilisé et éventuellement trouve des contributeurs.  
+Quelles outils et méthodes pour parvenir à ce que votre projet libre
+soit vu, réutilisé et éventuellement trouve des contributeurs ?
 
-Nous parlerons de:  
-  - Comment mettre en place un site de documentation collaboratif avec [[https://wwwgitbook.com][GitBook]]
-  - Comment mettre en place un site promotionnel grâce a [[https://www.gitlanding.dev][GitLanding]]
-  - Quels sont les canaux de communications qui permettent d'avoir des yeux sur votre projet lorsque vous n'avez pas d'influence particulière sur les réseaux sociaux.
+Nous ferons un retour d'expérience sur :
+
+- Comment mettre en place un site promotionnel grâce a [[https://www.gitlanding.dev][GitLanding]]
+- Comment mettre en place un site de documentation collaboratif avec [[https://wwwgitbook.com][GitBook]]
+- Quels sont les canaux de communications qui permettent d'avoir des yeux sur votre projet lorsque vous n'avez pas d'influence particulière sur les réseaux sociaux.
 
 Intervenant: [[https://github.com/garronej][Joseph Garrone]], [[https://github.com/thieryw][William Thiery]]
 
