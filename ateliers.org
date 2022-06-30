@@ -82,6 +82,7 @@ soit vu, réutilisé et éventuellement trouve des contributeurs ?
 
 Nous ferons un retour d'expérience sur :
 
+- Comment crée rapidement votre README.md afin qu'il soit facteur de crédibilité pour votre projet.  
 - Comment mettre en place un site promotionnel grâce a [[https://www.gitlanding.dev][GitLanding]]
 - Comment mettre en place un site de documentation collaboratif avec [[https://wwwgitbook.com][GitBook]]
 - Quels sont les canaux de communications qui permettent d'avoir des yeux sur votre projet lorsque vous n'avez pas d'influence particulière sur les réseaux sociaux.
