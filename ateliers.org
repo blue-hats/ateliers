@@ -62,6 +62,9 @@ Intervenants :
    :ID:       d6167d10-be4c-4d15-b0ac-7aff7000e3b4
    :END:
 ** 30 septembre : Présentation de LocoKit, un outil libre Low-code, avec le
+   :PROPERTIES:
+   :ID:       db85ac78-0e93-4445-8290-4cd7a8b2c15c
+   :END:
 projet CaPel du Parc national de Port-Cros
    SCHEDULED: <2022-09-30 ven. 11:00-12:30>
    :PROPERTIES:
@@ -82,7 +85,7 @@ web Makina Corpus - David Poncin Parc National de Port-Cros.
    :ID:       9a86675d-a40a-49b3-b4ea-790eac273faf
    :END:
 
-Quelles outils et méthodes pour parvenir à ce que votre projet libre
+Quels outils et méthodes pour parvenir à ce que votre projet libre
 soit vu, réutilisé et éventuellement trouve des contributeurs ?
 
 Nous ferons un retour d'expérience sur :
@@ -92,7 +95,7 @@ Nous ferons un retour d'expérience sur :
 - Comment mettre en place un site de documentation collaboratif avec [[https://wwwgitbook.com][GitBook]]
 - Quels sont les canaux de communications qui permettent d'avoir des yeux sur votre projet lorsque vous n'avez pas d'influence particulière sur les réseaux sociaux.
 
-Intervenant: [[https://github.com/garronej][Joseph Garrone]], [[https://github.com/thieryw][William Thiery]]
+Intervenants : [[https://github.com/garronej][Joseph Garrone]], [[https://github.com/thieryw][William Thiery]]
 
 - 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 
