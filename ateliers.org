@@ -61,11 +61,16 @@ Intervenants :
    :PROPERTIES:
    :ID:       d6167d10-be4c-4d15-b0ac-7aff7000e3b4
    :END:
-** 30 septembre : Date libre pour un atelier BlueHats
+** 30 septembre : Présentation de LocoKit, un outil libre Low-code, avec le
+projet CaPel du Parc national de Port-Cros
    SCHEDULED: <2022-09-30 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       e1c1904b-246e-4521-9dd3-499785c47550
    :END:
+
+Intervenants : Mathieu Dartigues, créateur de LocoKit et Développeur
+web Makina Corpus - David Poncin Parc National de Port-Cros.
+
 ** 16 septembre : Date libre pour un atelier BlueHats
    SCHEDULED: <2022-09-16 ven. 11:00-12:30>
    :PROPERTIES:
