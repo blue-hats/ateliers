@@ -6,17 +6,26 @@
   :ID:       4ee2e336-8ae9-400d-810b-c1a5c173add6
   :END:
 
+** 30 septembre : Présentation de LocoKit, un outil libre Low-code, avec le  projet CaPel du Parc national de Port-Cros
+   :PROPERTIES:
+   :ID:       db85ac78-0e93-4445-8290-4cd7a8b2c15c
+   :END:
+  <2022-09-30 ven. 11:00-12:30>
+
+Intervenants : Mathieu Dartigues, créateur de LocoKit et Développeur
+web Makina Corpus - David Poncin Parc National de Port-Cros.
+
 ** 23 décembre  : Date libre pour un atelier BlueHats
    SCHEDULED: <2022-12-23 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       7e20fbd3-3326-4395-84c2-e178c31f3a1b
    :END:
-** 9 décembre : Date libre pour un atelier BlueHats
+** 9 décembre : Présentation PMB (2/2)
    SCHEDULED: <2022-12-09 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       739a6283-fd8a-463e-aec0-87aae93c0dc2
    :END:
-** 25 novembre : Date libre pour un atelier BlueHats
+** 25 novembre : Présentation PMB (1/2)
    SCHEDULED: <2022-11-25 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       901b282d-ac1c-4abe-8593-b92a88f04683
@@ -133,7 +142,7 @@ Intervenants : [[https://github.com/garronej][Joseph Garrone]], [[https://githu
 
 - 11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]
 
-** 8 juillet : Présentation de l'outil [[https://keycloakify.dev][Keycloakify]]
+** DONE 8 juillet : Présentation de l'outil [[https://keycloakify.dev][Keycloakify]]
    SCHEDULED: <2022-07-08 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       f6f9495d-cdb3-49f3-928f-09eb1b115129
