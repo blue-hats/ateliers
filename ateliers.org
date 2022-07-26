@@ -71,24 +71,35 @@ Intervenants :
    :ID:       d6167d10-be4c-4d15-b0ac-7aff7000e3b4
    :END:
    
-Docusaurus est un outil développé par [Meta Open Source](https://opensource.fb.com/) (Facebook) pour créer rapidement des sites de documentation. 
+Docusaurus est un outil développé par [[https://opensource.fb.com][Meta Open Source]] (Facebook) pour
+créer rapidement des sites de documentation.
 
-Il s'agit d'un générateur de site statique sous license MIT, basé sur React, et avec des opinions fortes. 
+Il s'agit d'un générateur de site statique sous license MIT, basé sur
+React, et avec des opinions fortes.
 
-L'idée est de déployer sa documentation le plus rapidement possible, sans avoir à assembler une stack technique, et de voir plus tard pour la personnalisation.
+L'idée est de déployer sa documentation le plus rapidement possible,
+sans avoir à assembler une stack technique, et de voir plus tard pour
+la personnalisation.
 
-Il permet de se concentrer sur l'essentiel: l'écriture du contenu en Markdown. Il reste cependant puissant et flexible, capable de respecter votre image de marque.
+Il permet de se concentrer sur l'essentiel: l'écriture du contenu en
+Markdown. Il reste cependant puissant et flexible, capable de
+respecter votre image de marque.
 
-Après 4 ans de développement, la version 2.0 vient de sortir officiellement, mais la beta était déjà largement utilisée en production (voir [la galerie](https://docusaurus.io/showcase)). Quelques exemples: [Figma](https://www.figma.com/plugin-docs/), [Snapchat](https://docs.snap.com/), [React-Native](https://reactnative.dev/), [Jest](https://jestjs.io/), [Supabase](https://supabase.com/docs), [Ionic](https://ionicframework.com/docs)...
+Après 4 ans de développement, la version 2.0 vient de sortir
+officiellement, mais la beta était déjà largement utilisée en
+production (voi [[https://docusaurus.io/showcase][la galerie]]). Quelques exemples: [[https://www.figma.com/plugin-docs/][Figma]], [[https://docs.snap.com][Snapchat]],
+[[https://reactnative.dev][React-Native]], [[https://jestjs.io][Jest]] [[https://supabase.com/docs][Supabase]], [[https://ionicframework.com/docs][Ionic]].
 
-Sébastien fera une démo live des fonctionalités principales de Docusaurus, de l'initialisation jusqu'au déploiement en production, puis répondra aux questions posées.
+Sébastien fera une démo live des fonctionalités principales de
+Docusaurus, de l'initialisation jusqu'au déploiement en production,
+puis répondra aux questions posées.
 
-- Le [code source](ttps://github.com/facebook/docusaurus)
-- Le [site du projet](https://docusaurus.io/)
+- Le [[https://github.com/facebook/docusaurus][code source]]
+- Le [[https://docusaurus.io/][site du projet]]
 
 Intervenants :
-- [Sébastien Lorber](https://sebastienlorber.com), maintaineur principal de Docusaurus
 
+- [[https://sebastienlorber.com][Sébastien Lorber]], maintaineur principal de Docusaurus
    
 ** 30 septembre : Présentation du logiciel libre [[https://locokit.io][LocoKit]] à travers la plate-forme [[https://capel.portcros-parcnational.fr/][CaPeL]]
    SCHEDULED: <2022-09-30 ven. 11:00-12:30>
