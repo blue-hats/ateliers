@@ -65,11 +65,31 @@ Intervenants :
 - Mehdi BEN AISSA : Consultant et Expert technique du projet TDP
 - Olivier MAZAIN : Responsable de la section DIODE au sein de la DTNUM/Pôle Données (directeur du projet TDP)
 
-** 14 octobre : Date libre pour un atelier BlueHats
+** 14 octobre : Présentation de [Docusaurus](https://docusaurus.io)
    SCHEDULED: <2022-10-14 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       d6167d10-be4c-4d15-b0ac-7aff7000e3b4
    :END:
+   
+Docusaurus est un outil développé par [Meta Open Source](https://opensource.fb.com/) (Facebook) pour créer rapidement des sites de documentation. 
+
+Il s'agit d'un générateur de site statique sous license MIT, basé sur React, et avec des opinions fortes. 
+
+L'idée est de déployer sa documentation le plus rapidement possible, sans avoir à assembler une stack technique, et de voir plus tard pour la personnalisation.
+
+Il permet de se concentrer sur l'essentiel: l'écriture du contenu en Markdown. Il reste cependant puissant et flexible, capable de respecter votre image de marque.
+
+Après 4 ans de développement, la version 2.0 vient de sortir officiellement, mais la beta était déjà largement utilisée en production (voir [la galerie](https://docusaurus.io/showcase)). Quelques exemples: [Figma](https://www.figma.com/plugin-docs/), [Snapchat](https://docs.snap.com/), [React-Native](https://reactnative.dev/), [Jest](https://jestjs.io/), [Supabase](https://supabase.com/docs), [Ionic](https://ionicframework.com/docs)...
+
+Sébastien fera une démo live des fonctionalités principales de Docusaurus, de l'initialisation jusqu'au déploiement en production, puis répondra aux questions posées.
+
+- Le [code source](ttps://github.com/facebook/docusaurus)
+- Le [site du projet](https://docusaurus.io/)
+
+Intervenants :
+- [Sébastien Lorber](https://sebastienlorber.com), maintaineur principal de Docusaurus
+
+   
 ** 30 septembre : Présentation du logiciel libre [[https://locokit.io][LocoKit]] à travers la plate-forme [[https://capel.portcros-parcnational.fr/][CaPeL]]
    SCHEDULED: <2022-09-30 ven. 11:00-12:30>
    :PROPERTIES:
