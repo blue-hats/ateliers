@@ -6,7 +6,7 @@
   :ID:       4ee2e336-8ae9-400d-810b-c1a5c173add6
   :END:
 
-** 23 décembre  : Date libre pour un atelier BlueHats
+** 23 décembre : Pas d'atelier BlueHats
    SCHEDULED: <2022-12-23 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       7e20fbd3-3326-4395-84c2-e178c31f3a1b
