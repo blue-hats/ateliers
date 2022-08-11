@@ -138,11 +138,12 @@ Vous découvrirez également l'outil libre LocoKit
 et les différentes fonctionnalités qui ont été utilisées 
 dans le cadre de la fabrication de CaPeL.
 
-** 16 septembre : Date libre pour un atelier BlueHats
+** 16 septembre : Présentation de NixOS et son écosystème
    SCHEDULED: <2022-09-16 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       bd42ba42-4e7e-40ef-bc95-fea8d4814d15
    :END:
+
 ** 2 septembre : Des outils pour mettre en valeur votre projet libre
    SCHEDULED: <2022-09-02 ven. 11:00-12:30>
    :PROPERTIES:
