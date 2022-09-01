@@ -1,6 +1,23 @@
 #+title: Ateliers #BlueHats
 #+category: BLH
 
+* 2023
+  :PROPERTIES:
+  :ID:       320a0c70-7e0d-4244-b756-ee99bf34e8b5
+  :END:
+
+** 20 janvier : Présentation de la contribution de l'État à Samba
+   SCHEDULED: <2023-01-20 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       689a45e6-4668-4ac2-a7bb-7e743112bfc2
+   :END:
+
+** 6 janvier : Présentation de https://github.com/DGAC/inseca
+   SCHEDULED: <2023-01-06 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       dc86234d-4422-43f2-9829-2dab192fb886
+   :END:
+
 * 2022
   :PROPERTIES:
   :ID:       4ee2e336-8ae9-400d-810b-c1a5c173add6
