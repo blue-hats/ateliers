@@ -6,6 +6,21 @@
   :ID:       320a0c70-7e0d-4244-b756-ee99bf34e8b5
   :END:
 
+** 3 mars : Libre
+   SCHEDULED: <2023-03-03 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       dc80d464-2fe5-4e3b-b8f6-b24ccf0c2f5e
+   :END:
+** 17 février : Libre
+   SCHEDULED: <2023-02-17 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       4d5b15ef-2bb7-41a9-8fef-462f1aec7046
+   :END:
+** 3 février : Libre
+   SCHEDULED: <2023-02-03 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       7d92e667-7b5e-4e9b-8f84-08a9f43ebd15
+   :END:
 ** 20 janvier : Présentation de la contribution de l'État à Samba
    SCHEDULED: <2023-01-20 ven. 11:00-12:30>
    :PROPERTIES:
@@ -200,7 +215,7 @@ Nous verrons :
 
 Intervenant : [[https://github.com/RaitoBezarius][Ryan Lahfa]]
 
-** 2 septembre : Des outils pour mettre en valeur votre projet libre
+** DONE 2 septembre : Des outils pour mettre en valeur votre projet libre
    SCHEDULED: <2022-09-02 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       9a86675d-a40a-49b3-b4ea-790eac273faf
