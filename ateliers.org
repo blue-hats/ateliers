@@ -156,7 +156,7 @@ Intervenants :
 Présentation du logiciel libre [[https://locokit.io][LocoKit]] à travers la plate-forme [[https://capel.portcros-parcnational.fr/][CaPeL]],
 Carnet de Plongées en Ligne du Parc national de Port-Cros.
 
-voir le [[https://github.com/locokit/locokit][code source]] et la [[https://docs.locokit.io][documentation]].
+Voir le [[https://github.com/locokit/locokit][code source]] et la [[https://docs.locokit.io][documentation]].
 
 Intervenants :
 
@@ -193,7 +193,7 @@ Vous découvrirez également l'outil libre LocoKit
 et les différentes fonctionnalités qui ont été utilisées 
 dans le cadre de la fabrication de CaPeL.
 
-** 16 septembre : Présentation de NixOS et son écosystème
+** DONE 16 septembre : Présentation de NixOS et son écosystème
    SCHEDULED: <2022-09-16 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       bd42ba42-4e7e-40ef-bc95-fea8d4814d15
