@@ -16,11 +16,18 @@
    :PROPERTIES:
    :ID:       4d5b15ef-2bb7-41a9-8fef-462f1aec7046
    :END:
-** 3 février : Libre
+** 3 février : Présentation d'[[https://www.osuny.org][Osuny]]
    SCHEDULED: <2023-02-03 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       7d92e667-7b5e-4e9b-8f84-08a9f43ebd15
    :END:
+
+Open Source University, la plateforme numérique en source ouverte des Universités & des Écoles.
+
+Osuny est une solution en source ouverte permettant au monde de l'Enseignement Supérieur et de la Recherche de produire et administrer des sites Web accessibles et sobres.
+
+Intervenant: [[https://github.com/arnaudlevy][Arnaud Levy]]
+
 ** 20 janvier : Présentation de la contribution de l'État à Samba
    SCHEDULED: <2023-01-20 ven. 11:00-12:30>
    :PROPERTIES:
