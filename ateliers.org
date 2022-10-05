@@ -83,6 +83,27 @@ personnes.
    :PROPERTIES:
    :ID:       901b282d-ac1c-4abe-8593-b92a88f04683
    :END:
+
+[[https://fr.wikipedia.org/wiki/PMB_(logiciel)][PMB]] est le logiciel libre de gestion documentaire de référence.
+Évolutif et hautement personnalisable, PMB répond pleinement aux
+besoins des documentalistes, des knowledge managers et des chargés
+d’information. Entièrement personnalisable, PMB centralise les
+données, valorise les fonds documentaires, améliore la veille et
+permet une capitalisation des ressources essentielles.
+
+De nombreuses administrations publiques utilisent ce logiciel :
+départements, ministères, académies, hôpitaux, écoles, etc.  Le CHU de
+Bordeaux l'utilise PMB depuis 2006.
+
+Marie-Hélène LEFORT, documentaliste, présentera dans cet atelier
+#BlueHats les raisons qui ont poussé le CHU de Bordeaux à choisir le
+logiciel libre PMB, avant d’aborder le contexte d’installation, les
+usages principaux du logiciel et les apports de celui-ci dans les
+pratiques documentaires quotidiennes.
+
+Bérengère Royer, responsable commerciale chez PMB Services, détaillera
+les prestations proposées par PMB Services autour de PMB.
+
 ** 28 octobre : Présentation de [[https://github.com/TOSIT-IO/TDP][TDP]]
    SCHEDULED: <2022-10-28 ven. 11:00-12:30>
    :PROPERTIES:
