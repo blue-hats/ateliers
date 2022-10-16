@@ -139,7 +139,7 @@ Intervenants :
 - Mehdi BEN AISSA : Consultant et Expert technique du projet TDP
 - Olivier MAZAIN : Responsable de la section DIODE au sein de la DTNUM/Pôle Données (directeur du projet TDP)
 
-** 14 octobre : Présentation de [[https://docusaurus.io][Docusaurus]]
+** DONE 14 octobre : Présentation de [[https://docusaurus.io][Docusaurus]]
    SCHEDULED: <2022-10-14 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       d6167d10-be4c-4d15-b0ac-7aff7000e3b4
@@ -161,7 +161,7 @@ respecter votre image de marque.
 
 Après 4 ans de développement, la version 2.0 vient de sortir
 officiellement, mais la beta était déjà largement utilisée en
-production (voi [[https://docusaurus.io/showcase][la galerie]]). Quelques exemples: [[https://www.figma.com/plugin-docs/][Figma]], [[https://docs.snap.com][Snapchat]],
+production (voir [[https://docusaurus.io/showcase][la galerie]]). Quelques exemples: [[https://www.figma.com/plugin-docs/][Figma]], [[https://docs.snap.com][Snapchat]],
 [[https://reactnative.dev][React-Native]], [[https://jestjs.io][Jest]] [[https://supabase.com/docs][Supabase]], [[https://ionicframework.com/docs][Ionic]].
 
 Sébastien fera une démo live des fonctionalités principales de
