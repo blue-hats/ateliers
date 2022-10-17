@@ -228,7 +228,8 @@ dans le cadre de la fabrication de CaPeL.
    :END:
 
 [[https://nixos.org][NixOS]] est une distribution Linux particulière, derrière cette distribution, il existe un écosystème développé depuis 2003.
-Culminant à la thèse de Nix en 2006, le gestionnaire de paquets (de la même nature que `apt-get` ou `rpm`), central dans l'écosystème.
+
+Culminant à la thèse de Nix en 2006, le gestionnaire de paquets (de la même nature que =apt-get= ou =rpm=), central dans l'écosystème.
 
 Nix se distingue des gestionnaires de paquets usuels en l'adoption d'un langage de programmation reposant sur les paradigmes fonctionnels pour décrire les logiciels empaquetés : [[https://github.com/NixOS/nixpkgs/][nixpkgs]] le « centre logiciel » de l'écosystème Nix en est son représentant canonique.
 
