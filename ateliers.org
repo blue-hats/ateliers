@@ -6,11 +6,16 @@
   :ID:       320a0c70-7e0d-4244-b756-ee99bf34e8b5
   :END:
 
-** 3 mars : Libre
+** 3 mars : Présentation des évolutions d'atlaSanté
    SCHEDULED: <2023-03-03 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       dc80d464-2fe5-4e3b-b8f6-b24ccf0c2f5e
    :END:
+
+Intervenante : Stéphanie Dauthel.
+
+Résumé : TBD.
+
 ** 17 février : Libre
    SCHEDULED: <2023-02-17 ven. 11:00-12:30>
    :PROPERTIES:
