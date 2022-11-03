@@ -109,7 +109,7 @@ pratiques documentaires quotidiennes.
 Bérengère Royer, responsable commerciale chez PMB Services, détaillera
 les prestations proposées par PMB Services autour de PMB.
 
-** 28 octobre : Présentation de [[https://github.com/TOSIT-IO/TDP][TDP]]
+** DONE 28 octobre : Présentation de [[https://github.com/TOSIT-IO/TDP][TDP]]
    SCHEDULED: <2022-10-28 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       05d29c8c-74a5-4f6f-8d70-eba43ba0b97e
