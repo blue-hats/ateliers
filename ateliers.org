@@ -78,12 +78,7 @@ personnes.
    :PROPERTIES:
    :ID:       7e20fbd3-3326-4395-84c2-e178c31f3a1b
    :END:
-** 9 décembre : Présentation PMB (2/2)
-   SCHEDULED: <2022-12-09 ven. 11:00-12:30>
-   :PROPERTIES:
-   :ID:       739a6283-fd8a-463e-aec0-87aae93c0dc2
-   :END:
-** 25 novembre : Présentation PMB (1/2)
+** 25 novembre : Présentation PMB
    SCHEDULED: <2022-11-25 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       901b282d-ac1c-4abe-8593-b92a88f04683
