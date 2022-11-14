@@ -94,7 +94,7 @@ Venez découvrir cette librairie qui va vous faire adorer le DSFR.
 - ✅ Intégration clef en main avec Next.js, Vite et Create React App.  
 - ✅ Vous permet de faire du CSS in JS.  
 - ✅ Si vous utilisez TypeScript, vous provitez [[https://2099829344-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fcccd1rMVr8ooPvsgugcw%2Fuploads%2FUp21VsKVEqa9DrxkB3sX%2Ffrcx.gif?alt=media&token=3bc1be6d-8d31-423f-8525-1386bb49c24b][de l'autocomplétion]] et des warnings en cas de faute de frappe.  
-- 🐸 (Bonus) Votre site actuel utilise [MUI](https://mui.org)? `react-dsfr` peut le DSFRifier avec un simple provider.  
+- 🐸 (Bonus) Votre site actuel utilise [[https://mui.org][MUI]]? `react-dsfr` peut le DSFRifier avec un simple provider.  
 
 [[https://github.com/garronej][Joseph Garrone]], Ingéngneur logiciel au pôle logiciel libre d'Etalab.
    
