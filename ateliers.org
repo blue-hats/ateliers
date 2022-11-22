@@ -98,8 +98,7 @@ Venez découvrir cette librairie qui va vous faire adorer le DSFR.
 
 [[https://github.com/garronej][Joseph Garrone]], Ingéngneur logiciel au pôle logiciel libre d'Etalab.
    
-   
-** 25 novembre : Présentation PMB
+** CANCELED 25 novembre : Présentation PMB
    SCHEDULED: <2022-11-25 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       901b282d-ac1c-4abe-8593-b92a88f04683
