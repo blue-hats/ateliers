@@ -23,8 +23,20 @@ Résumé : TBD.
    :PROPERTIES:
    :ID:       4d5b15ef-2bb7-41a9-8fef-462f1aec7046
    :END:
+   
+On entend parler de metaverse de plus en plus, autant au niveau commercial que plus recemment au niveau legislatif. Derriere ce terme abstrait il existe pourtant deja des implementations et en particuler des implementations libres basees sur des standards et interroperable. Le but de cet atelier et de decouvrir lesquelles, avec quels avantages et limites, et comment les mettre en place.
 
-Intervenante : Fabien Benetou.
+Mozilla Hubs : solution complete, clef en main, libre et geree par Mozilla.
+
+Networked AFrame : couche uniquement reseau pour qu'un objet en 3D, et potentiellement la voix et la video, puisse s'afficher de facon coherente sur les ordinateurs ou casques VR et AR de tous les participants.
+
+ImmerSpace : couche uniquement federatrice, gestion de profile avec des meta-donnees associes, permettant de connecter plusieurs serveurs avec des implementations independantes e.g Mozilla Hubs, Networked AFrames, FrameVR, etc.
+
+Dedie a tout publique pour l'introduction, en particulier l'architecture, mais pour l'limplementation une maitrise frontend (JavaScript) et backend (NodeJS, containers e.g Docker) necessaire.
+
+Ces outils sont utilises en test (equipe innovation) au Parlement Europeen.
+
+Intervenant : Fabien Benetou.
    
 ** 3 février : Présentation d'[[https://www.osuny.org][Osuny]]
    SCHEDULED: <2023-02-03 ven. 11:00-12:30>
