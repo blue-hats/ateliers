@@ -18,11 +18,14 @@ Intervenante : Stéphanie Dauthel.
 
 Résumé : TBD.
 
-** 17 février : Libre
+** 17 février : Metaverse
    SCHEDULED: <2023-02-17 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       4d5b15ef-2bb7-41a9-8fef-462f1aec7046
    :END:
+
+Intervenante : Fabien Benetou.
+   
 ** 3 février : Présentation d'[[https://www.osuny.org][Osuny]]
    SCHEDULED: <2023-02-03 ven. 11:00-12:30>
    :PROPERTIES:
