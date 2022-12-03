@@ -7,7 +7,13 @@
   :END:
 
 ** 31 mars : Libre
+   :PROPERTIES:
+   :ID:       3ca2f091-ca04-45dd-87a0-c7d3a4f9619c
+   :END:
 ** 17 mars : Libre
+   :PROPERTIES:
+   :ID:       586d2b25-dfa3-4203-8f7a-90284757e8f7
+   :END:
 ** 3 mars : Présentation des évolutions d'atlaSanté
    SCHEDULED: <2023-03-03 ven. 11:00-12:30>
    :PROPERTIES:
