@@ -96,7 +96,7 @@ personnes.
    :ID:       7e20fbd3-3326-4395-84c2-e178c31f3a1b
    :END:
    
-** 9 décembre : Présentation de @codegouvfr/react-dsfr
+** 9 décembre : Présentation de @codegouvfr/react-dsfr 🇫🇷
    SCHEDULED: <2022-12-09 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       ece52908-62d2-11ed-9b6a-0242ac120002
@@ -113,7 +113,9 @@ Venez découvrir cette librairie qui va vous faire adorer le DSFR.
 - ✅ Si vous utilisez TypeScript, vous provitez [[https://2099829344-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fcccd1rMVr8ooPvsgugcw%2Fuploads%2FUp21VsKVEqa9DrxkB3sX%2Ffrcx.gif?alt=media&token=3bc1be6d-8d31-423f-8525-1386bb49c24b][de l'autocomplétion]] et des warnings en cas de faute de frappe.  
 - 🐸 (Bonus) Votre site actuel utilise [[https://mui.org][MUI]]? `react-dsfr` peut le DSFRifier avec un simple provider.  
 
-[[https://github.com/garronej][Joseph Garrone]], Ingéngneur logiciel au pôle logiciel libre d'Etalab.
+[[https://github.com/garronej][Joseph Garrone]], Ingéngneur logiciel au pôle logiciel libre d'Etalab.  
+
+👉11h-12h30 dans [[https://webinaire.numerique.gouv.fr//meeting/signin/362/creator/369/hash/84c9902a44b481830388d5d69c808eb669da0a5b][le salon de visioconférence BlueHats]]👈
    
 ** CANCELED 25 novembre : Présentation PMB
    SCHEDULED: <2022-11-25 ven. 11:00-12:30>
