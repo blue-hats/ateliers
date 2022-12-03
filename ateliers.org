@@ -18,25 +18,41 @@ Intervenante : Stéphanie Dauthel.
 
 Résumé : TBD.
 
-** 17 février : Metaverse
+** 17 février : Implémentations libres pour le metaverse
    SCHEDULED: <2023-02-17 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       4d5b15ef-2bb7-41a9-8fef-462f1aec7046
    :END:
    
-On entend parler de metaverse de plus en plus, autant au niveau commercial que plus recemment au niveau legislatif. Derriere ce terme abstrait il existe pourtant deja des implementations et en particuler des implementations libres basees sur des standards et interroperable. Le but de cet atelier et de decouvrir lesquelles, avec quels avantages et limites, et comment les mettre en place.
+On entend parler de metaverse de plus en plus, autant au niveau
+commercial que plus récemment au niveau legislatif.  Derrière ce terme
+abstrait il existe déjà des implémentations et en particuler des
+implémentations libres basées sur des standards intéropérables.  Le
+but de cet atelier et de découvrir lesquelles, avec quels avantages et
+limites, et comment les mettre en place.
 
-Mozilla Hubs : solution complete, clef en main, libre et geree par Mozilla.
+Mozilla Hubs : solution complète, clef en main, libre et gérée par
+Mozilla.
 
-Networked AFrame : couche uniquement reseau pour qu'un objet en 3D, et potentiellement la voix et la video, puisse s'afficher de facon coherente sur les ordinateurs ou casques VR et AR de tous les participants.
+Networked AFrame : couche uniquement réseau pour qu'un objet en 3D, et
+potentiellement la voix et la vidéo, puissent s'afficher de façon
+cohérente sur les ordinateurs ou casques VR et AR de tous les
+participants.
 
-ImmerSpace : couche uniquement federatrice, gestion de profile avec des meta-donnees associes, permettant de connecter plusieurs serveurs avec des implementations independantes e.g Mozilla Hubs, Networked AFrames, FrameVR, etc.
+ImmerSpace : couche uniquement fédératrice, gestion de profils avec
+des méta-données associées, permettant de connecter plusieurs serveurs
+avec des implémentations indépendantes par exemple Mozilla Hubs,
+Networked AFrames, FrameVR, etc.
 
-Dedie a tout publique pour l'introduction, en particulier l'architecture, mais pour l'limplementation une maitrise frontend (JavaScript) et backend (NodeJS, containers e.g Docker) necessaire.
+Dédié à tout public pour l'introduction, en particulier
+l'architecture ; pour l'implémentation une maîtrise du /frontend/
+(JavaScript) et du /backend/ (NodeJS, /containers/ par ex. Docker)
+nécessaire.
 
-Ces outils sont utilises en test (equipe innovation) au Parlement Europeen.
+Ces outils sont utilisés en test par l'équipe innovation du Parlement
+Européen.
 
-Intervenant : Fabien Benetou.
+Intervenant : Fabien Benetou
    
 ** 3 février : Présentation d'[[https://www.osuny.org][Osuny]]
    SCHEDULED: <2023-02-03 ven. 11:00-12:30>
