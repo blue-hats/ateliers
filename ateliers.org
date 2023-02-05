@@ -10,10 +10,12 @@
    :PROPERTIES:
    :ID:       3ca2f091-ca04-45dd-87a0-c7d3a4f9619c
    :END:
-** 17 mars : Libre
+
+** 17 mars : mars : Présentation de Khartis de l'atelier de cartographie de Sciences Po
    :PROPERTIES:
    :ID:       586d2b25-dfa3-4203-8f7a-90284757e8f7
    :END:
+
 ** 3 mars : Présentation des évolutions d'atlaSanté
    SCHEDULED: <2023-03-03 ven. 11:00-12:30>
    :PROPERTIES:
@@ -60,7 +62,7 @@ Européen.
 
 Intervenant : Fabien Benetou
    
-** 3 février : Présentation d'[[https://www.osuny.org][Osuny]]
+** DONE 3 février : Présentation d'[[https://www.osuny.org][Osuny]]
    SCHEDULED: <2023-02-03 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       7d92e667-7b5e-4e9b-8f84-08a9f43ebd15
@@ -72,13 +74,13 @@ Osuny est une solution en source ouverte permettant au monde de l'Enseignement S
 
 Intervenant: [[https://github.com/arnaudlevy][Arnaud Levy]]
 
-** 20 janvier : Présentation de la contribution de l'État à Samba
+** DONE 20 janvier : Présentation de la contribution de l'État à Samba
    SCHEDULED: <2023-01-20 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       689a45e6-4668-4ac2-a7bb-7e743112bfc2
    :END:
 
-** 6 janvier : Présentation de https://github.com/DGAC/inseca
+** DONE 6 janvier : Présentation de https://github.com/DGAC/inseca
    SCHEDULED: <2023-01-06 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       dc86234d-4422-43f2-9829-2dab192fb886
@@ -112,13 +114,13 @@ personnes.
   :ID:       4ee2e336-8ae9-400d-810b-c1a5c173add6
   :END:
 
-** 23 décembre : Pas d'atelier BlueHats
+** DONE 23 décembre : Pas d'atelier BlueHats
    SCHEDULED: <2022-12-23 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       7e20fbd3-3326-4395-84c2-e178c31f3a1b
    :END:
    
-** 9 décembre : Présentation de @codegouvfr/react-dsfr 🇫🇷
+** DONE 9 décembre : Présentation de @codegouvfr/react-dsfr 🇫🇷
    SCHEDULED: <2022-12-09 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       ece52908-62d2-11ed-9b6a-0242ac120002
