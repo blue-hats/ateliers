@@ -6,34 +6,30 @@
   :ID:       320a0c70-7e0d-4244-b756-ee99bf34e8b5
   :END:
 
-** 31 mars : Libre
+
+** 26 mai : libre
+   :PROPERTIES:
+   :ID:       666c897c-6a3a-49b1-bfbe-ad5660688390
+   :END:
+** 12 mai : libre
+   :PROPERTIES:
+   :ID:       776fb511-a8ef-4c67-a489-1ca180869743
+   :END:
+** 28 avril : libre
+   :PROPERTIES:
+   :ID:       823404f7-7b80-4c43-8962-40159896ce84
+   :END:
+** 14 avril : libre
+   :PROPERTIES:
+   :ID:       f4d3cb91-896a-4550-a8c7-48ec114787b7
+   :END:
+** 31 mars : Implémentations libres pour le metaverse
    :PROPERTIES:
    :ID:       3ca2f091-ca04-45dd-87a0-c7d3a4f9619c
    :END:
 
-** 17 mars : mars : Présentation de Khartis de l'Atelier de cartographie de Sciences Po
-   :PROPERTIES:
-   :ID:       586d2b25-dfa3-4203-8f7a-90284757e8f7
-   :END:
+/Intervenant : Fabien Benetou/
 
-Voir https://www.sciencespo.fr/cartographie/khartis/.
-
-** 3 mars : Présentation des évolutions d'atlaSanté
-   SCHEDULED: <2023-03-03 ven. 11:00-12:30>
-   :PROPERTIES:
-   :ID:       dc80d464-2fe5-4e3b-b8f6-b24ccf0c2f5e
-   :END:
-
-Intervenante : Stéphanie Dauthel.
-
-Résumé : TBD.
-
-** 17 février : Implémentations libres pour le metaverse
-   SCHEDULED: <2023-02-17 ven. 11:00-12:30>
-   :PROPERTIES:
-   :ID:       4d5b15ef-2bb7-41a9-8fef-462f1aec7046
-   :END:
-   
 On entend parler de metaverse de plus en plus, autant au niveau
 commercial que plus récemment au niveau legislatif.  Derrière ce terme
 abstrait il existe déjà des implémentations et en particuler des
@@ -62,7 +58,28 @@ nécessaire.
 Ces outils sont utilisés en test par l'équipe innovation du Parlement
 Européen.
 
-Intervenant : Fabien Benetou
+** 17 mars : mars : Présentation de Khartis de l'Atelier de cartographie de Sciences Po
+   :PROPERTIES:
+   :ID:       586d2b25-dfa3-4203-8f7a-90284757e8f7
+   :END:
+
+Voir https://www.sciencespo.fr/cartographie/khartis/.
+
+** 3 mars : Présentation des évolutions d'atlaSanté
+   SCHEDULED: <2023-03-03 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       dc80d464-2fe5-4e3b-b8f6-b24ccf0c2f5e
+   :END:
+
+Intervenante : Stéphanie Dauthel.
+
+Résumé : TBD.
+
+** CANCELED 17 février : ANNULÉ - Implémentations libres pour le metaverse
+   SCHEDULED: <2023-02-17 ven. 11:00-12:30>
+   :PROPERTIES:
+   :ID:       4d5b15ef-2bb7-41a9-8fef-462f1aec7046
+   :END:
    
 ** DONE 3 février : Présentation d'[[https://www.osuny.org][Osuny]]
    SCHEDULED: <2023-02-03 ven. 11:00-12:30>
