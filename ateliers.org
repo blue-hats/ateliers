@@ -19,10 +19,15 @@
    :PROPERTIES:
    :ID:       823404f7-7b80-4c43-8962-40159896ce84
    :END:
-** 14 avril : libre
+** 14 avril : Présentation des évolutions d'atlaSanté
    :PROPERTIES:
    :ID:       f4d3cb91-896a-4550-a8c7-48ec114787b7
    :END:
+
+Intervenante : Stéphanie Dauthel.
+
+Résumé : TBD.
+
 ** 31 mars : Implémentations libres pour le metaverse
    :PROPERTIES:
    :ID:       3ca2f091-ca04-45dd-87a0-c7d3a4f9619c
@@ -65,7 +70,7 @@ Européen.
 
 Voir https://www.sciencespo.fr/cartographie/khartis/.
 
-** 3 mars : Présentation des évolutions d'atlaSanté
+** CANCELED 3 mars : Présentation des évolutions d'atlaSanté
    SCHEDULED: <2023-03-03 ven. 11:00-12:30>
    :PROPERTIES:
    :ID:       dc80d464-2fe5-4e3b-b8f6-b24ccf0c2f5e
