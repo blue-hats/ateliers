@@ -26,7 +26,14 @@
 
 Intervenante : Stéphanie Dauthel.
 
-Résumé : TBD.
+AtlaSanté est, depuis 10 ans, le portail d'informations géographiques
+mutualisé des Agences régionales de Santé et du ministère de la santé
+et de la prévention. Véritable outil d'aide à la décision en matière
+de santé et d'environnement pour un territoire donné, il met à
+disposition de ses utilisateurs des cartes thématiques basées sur
+Prodige, des observatoires géostatistiques et des portraits de
+territoires basés sur Géoclip pour ainsi valoriser les données
+géographiques socio-sanitaires et d'environnement.
 
 ** 31 mars : Implémentations libres pour le metaverse
    :PROPERTIES:
