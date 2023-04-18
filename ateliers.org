@@ -81,11 +81,3 @@ nécessaire.
 
 Ces outils sont utilisés en test par l'équipe innovation du Parlement
 Européen.
-
-** 17 mars : mars : Présentation de Khartis de l'Atelier de cartographie de Sciences Po
-   :PROPERTIES:
-   :ID:       586d2b25-dfa3-4203-8f7a-90284757e8f7
-   :END:
-
-Voir https://www.sciencespo.fr/cartographie/khartis/.
-
