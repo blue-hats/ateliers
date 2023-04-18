@@ -7,8 +7,17 @@
   :END:
 
 ** 7 juillet : libre
+   :PROPERTIES:
+   :ID:       6d2d60a5-bb3d-420e-a81b-347cfd1c39dc
+   :END:
 ** 23 juin : libre
+   :PROPERTIES:
+   :ID:       53949cb1-0452-41a9-98e1-fd375aedd56b
+   :END:
 ** 9 juin : libre
+   :PROPERTIES:
+   :ID:       5a9f0f88-f656-47df-9972-545640fc425f
+   :END:
 ** 26 mai : libre
    :PROPERTIES:
    :ID:       666c897c-6a3a-49b1-bfbe-ad5660688390
@@ -22,7 +31,7 @@
    :PROPERTIES:
    :ID:       823404f7-7b80-4c43-8962-40159896ce84
    :END:
-** CANCELED 14 avril : Présentation des évolutions d'atlaSanté
+** 14 avril : Présentation des évolutions d'atlaSanté (reporté)
    :PROPERTIES:
    :ID:       f4d3cb91-896a-4550-a8c7-48ec114787b7
    :END:
@@ -38,7 +47,7 @@ Prodige, des observatoires géostatistiques et des portraits de
 territoires basés sur Géoclip pour ainsi valoriser les données
 géographiques socio-sanitaires et d'environnement.
 
-** 31 mars : Implémentations libres pour le metaverse
+** 31 mars : Implémentations libres pour le metaverse (reporté)
    :PROPERTIES:
    :ID:       3ca2f091-ca04-45dd-87a0-c7d3a4f9619c
    :END:
