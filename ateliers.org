@@ -6,6 +6,9 @@
   :ID:       320a0c70-7e0d-4244-b756-ee99bf34e8b5
   :END:
 
+** 7 juillet : libre
+** 23 juin : libre
+** 9 juin : libre
 ** 26 mai : libre
    :PROPERTIES:
    :ID:       666c897c-6a3a-49b1-bfbe-ad5660688390
@@ -19,7 +22,7 @@
    :PROPERTIES:
    :ID:       823404f7-7b80-4c43-8962-40159896ce84
    :END:
-** 14 avril : Présentation des évolutions d'atlaSanté
+** CANCELED 14 avril : Présentation des évolutions d'atlaSanté
    :PROPERTIES:
    :ID:       f4d3cb91-896a-4550-a8c7-48ec114787b7
    :END:
