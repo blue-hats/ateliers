@@ -14,7 +14,7 @@
    :PROPERTIES:
    :ID:       53949cb1-0452-41a9-98e1-fd375aedd56b
    :END:
-** 9 juin : libre
+** 9 juin : Présentation de l'interface d'explicabilité de Catala
    :PROPERTIES:
    :ID:       5a9f0f88-f656-47df-9972-545640fc425f
    :END:
