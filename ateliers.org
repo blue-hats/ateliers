@@ -22,34 +22,10 @@
    :PROPERTIES:
    :ID:       666c897c-6a3a-49b1-bfbe-ad5660688390
    :END:
-** 12 mai : Présentation de [[https://github.com/codegouvfr/react-dsfr][react-dsfr]]
-   :PROPERTIES:
-   :ID:       776fb511-a8ef-4c67-a489-1ca180869743
-   :END:
 
-** 28 avril : libre
+** 19 mai : Implémentations libres pour le metaverse
    :PROPERTIES:
-   :ID:       823404f7-7b80-4c43-8962-40159896ce84
-   :END:
-** 14 avril : Présentation des évolutions d'atlaSanté (reporté)
-   :PROPERTIES:
-   :ID:       f4d3cb91-896a-4550-a8c7-48ec114787b7
-   :END:
-
-Intervenante : Stéphanie Dauthel.
-
-AtlaSanté est, depuis 10 ans, le portail d'informations géographiques
-mutualisé des Agences régionales de Santé et du ministère de la santé
-et de la prévention. Véritable outil d'aide à la décision en matière
-de santé et d'environnement pour un territoire donné, il met à
-disposition de ses utilisateurs des cartes thématiques basées sur
-Prodige, des observatoires géostatistiques et des portraits de
-territoires basés sur Géoclip pour ainsi valoriser les données
-géographiques socio-sanitaires et d'environnement.
-
-** 31 mars : Implémentations libres pour le metaverse (reporté)
-   :PROPERTIES:
-   :ID:       3ca2f091-ca04-45dd-87a0-c7d3a4f9619c
+   :ID:       d85557ad-1ca2-483d-b726-08063226d9fe
    :END:
 
 /Intervenant : Fabien Benetou/
@@ -81,3 +57,29 @@ nécessaire.
 
 Ces outils sont utilisés en test par l'équipe innovation du Parlement
 Européen.
+
+** 12 mai : Présentation de [[https://github.com/codegouvfr/react-dsfr][react-dsfr]]
+   :PROPERTIES:
+   :ID:       776fb511-a8ef-4c67-a489-1ca180869743
+   :END:
+
+** 28 avril : libre
+   :PROPERTIES:
+   :ID:       823404f7-7b80-4c43-8962-40159896ce84
+   :END:
+** 14 avril : Présentation des évolutions d'atlaSanté (reporté)
+   :PROPERTIES:
+   :ID:       f4d3cb91-896a-4550-a8c7-48ec114787b7
+   :END:
+
+/Intervenante : Stéphanie Dauthel./
+
+AtlaSanté est, depuis 10 ans, le portail d'informations géographiques
+mutualisé des Agences régionales de Santé et du ministère de la santé
+et de la prévention. Véritable outil d'aide à la décision en matière
+de santé et d'environnement pour un territoire donné, il met à
+disposition de ses utilisateurs des cartes thématiques basées sur
+Prodige, des observatoires géostatistiques et des portraits de
+territoires basés sur Géoclip pour ainsi valoriser les données
+géographiques socio-sanitaires et d'environnement.
+
