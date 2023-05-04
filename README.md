@@ -37,12 +37,8 @@ Ateliers #BlueHats
   
 ## Comment suivre le calendrier ?
 
-Vous pouvez consulter [cette page
-web](https://box.bzg.io/cloud/index.php/apps/calendar/p/Lt2cGqsFS82mjkWL)
-et suivre les modifications de ce dépôt.
-
 Vous pouvez aussi [vous abonner à la gazette
-BlueHats](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio)
+BlueHats](https://code.gouv.fr/newsletters/subscribe/bluehats@mail.etalab.studio)
 où sont annoncés les ateliers.
 
 ## Comment proposer un atelier ?
