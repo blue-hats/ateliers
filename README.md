@@ -6,8 +6,8 @@ Ateliers #BlueHats
 ## Que sont les « ateliers #BlueHats » ?
 
 - des ateliers organisés à l'initiative des [référents
-  SILL](https://disic.github.io/sill/index.html) sur des logiciels
-  libres du [SILL](https://sill.etalab.gouv.fr/) ;
+  SILL](https://sill.code.gouv.fr/readme) sur des logiciels
+  libres du [SILL](https://sill.code.gouv.fr/) ;
 
 - des ateliers organisés par des personnes extérieures pour présenter
   une solution qui figure au [SILL](https://sill.etalab.gouv.fr/) ;
